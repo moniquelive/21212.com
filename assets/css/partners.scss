@@ -1,0 +1,209 @@
+---
+---
+
+.topfounders {
+    h2 {
+        font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+        color: #999;
+        text-align: center;
+        font-size: 48px;
+        margin: 20px 0;
+        padding: 0 20px;
+        text-transform: uppercase;
+        display: inline;
+        background: #fff;
+        position: relative;
+        z-index: 40
+    }
+    h2.team {
+        font-size: 40px
+    }
+}
+
+ul.topfounders {
+    list-style: none;
+    width: 940px;
+    height: 227px;
+    margin-bottom: 50px;
+    margin-left: 0;
+
+    li {
+        width: 460px;
+        height: 230px;
+        background-color: #f8f8f8;
+        float: left;
+
+        &:first-child {
+            margin-right: 20px;
+        }
+
+        .img {
+            float: left;
+            position: relative;
+            z-index: 20;
+        }
+
+        .info {
+            display: block;
+            float: left;
+            width: 204px;
+            height: 217px;
+            margin: 0 13px 13px;
+
+            a {
+                width: 197px;
+                height: 200px;
+                padding: 10px;
+                margin: 0;
+                font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+                font-size: 15px;
+                position: absolute;
+
+                span.class {
+                    display: block;
+                    color: #666;
+                    font-size: 12px;
+                    font-weight: 400;
+                    text-transform: uppercase;
+                    margin: 0
+                }
+
+                span.title {
+                    display: block;
+                    color: #266eb9;
+                    font-size: 19px;
+                    font-weight: 700;
+                    line-height: 0;
+                    text-transform: uppercase;
+                    margin: 22px 0 15px
+                }
+
+                span.desc {
+                    display: block;
+                    color: #666;
+                    font-size: 15px;
+                    line-height: 18px;
+                    margin-top: 11px
+                }
+
+                span.role {
+                    color: #266eb9;
+                    font-size: 15px;
+                    line-height: 16px;
+                    font-weight: 400;
+                    margin: 0
+                }
+
+                span.company {
+                    color: #266eb9;
+                    font-size: 15px;
+                    line-height: 16px;
+                    font-weight: 400;
+                    margin: 0
+                }
+
+                span.more {
+                    color: #266eb9;
+                    font-size: 12px;
+                    font-weight: 400;
+                    text-transform: uppercase;
+                    padding: 0 10px 13px 0;
+                    text-decoration: none;
+                    position: absolute;
+                    bottom: 0;
+                    left: 10px
+                }
+            }
+        }
+    }
+}
+
+ul.topfounders li .info a:hover,
+ul.founders li .info a:hover {
+    display: block;
+    text-decoration: none
+}
+
+ul.founders {
+    width: 940px;
+    height: 325px;
+    margin-bottom: 60px;
+
+    .img {
+        position: relative;
+        z-index: 20;
+    }
+
+    li {
+        width: 197px;
+        height: 353px;
+        float: left;
+        margin-left: 50px;
+        background-color: #f8f8f8;
+        opacity: 1;
+
+        &:first-child {
+            margin: 0;
+        }
+
+        .info {
+            a {
+                width: 177px;
+                height: 128px;
+                padding: 10px;
+                margin: 0;
+                font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+                font-size: 15px;
+                position: absolute;
+
+                span.title {
+                    display: block;
+                    color: #266eb9;
+                    font-size: 15px;
+                    line-height: 18px;
+                    font-weight: 700;
+                    text-transform: uppercase;
+                    margin: 0 0 2px;
+                }
+
+                span.role {
+                    color: #266eb9;
+                    font-size: 14px;
+                    line-height: 16px;
+                    font-weight: 400;
+                    margin: 0;
+                }
+
+                span.desc {
+                    display: block;
+                    color: #666;
+                    font-size: 15px;
+                    line-height: 18px;
+                    margin-top: 6px;
+                }
+
+                span.more {
+                    color: #266eb9;
+                    font-size: 12px;
+                    font-weight: 400;
+                    text-transform: uppercase;
+                    padding: 9px 10px 0 0;
+                    text-decoration: none;
+                    position: absolute;
+                    bottom: 0;
+                    left: 10px;
+                }
+            }
+        }
+    }
+}
+
+ul.founders li:hover,
+ul.topfounders li:hover {
+    text-decoration: none;
+    -webkit-transition: all .31s linear;
+    -moz-transition: all .31s linear;
+    -ms-transition: all .31s linear;
+    -o-transition: all .31s linear;
+    transition: all .31s linear
+}
