@@ -1,6 +1,27 @@
 ---
 ---
 
+@import "{{ site.theme }}";
+
+.partner {
+    img {
+        float: left;
+        margin: 0 20px 10px 0;
+        border: 1px solid #eee;
+        width: 200px;
+    }
+    h4 {
+        span {
+            color: #266eb9;
+        }
+    }
+}
+
+
+ul {
+    list-style: none;
+}
+
 .topfounders {
     h2 {
         font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
@@ -21,7 +42,6 @@
 }
 
 ul.topfounders {
-    list-style: none;
     width: 940px;
     height: 227px;
     margin-bottom: 50px;

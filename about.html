@@ -3,8 +3,6 @@ layout: default
 title: About
 permalink: /about/
 ---
-<link rel="stylesheet" href="{{"/assets/css/partners.css" | absolute_url}}">
-
 <h1 style="text-align: center">Founders</h1>
 <br>
 
@@ -33,6 +31,21 @@ permalink: /about/
 <ul class="founders">
 {% for partner in site.partners %}
 {% unless partner.stick %}
+<li>
+    <a href="{{ partner.url | prepend: site.baseurl }}">
+        <div class="img">
+            <img class="orig" width="197" height="197" src="{{ partner.picture }}">
+        </div>
+    </a>
+    <div class="info">
+        <a href="{{ partner.url | prepend: site.baseurl }}">
+            <span class="title">{{ partner.name }}</span>
+            <span class="role">{{ partner.role }}</span>
+            <span class="desc">{{ partner.content | strip_html | slice: 0, 70 }}...</span>
+            <span class="more">+ More</span>
+        </a>
+    </div>
+</li>
 {% endunless %}
 {% endfor %}
 </ul>
