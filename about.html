@@ -49,3 +49,17 @@ permalink: /about/
 {% endunless %}
 {% endfor %}
 </ul>
+
+<script>
+    const ext_over = '__.jpg';
+    const ext_out = '.jpg';
+    const imgs = document.getElementsByTagName('img');
+    for (const el of imgs) {
+        el.onmouseover = () => {
+            el.src = el.src.replace(ext_out, ext_over);
+        };
+        el.onmouseout = () => {
+            el.src = el.src.replace(ext_over, ext_out);
+        };
+    }
+</script>
