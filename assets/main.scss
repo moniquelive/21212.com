@@ -3,6 +3,17 @@
 
 @import "{{ site.theme }}";
 
+.page-content {
+    .wrapper {
+        margin: 0 auto;
+        padding: 0;
+    }
+}
+
+.header-logo {
+    margin: 20px 0;
+}
+
 .partner {
     img {
         float: left;
@@ -45,7 +56,7 @@ ul.topfounders {
     width: 940px;
     height: 227px;
     margin-bottom: 50px;
-    margin-left: 0;
+    margin-left: auto;
 
     li {
         width: 460px;
@@ -148,6 +159,7 @@ ul.founders {
     width: 940px;
     height: 325px;
     margin-bottom: 60px;
+    margin-left: auto;
 
     .img {
         position: relative;
