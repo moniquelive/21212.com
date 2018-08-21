@@ -5,7 +5,7 @@ image: /assets/images/logo.png
 
 # 21212 – Novo Posicionamento
 
-#### _Read this article [in english](index.en)_
+#### _Read this article [in english]({% link index.en.md %})_
 
 A **21212** foi idealizada por empreendedores para empreendedores. Criada em 2011 com o objetivo de ajudar empreendedores a criar valor no crescente mercado digital brasileiro, a **21212** foi a primeira aceleradora de startups digitais do país.
 

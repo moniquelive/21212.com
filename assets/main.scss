@@ -29,10 +29,6 @@
 }
 
 
-ul {
-    list-style: none;
-}
-
 .topfounders {
     h2 {
         font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
@@ -53,6 +49,7 @@ ul {
 }
 
 ul.topfounders {
+    list-style: none;
     width: 940px;
     height: 227px;
     margin-bottom: 50px;
@@ -156,6 +153,7 @@ ul.founders li .info a:hover {
 }
 
 ul.founders {
+    list-style: none;
     width: 940px;
     height: 325px;
     margin-bottom: 60px;
