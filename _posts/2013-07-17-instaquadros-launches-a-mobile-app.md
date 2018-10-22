@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/07/instaquadrosthumb.jpg
+image: /assets/wp-content/uploads/2013/07/instaquadrosthumb.jpg
 categories:
   - Blog
   - com-thumb
@@ -22,7 +22,7 @@ categories:
 Artists and photo lovers can print their work for their own personalized decorations or utilize the platform to promote and sell their work for profit. For any art that is purchased to be printed, Instaquadros takes care of the entire process and the artist receives a percentage of the profit.   Take a look at some of the photos that were recently uploaded to the platform:
 
 <p style="text-align: center;">
-  <a href="http://local.21212.com/wp-content/uploads/2013/07/instaquadros5.jpg"><img class="size-full wp-image-6430 aligncenter" alt="instaquadros" src="http://local.21212.com/wp-content/uploads/2013/07/instaquadros5.jpg" width="500" height="497" srcset="http://localhost:8080/wp-content/uploads/2013/07/instaquadros5.jpg 500w, http://localhost:8080/wp-content/uploads/2013/07/instaquadros5-150x150.jpg 150w, http://localhost:8080/wp-content/uploads/2013/07/instaquadros5-300x298.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/07/instaquadros5.jpg"><img class="size-full wp-image-6430 aligncenter" alt="instaquadros" src="{{ site.url }}/assets/wp-content/uploads/2013/07/instaquadros5.jpg" width="500" height="497" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/instaquadros5.jpg 500w, {{ site.url }}/assets/wp-content/uploads/2013/07/instaquadros5-150x150.jpg 150w, {{ site.url }}/assets/wp-content/uploads/2013/07/instaquadros5-300x298.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
 </p>
 
 <p style="text-align: left;">

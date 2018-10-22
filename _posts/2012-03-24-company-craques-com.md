@@ -19,7 +19,7 @@ startup-logo:
 sharing_disabled:
   - "1"
 video-pitch:
-  - '<iframe src="http://player.vimeo.com/video/38881790?title=0&byline=0&portrait=0" width="620" height="349" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>'
+  - '<iframe src="{{ site.url }}http://player.vimeo.com/video/38881790?title=0&byline=0&portrait=0" width="620" height="349" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>'
 bt-download-video:
   - http://vimeo.com/38881790
 categories:

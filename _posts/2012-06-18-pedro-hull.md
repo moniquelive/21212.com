@@ -20,7 +20,7 @@ company:
   - Queremos
 startup:
   - "2535"
-image: /wp-content/uploads/2011/10/pedro-hull.jpg
+image: /assets/wp-content/uploads/2011/10/pedro-hull.jpg
 categories:
   - people
 ---

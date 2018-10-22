@@ -14,13 +14,13 @@ fv_video_img:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2013/05/oficializethumb.jpg
+image: /assets/wp-content/uploads/2013/05/oficializethumb.jpg
 categories:
   - Blog
   - com-thumb
 ---
 <p style="text-align: center;">
-  <a href="http://local.21212.com/wp-content/uploads/2013/05/oficializemain2.jpg"><img class="wp-image-6102 aligncenter" alt="oficializemain2" src="http://local.21212.com/wp-content/uploads/2013/05/oficializemain2.jpg" width="518" height="128" srcset="http://localhost:8080/wp-content/uploads/2013/05/oficializemain2.jpg 575w, http://localhost:8080/wp-content/uploads/2013/05/oficializemain2-300x74.jpg 300w" sizes="(max-width: 518px) 100vw, 518px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/05/oficializemain2.jpg"><img class="wp-image-6102 aligncenter" alt="oficializemain2" src="{{ site.url }}/assets/wp-content/uploads/2013/05/oficializemain2.jpg" width="518" height="128" srcset="{{ site.url }}/assets/wp-content/uploads/2013/05/oficializemain2.jpg 575w, {{ site.url }}/assets/wp-content/uploads/2013/05/oficializemain2-300x74.jpg 300w" sizes="(max-width: 518px) 100vw, 518px" /></a>
 </p>
 
 <p dir="ltr">

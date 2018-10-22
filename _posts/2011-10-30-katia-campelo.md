@@ -26,7 +26,7 @@ company:
   - Espaço de oratória Kátia Campelo
 startup:
   - ""
-image: /wp-content/uploads/2011/10/KatiaCampelo-e1319993804581.jpg
+image: /assets/wp-content/uploads/2011/10/KatiaCampelo-e1319993804581.jpg
 categories:
   - people
 tags:

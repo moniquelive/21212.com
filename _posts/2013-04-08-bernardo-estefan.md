@@ -22,7 +22,7 @@ company:
   - Oi
 startup:
   - ""
-image: /wp-content/uploads/2013/04/BernardoEstefan.jpg
+image: /assets/wp-content/uploads/2013/04/BernardoEstefan.jpg
 categories:
   - people
 ---

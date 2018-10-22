@@ -30,7 +30,7 @@ company:
   - 21212 Digital Accelerator
 startup:
   - ""
-image: /wp-content/uploads/2013/01/MarceloSales.jpg
+image: /assets/wp-content/uploads/2013/01/MarceloSales.jpg
 categories:
   - people
 ---

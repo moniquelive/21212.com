@@ -26,7 +26,7 @@ company:
   - Brandship
 startup:
   - "812"
-image: /wp-content/uploads/2012/06/ironman.jpg
+image: /assets/wp-content/uploads/2012/06/ironman.jpg
 categories:
   - people
 tags:

@@ -15,12 +15,12 @@ tags:
   - entrepreneur
   - steve jobs
 ---
-<img class="aligncenter size-full wp-image-697" src="http://local.21212.com/wp-content/uploads/2011/10/Stay-Hungry-Stay-Foolish-e1318014397340.jpg" alt="" width="540" height="304" srcset="http://localhost:8080/wp-content/uploads/2011/10/Stay-Hungry-Stay-Foolish-e1318014397340.jpg 540w, http://localhost:8080/wp-content/uploads/2011/10/Stay-Hungry-Stay-Foolish-e1318014397340-300x168.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
+<img class="aligncenter size-full wp-image-697" src="{{ site.url }}/assets/wp-content/uploads/2011/10/Stay-Hungry-Stay-Foolish-e1318014397340.jpg" alt="" width="540" height="304" srcset="{{ site.url }}/assets/wp-content/uploads/2011/10/Stay-Hungry-Stay-Foolish-e1318014397340.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2011/10/Stay-Hungry-Stay-Foolish-e1318014397340-300x168.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
 
 _Texto de Andre Nakamura, empreendedor 21212._
 
 O máximo que vamos conseguir fazer para ficarmos mais parecidos com o Steve Jobs é vestir uma camiseta preta, uma calça jeans e tenis.
-  
+
 <!--more ..curioso? Leia aqui!-->
 
 Não precisamos tentar fazer aula de tipografia para criar novas fontes para novos computadores.

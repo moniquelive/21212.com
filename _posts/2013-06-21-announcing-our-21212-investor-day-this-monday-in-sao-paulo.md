@@ -14,27 +14,27 @@ fv_video_img:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2013/06/thumbinvestorday.jpg
+image: /assets/wp-content/uploads/2013/06/thumbinvestorday.jpg
 categories:
   - Blog
   - com-thumb
 ---
 <p dir="ltr" style="text-align: center;">
-  <span style="color: #ff0000;"><a href="http://local.21212.com/wp-content/uploads/2013/06/header.jpg"><img class="size-full wp-image-6219 aligncenter" alt="header" src="http://local.21212.com/wp-content/uploads/2013/06/header.jpg" width="540" height="245" srcset="http://localhost:8080/wp-content/uploads/2013/06/header.jpg 540w, http://localhost:8080/wp-content/uploads/2013/06/header-300x136.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a></span>
+  <span style="color: #ff0000;"><a href="http://local.21212.com/assets/wp-content/uploads/2013/06/header.jpg"><img class="size-full wp-image-6219 aligncenter" alt="header" src="{{ site.url }}/assets/wp-content/uploads/2013/06/header.jpg" width="540" height="245" srcset="{{ site.url }}/assets/wp-content/uploads/2013/06/header.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/06/header-300x136.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a></span>
 </p>
 
 <p dir="ltr">
   This Monday, June 24th, we will be holding our fourth Investor Day! For the first time ever we are switching the scene and taking our team of entrepreneurs and staff to São Paulo! Eight 21212 startups will be pitching to an international gathering of over 200 VC’s, seed funds and angel investors, including the local investment community and the reputable investment funds <a href="http://rpev.com.br/">Redpoint eVentures</a>, <a href="http://www.performainvestimentos.com/eng/">Performa Investimentos</a> and <a href="http://www.initial.vc/pt.php">Initial Capital</a>. We would also like to give a big thanks to <a href="http://aws.amazon.com/">AWS</a>, our gold sponsor,<a href="http://www.movile.com/en/"> Movile</a>, our supporting sponsor, and <a href="http://www.anjosdobrasil.net/">Anjos do Brasil</a> and <a href="http://www.insper.edu.br/">Insper</a>, our event partners.
 </p>
 
-<img class="size-full wp-image-6221 alignleft" alt="AWS" src="http://local.21212.com/wp-content/uploads/2013/06/AWS.jpg" width="248" height="123" />
+<img class="size-full wp-image-6221 alignleft" alt="AWS" src="{{ site.url }}/assets/wp-content/uploads/2013/06/AWS.jpg" width="248" height="123" />
 
 <p dir="ltr">
   Our Investor Day represents a significant moment for our startups participating in our Acceleration Program, giving them the chance to present their results after months of hard work, drive and motivation. It is more than just an opportunity to potentially secure further funding, but also a time to exchange ideas, engage with knowledgeable and experienced people and continue the process of learning and gaining valuable insight.
 </p>
 
 <p dir="ltr" style="text-align: center;">
-  <a href="http://local.21212.com/wp-content/uploads/2013/06/logos-sponsors.png"><img class=" wp-image-6233 aligncenter" alt="logos-sponsors" src="http://local.21212.com/wp-content/uploads/2013/06/logos-sponsors.png" width="459" height="270" srcset="http://localhost:8080/wp-content/uploads/2013/06/logos-sponsors.png 510w, http://localhost:8080/wp-content/uploads/2013/06/logos-sponsors-300x176.png 300w" sizes="(max-width: 459px) 100vw, 459px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/06/logos-sponsors.png"><img class=" wp-image-6233 aligncenter" alt="logos-sponsors" src="{{ site.url }}/assets/wp-content/uploads/2013/06/logos-sponsors.png" width="459" height="270" srcset="{{ site.url }}/assets/wp-content/uploads/2013/06/logos-sponsors.png 510w, {{ site.url }}/assets/wp-content/uploads/2013/06/logos-sponsors-300x176.png 300w" sizes="(max-width: 459px) 100vw, 459px" /></a>
 </p>
 
 <p dir="ltr">

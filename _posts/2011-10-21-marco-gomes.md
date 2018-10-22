@@ -26,7 +26,7 @@ company:
   - Boo-box
 startup:
   - ""
-image: /wp-content/uploads/2011/10/Marco-Gomes-e1319042717444.jpg
+image: /assets/wp-content/uploads/2011/10/Marco-Gomes-e1319042717444.jpg
 categories:
   - people
 ---

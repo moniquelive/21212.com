@@ -20,7 +20,7 @@ company:
   - Craques
 startup:
   - "822"
-image: /wp-content/uploads/2011/10/pedro-gigante.jpg
+image: /assets/wp-content/uploads/2011/10/pedro-gigante.jpg
 categories:
   - people
 ---

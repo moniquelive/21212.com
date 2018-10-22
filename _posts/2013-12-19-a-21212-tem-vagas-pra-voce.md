@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/12/logo21.jpg
+image: /assets/wp-content/uploads/2013/12/logo21.jpg
 categories:
   - Blog
   - sem-thumb

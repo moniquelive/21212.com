@@ -22,7 +22,7 @@ startup-link:
   - http://www.respondeai.com.br/
 startup-descricao:
   - A platform that helps college students study smarter and have better grades.
-image: /wp-content/uploads/2014/06/RespondeAi.jpg
+image: /assets/wp-content/uploads/2014/06/RespondeAi.jpg
 categories:
   - companies
 ---

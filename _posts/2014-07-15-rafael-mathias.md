@@ -20,7 +20,7 @@ company:
   - Zona Universitária
 startup:
   - "2280"
-image: /wp-content/uploads/2014/07/rafael.jpg
+image: /assets/wp-content/uploads/2014/07/rafael.jpg
 categories:
   - people
 ---

@@ -13,19 +13,19 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2012/12/geeks4.jpg
+image: /assets/wp-content/uploads/2012/12/geeks4.jpg
 categories:
   - Blog
   - com-thumb
 ---
 On the 24th and 25th of November 2012, we hosted the third edition of the Geeks on Mocha Hackathon at our office.
 
-[<img src="http://local.21212.com/wp-content/uploads/2012/12/geeks4.jpg" alt="" title="geeks4" width="540" height="300" class="aligncenter size-full wp-image-4491" srcset="http://localhost:8080/wp-content/uploads/2012/12/geeks4.jpg 540w, http://localhost:8080/wp-content/uploads/2012/12/geeks4-300x166.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/wp-content/uploads/2012/12/geeks4.jpg)
+[<img src="{{ site.url }}/assets/wp-content/uploads/2012/12/geeks4.jpg" alt="" title="geeks4" width="540" height="300" class="aligncenter size-full wp-image-4491" srcset="{{ site.url }}/assets/wp-content/uploads/2012/12/geeks4.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2012/12/geeks4-300x166.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/assets/wp-content/uploads/2012/12/geeks4.jpg)
 
 It was a great experience to have around 40 hackers at the 21212 office in a 30 hours event. In between all the pizza eating and energy drinks drinking, they had to work 18 hours straight in order to develop an online game. They were divided in 5 teams to brainstorm about the game&#8217;s plot and code a prototype. We were thrilled to see the results!
 
-[<img src="http://local.21212.com/wp-content/uploads/2012/12/geeks3.jpg" alt="" title="geeks3" width="540" height="300" class="aligncenter size-full wp-image-4490" srcset="http://localhost:8080/wp-content/uploads/2012/12/geeks3.jpg 540w, http://localhost:8080/wp-content/uploads/2012/12/geeks3-300x166.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/wp-content/uploads/2012/12/geeks3.jpg)
+[<img src="{{ site.url }}/assets/wp-content/uploads/2012/12/geeks3.jpg" alt="" title="geeks3" width="540" height="300" class="aligncenter size-full wp-image-4490" srcset="{{ site.url }}/assets/wp-content/uploads/2012/12/geeks3.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2012/12/geeks3-300x166.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/assets/wp-content/uploads/2012/12/geeks3.jpg)
 
-We had a lot of young programmers who were not even in university yet. Even so, in a short period of time, they end up proving to have great potential! 
+We had a lot of young programmers who were not even in university yet. Even so, in a short period of time, they end up proving to have great potential!
 
 Check out some results and further information about the event [on this link](http://www.geeksonmocha.com/?p=1) (in portuguese)!

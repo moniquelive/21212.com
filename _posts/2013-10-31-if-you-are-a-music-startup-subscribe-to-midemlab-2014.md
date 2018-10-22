@@ -12,13 +12,13 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/10/midemlogo2.jpg
+image: /assets/wp-content/uploads/2013/10/midemlogo2.jpg
 categories:
   - Blog
   - com-thumb
 ---
 <p dir="ltr">
-  <a href="http://local.21212.com/wp-content/uploads/2013/10/midemlogo.jpeg"><img class="aligncenter size-full wp-image-6872" alt="midemlogo" src="http://local.21212.com/wp-content/uploads/2013/10/midemlogo.jpeg" width="460" height="307" srcset="http://localhost:8080/wp-content/uploads/2013/10/midemlogo.jpeg 460w, http://localhost:8080/wp-content/uploads/2013/10/midemlogo-300x200.jpeg 300w" sizes="(max-width: 460px) 100vw, 460px" /></a>Have you heard about <a href="http://www.midem.com/programme/">Midemlab 2014</a>? The event that brings together all the music ecosytem will take place at Palais des Festivals in France, from February 1st to 4th and it is dedicated to international startups offering digital solutions for audience engagement and content monetisation that can be used by music companies, artists and brands.
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/10/midemlogo.jpeg"><img class="aligncenter size-full wp-image-6872" alt="midemlogo" src="{{ site.url }}/assets/wp-content/uploads/2013/10/midemlogo.jpeg" width="460" height="307" srcset="{{ site.url }}/assets/wp-content/uploads/2013/10/midemlogo.jpeg 460w, {{ site.url }}/assets/wp-content/uploads/2013/10/midemlogo-300x200.jpeg 300w" sizes="(max-width: 460px) 100vw, 460px" /></a>Have you heard about <a href="http://www.midem.com/programme/">Midemlab 2014</a>? The event that brings together all the music ecosytem will take place at Palais des Festivals in France, from February 1st to 4th and it is dedicated to international startups offering digital solutions for audience engagement and content monetisation that can be used by music companies, artists and brands.
 </p>
 
 <p dir="ltr">
@@ -42,8 +42,8 @@ categories:
 </p>
 
 <div id="attachment_6871" style="width: 550px" class="wp-caption aligncenter">
-  <a href="http://local.21212.com/wp-content/uploads/2013/10/midem2.jpg"><img aria-describedby="caption-attachment-6871" class="size-full wp-image-6871 " alt="MIDEM 2013 - CONFERENCES - INNOVATION FACTORY - MIDEMLAB - THE HOTTEST STARTUPS IN MARKETING & SOCIAL ENGAGEMENT" src="http://local.21212.com/wp-content/uploads/2013/10/midem2.jpg" width="540" height="360" srcset="http://localhost:8080/wp-content/uploads/2013/10/midem2.jpg 540w, http://localhost:8080/wp-content/uploads/2013/10/midem2-300x200.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
-  
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/10/midem2.jpg"><img aria-describedby="caption-attachment-6871" class="size-full wp-image-6871 " alt="MIDEM 2013 - CONFERENCES - INNOVATION FACTORY - MIDEMLAB - THE HOTTEST STARTUPS IN MARKETING & SOCIAL ENGAGEMENT" src="{{ site.url }}/assets/wp-content/uploads/2013/10/midem2.jpg" width="540" height="360" srcset="{{ site.url }}/assets/wp-content/uploads/2013/10/midem2.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/10/midem2-300x200.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+
   <p id="caption-attachment-6871" class="wp-caption-text">
     MidemLab 2013
   </p>

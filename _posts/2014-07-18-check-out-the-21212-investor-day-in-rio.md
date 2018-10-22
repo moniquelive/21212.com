@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/06/thumbinvestorday.jpg
+image: /assets/wp-content/uploads/2013/06/thumbinvestorday.jpg
 categories:
   - Blog
   - com-thumb
@@ -29,15 +29,15 @@ tags:
   - technology
   - yc
 ---
-<img class="aligncenter size-full wp-image-7400" src="http://local.21212.com/wp-content/uploads/2014/07/header-e1405712860636.png" alt="header" width="540" height="90" />
+<img class="aligncenter size-full wp-image-7400" src="{{ site.url }}/assets/wp-content/uploads/2014/07/header-e1405712860636.png" alt="header" width="540" height="90" />
 
 Yesterday we held another edition of our 21212 Investor Day, in Rio de Janeiro. First, we want to thank everyone who was able to make it out to our event. We are fortunate to have such a dedicated, passionate community of entrepreneurs, investors, mentors and staff, and we value the opportunity to bring everyone together.
 
 The event wouldn’t have been possible without our sponsors IBM and Movile, who are supporting our program during 2014.
 
 <div id="attachment_7397" style="width: 550px" class="wp-caption aligncenter">
-  <img aria-describedby="caption-attachment-7397" class="wp-image-7397 size-full" src="http://local.21212.com/wp-content/uploads/2014/07/InvestorsDay-0748-2.jpg" alt="InvestorsDay-0748 2" width="540" height="358" srcset="http://localhost:8080/wp-content/uploads/2014/07/InvestorsDay-0748-2.jpg 540w, http://localhost:8080/wp-content/uploads/2014/07/InvestorsDay-0748-2-300x198.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
-  
+  <img aria-describedby="caption-attachment-7397" class="wp-image-7397 size-full" src="{{ site.url }}/assets/wp-content/uploads/2014/07/InvestorsDay-0748-2.jpg" alt="InvestorsDay-0748 2" width="540" height="358" srcset="{{ site.url }}/assets/wp-content/uploads/2014/07/InvestorsDay-0748-2.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2014/07/InvestorsDay-0748-2-300x198.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
+
   <p id="caption-attachment-7397" class="wp-caption-text">
     Benjamin White and Marcelo Sales from 21212
   </p>
@@ -52,8 +52,8 @@ Two of our 21212 founders, Benjamin White and Marcelo Sales, took the stage t
 We also had the pleasure to welcome one of Y Combinator&#8217;s part-time partners, Michael Seibel, who was previously a successful entrepreneur as founder and CEO of Justin.tv (2007-2011) and Socialcam (2012). <a title="Michael Seibel" href="http://www.michaelseibel.com/" target="_blank">Read more about Michael here</a>.
 
 <div id="attachment_7398" style="width: 550px" class="wp-caption aligncenter">
-  <img aria-describedby="caption-attachment-7398" class="wp-image-7398 size-full" src="http://local.21212.com/wp-content/uploads/2014/07/InvestorsDay-0765-2.jpg" alt="InvestorsDay-0765 2" width="540" height="358" srcset="http://localhost:8080/wp-content/uploads/2014/07/InvestorsDay-0765-2.jpg 540w, http://localhost:8080/wp-content/uploads/2014/07/InvestorsDay-0765-2-300x198.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
-  
+  <img aria-describedby="caption-attachment-7398" class="wp-image-7398 size-full" src="{{ site.url }}/assets/wp-content/uploads/2014/07/InvestorsDay-0765-2.jpg" alt="InvestorsDay-0765 2" width="540" height="358" srcset="{{ site.url }}/assets/wp-content/uploads/2014/07/InvestorsDay-0765-2.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2014/07/InvestorsDay-0765-2-300x198.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
+
   <p id="caption-attachment-7398" class="wp-caption-text">
     Michael Seibel, part-time partnet at Y Combinator
   </p>
@@ -67,7 +67,7 @@ The second part of the event was focused on our companies. Nine companies fro
 
 If you’re interested in investment or partnership opportunities with any of them, please reach out to us at  investors@21212.com.
 
-<img class="aligncenter size-full wp-image-7399" src="http://local.21212.com/wp-content/uploads/2014/07/21212_Companies_001.jpg" alt="21212_Companies_001" width="540" height="677" srcset="http://localhost:8080/wp-content/uploads/2014/07/21212_Companies_001.jpg 540w, http://localhost:8080/wp-content/uploads/2014/07/21212_Companies_001-239x300.jpg 239w" sizes="(max-width: 540px) 100vw, 540px" />
+<img class="aligncenter size-full wp-image-7399" src="{{ site.url }}/assets/wp-content/uploads/2014/07/21212_Companies_001.jpg" alt="21212_Companies_001" width="540" height="677" srcset="{{ site.url }}/assets/wp-content/uploads/2014/07/21212_Companies_001.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2014/07/21212_Companies_001-239x300.jpg 239w" sizes="(max-width: 540px) 100vw, 540px" />
 
 &nbsp;
 
@@ -89,10 +89,10 @@ Be sure to visit our <a title="Facebook" href="https://www.facebook.com/21212com
   EVENT SPONSORS
 </p>
 
-<img class="aligncenter size-full wp-image-7402" src="http://local.21212.com/wp-content/uploads/2014/07/footer-e1405713737862.png" alt="footer" width="540" height="69" />
+<img class="aligncenter size-full wp-image-7402" src="{{ site.url }}/assets/wp-content/uploads/2014/07/footer-e1405713737862.png" alt="footer" width="540" height="69" />
 
 &nbsp;
 
 Cheers,
-  
+
 21212 Team

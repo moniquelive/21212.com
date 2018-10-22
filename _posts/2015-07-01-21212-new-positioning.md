@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2015/07/capa_site.png
+image: /assets/wp-content/uploads/2015/07/capa_site.png
 categories:
   - Blog
   - destaque
@@ -22,7 +22,7 @@ categories:
   (<a href="http://local.21212.com/blog/pt/21212-novo-posicionamento/">leia este post em Português</a>)
 </p>
 
-<img class="aligncenter wp-image-7696" src="http://local.21212.com/wp-content/uploads/2015/07/capa_face_ou_news.png" alt="capa_face_ou_news" width="599" height="222" srcset="http://localhost:8080/wp-content/uploads/2015/07/capa_face_ou_news.png 850w, http://localhost:8080/wp-content/uploads/2015/07/capa_face_ou_news-300x111.png 300w" sizes="(max-width: 599px) 100vw, 599px" />
+<img class="aligncenter wp-image-7696" src="{{ site.url }}/assets/wp-content/uploads/2015/07/capa_face_ou_news.png" alt="capa_face_ou_news" width="599" height="222" srcset="{{ site.url }}/assets/wp-content/uploads/2015/07/capa_face_ou_news.png 850w, {{ site.url }}/assets/wp-content/uploads/2015/07/capa_face_ou_news-300x111.png 300w" sizes="(max-width: 599px) 100vw, 599px" />
 
 21212 was designed by entrepreneurs for entrepreneurs. Created in 2011 with the goal of helping entrepreneurs to create value in the booming Brazilian digital market, 21212 was the first digital accelerator in the country.
 

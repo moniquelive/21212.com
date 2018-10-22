@@ -12,14 +12,14 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/07/convertiblenotesthumb.jpg
+image: /assets/wp-content/uploads/2013/07/convertiblenotesthumb.jpg
 categories:
   - Blog
   - com-thumb
 ---
 <div id="attachment_6406" style="width: 584px" class="wp-caption aligncenter">
-  <a href="http://local.21212.com/wp-content/uploads/2013/07/J9H3283.jpg"><img aria-describedby="caption-attachment-6406" class="wp-image-6406 " alt="_J9H3283" src="http://local.21212.com/wp-content/uploads/2013/07/J9H3283.jpg" width="574" height="382" srcset="http://localhost:8080/wp-content/uploads/2013/07/J9H3283.jpg 1024w, http://localhost:8080/wp-content/uploads/2013/07/J9H3283-300x200.jpg 300w" sizes="(max-width: 574px) 100vw, 574px" /></a>
-  
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/07/J9H3283.jpg"><img aria-describedby="caption-attachment-6406" class="wp-image-6406 " alt="_J9H3283" src="{{ site.url }}/assets/wp-content/uploads/2013/07/J9H3283.jpg" width="574" height="382" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/J9H3283.jpg 1024w, {{ site.url }}/assets/wp-content/uploads/2013/07/J9H3283-300x200.jpg 300w" sizes="(max-width: 574px) 100vw, 574px" /></a>
+
   <p id="caption-attachment-6406" class="wp-caption-text">
     Natalie explaining convertible notes at our 21212 Investor Day in São Paulo
   </p>
@@ -43,7 +43,7 @@ Para quem não está acostumado com o termo, uma debênture conversível represe
 
 Então, para sermos mais práticos, se pegarmos um exemplo de uma Startup que decide buscar investimento e em vez de fazer aumentos de capital direto, opta por emitir as debêntures conversíveis, em troca do investimento recebido.
 
-[<img class="size-medium wp-image-6408 alignleft" alt="_J9H3273" src="http://local.21212.com/wp-content/uploads/2013/07/J9H3273-300x200.jpg" width="300" height="200" srcset="http://localhost:8080/wp-content/uploads/2013/07/J9H3273-300x200.jpg 300w, http://localhost:8080/wp-content/uploads/2013/07/J9H3273.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http://local.21212.com/wp-content/uploads/2013/07/J9H3273.jpg)Em nosso exemplo, a Startup que emitiu debêntures conversíveis com as seguintes condições:
+[<img class="size-medium wp-image-6408 alignleft" alt="_J9H3273" src="{{ site.url }}/assets/wp-content/uploads/2013/07/J9H3273-300x200.jpg" width="300" height="200" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/J9H3273-300x200.jpg 300w, {{ site.url }}/assets/wp-content/uploads/2013/07/J9H3273.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http://local.21212.com/assets/wp-content/uploads/2013/07/J9H3273.jpg)Em nosso exemplo, a Startup que emitiu debêntures conversíveis com as seguintes condições:
 
 1) prazo de vencimento de 24 meses;
 

@@ -7,7 +7,7 @@ layout: post
 guid: http://local.21212.com/?p=1673
 permalink: /investment/company-pagpop/
 video-pitch:
-  - '<iframe src="http://player.vimeo.com/video/38884425?title=0&byline=0&portrait=0" width="620" height="349" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>'
+  - '<iframe src="{{ site.url }}http://player.vimeo.com/video/38884425?title=0&byline=0&portrait=0" width="620" height="349" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>'
 bt-company-summary:
   - http://dd.21212.com/assets/pag_pop.pdf
 bt-financial-summary:

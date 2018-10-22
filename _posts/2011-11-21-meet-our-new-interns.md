@@ -15,13 +15,13 @@ fv_video_img:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2011/11/interns.jpg
+image: /assets/wp-content/uploads/2011/11/interns.jpg
 categories:
   - Blog
   - com-thumb
 ---
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-978" src="http://local.21212.com/wp-content/uploads/2011/11/interns.jpg" alt="" width="540" height="183" srcset="http://localhost:8080/wp-content/uploads/2011/11/interns.jpg 540w, http://localhost:8080/wp-content/uploads/2011/11/interns-300x101.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
+  <img class="aligncenter size-full wp-image-978" src="{{ site.url }}/assets/wp-content/uploads/2011/11/interns.jpg" alt="" width="540" height="183" srcset="{{ site.url }}/assets/wp-content/uploads/2011/11/interns.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2011/11/interns-300x101.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
 </p>
 
 <p style="text-align: center;">
@@ -34,15 +34,15 @@ We are so happy to introduce you to our new interns, who will be supporting our 
 
 &nbsp;
 
-<img class="aligncenter" src="http://local.21212.com/wp-content/uploads/2011/11/marcus.jpg" alt="" width="250" height="250" />
+<img class="aligncenter" src="{{ site.url }}/assets/wp-content/uploads/2011/11/marcus.jpg" alt="" width="250" height="250" />
 
 **Marcus Ribeiro** is our new business intern. Read more about him [here](http://local.21212.com/team/marcus-ribeiro/ "Marcus Ribeiro").
 
-<img class="aligncenter size-full wp-image-948" src="http://local.21212.com/wp-content/uploads/2011/11/avatar.jpg" alt="" width="250" height="250" srcset="http://localhost:8080/wp-content/uploads/2011/11/avatar.jpg 250w, http://localhost:8080/wp-content/uploads/2011/11/avatar-150x150.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />
+<img class="aligncenter size-full wp-image-948" src="{{ site.url }}/assets/wp-content/uploads/2011/11/avatar.jpg" alt="" width="250" height="250" srcset="{{ site.url }}/assets/wp-content/uploads/2011/11/avatar.jpg 250w, {{ site.url }}/assets/wp-content/uploads/2011/11/avatar-150x150.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />
 
 **Rodrigo Martins** is our new design intern. Read more about him [here](http://local.21212.com/team/rodrigo-martins/ "Rodrigo Martins").
 
-<img class="aligncenter size-full wp-image-933" src="http://local.21212.com/wp-content/uploads/2011/11/ana-silveira.jpg" alt="" width="250" height="250" srcset="http://localhost:8080/wp-content/uploads/2011/11/ana-silveira.jpg 250w, http://localhost:8080/wp-content/uploads/2011/11/ana-silveira-150x150.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />
+<img class="aligncenter size-full wp-image-933" src="{{ site.url }}/assets/wp-content/uploads/2011/11/ana-silveira.jpg" alt="" width="250" height="250" srcset="{{ site.url }}/assets/wp-content/uploads/2011/11/ana-silveira.jpg 250w, {{ site.url }}/assets/wp-content/uploads/2011/11/ana-silveira-150x150.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />
 
 **Ana Silveira** is our new design intern. Read more about her [here](http://local.21212.com/team/ana-silveira/ "Ana Silveira").
 

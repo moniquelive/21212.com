@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/10/lets2.jpg
+image: /assets/wp-content/uploads/2013/10/lets2.jpg
 categories:
   - Blog
   - com-thumb
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p dir="ltr">
-  <a href="http://local.21212.com/wp-content/uploads/2013/11/hangouts_blog_PT.jpg"><img class="aligncenter size-full wp-image-6938" alt="hangouts_blog_PT" src="http://local.21212.com/wp-content/uploads/2013/11/hangouts_blog_PT.jpg" width="584" height="336" srcset="http://localhost:8080/wp-content/uploads/2013/11/hangouts_blog_PT.jpg 584w, http://localhost:8080/wp-content/uploads/2013/11/hangouts_blog_PT-300x172.jpg 300w" sizes="(max-width: 584px) 100vw, 584px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/11/hangouts_blog_PT.jpg"><img class="aligncenter size-full wp-image-6938" alt="hangouts_blog_PT" src="{{ site.url }}/assets/wp-content/uploads/2013/11/hangouts_blog_PT.jpg" width="584" height="336" srcset="{{ site.url }}/assets/wp-content/uploads/2013/11/hangouts_blog_PT.jpg 584w, {{ site.url }}/assets/wp-content/uploads/2013/11/hangouts_blog_PT-300x172.jpg 300w" sizes="(max-width: 584px) 100vw, 584px" /></a>
 </p>
 
 <p dir="ltr">

@@ -26,7 +26,7 @@ company:
   - Mazí Payment Advisors
 startup:
   - ""
-image: /wp-content/uploads/2011/10/28178652-4348-9203_2-e1319597785620.jpeg
+image: /assets/wp-content/uploads/2011/10/28178652-4348-9203_2-e1319597785620.jpeg
 categories:
   - people
 ---

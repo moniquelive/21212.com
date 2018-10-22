@@ -20,7 +20,7 @@ company:
   - ""
 startup:
   - "6081"
-image: /wp-content/uploads/2013/05/Oficialize_LuizRodrigues.jpg
+image: /assets/wp-content/uploads/2013/05/Oficialize_LuizRodrigues.jpg
 categories:
   - people
 ---

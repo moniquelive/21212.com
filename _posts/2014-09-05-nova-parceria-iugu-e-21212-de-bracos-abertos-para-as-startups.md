@@ -12,12 +12,12 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2014/09/iugu_logo.jpg
+image: /assets/wp-content/uploads/2014/09/iugu_logo.jpg
 categories:
   - Blog
   - com-thumb
 ---
-<img class="aligncenter size-full wp-image-7506" src="http://local.21212.com/wp-content/uploads/2014/09/iugu.jpg" alt="iugu" width="540" height="267" srcset="http://localhost:8080/wp-content/uploads/2014/09/iugu.jpg 540w, http://localhost:8080/wp-content/uploads/2014/09/iugu-300x148.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
+<img class="aligncenter size-full wp-image-7506" src="{{ site.url }}/assets/wp-content/uploads/2014/09/iugu.jpg" alt="iugu" width="540" height="267" srcset="{{ site.url }}/assets/wp-content/uploads/2014/09/iugu.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2014/09/iugu-300x148.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
 
 O ambiente de tecnologia no Brasil está crescendo e amadurecendo cada vez mais. Apostando nesse potencial, a <a title="iugu" href="http://iugu.com/" target="_blank">iugu</a> e a 21212 acabam de fechar uma parceria para alavancar o negócio das nossas startups.
 

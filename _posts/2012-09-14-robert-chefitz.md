@@ -24,7 +24,7 @@ company:
   - Performa Investimentos
 startup:
   - ""
-image: /wp-content/uploads/2012/09/RobertChefitzHeadshot2012.jpg
+image: /assets/wp-content/uploads/2012/09/RobertChefitzHeadshot2012.jpg
 categories:
   - people
 ---

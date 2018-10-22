@@ -26,7 +26,7 @@ company:
   - Camiseteria.com
 startup:
   - ""
-image: /wp-content/uploads/2011/07/avatar_fabio_seixas_250x250.jpg
+image: /assets/wp-content/uploads/2011/07/avatar_fabio_seixas_250x250.jpg
 categories:
   - people
 tags:

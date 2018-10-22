@@ -34,7 +34,7 @@ data-publicacao:
 tit-publicacao:
   - Cresce o número de projetos a receber 1º aporte
 link-publicacao:
-  - 'http://local.21212.com/wp-content/uploads/2012/07/Valor_Novatas-de-TI_Mat%C3%A9ria.jpg'
+  - 'http://local.21212.com/assets/wp-content/uploads/2012/07/Valor_Novatas-de-TI_Mat%C3%A9ria.jpg'
 nome-veiculo:
   - Valor Econômico
 transposh_can_translate:

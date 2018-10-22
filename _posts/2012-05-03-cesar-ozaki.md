@@ -26,7 +26,7 @@ company:
   - Anjos do Brasil
 startup:
   - ""
-image: /wp-content/uploads/2012/05/CesarOzaki.jpg
+image: /assets/wp-content/uploads/2012/05/CesarOzaki.jpg
 categories:
   - people
 tags:

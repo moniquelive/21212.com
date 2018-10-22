@@ -15,12 +15,12 @@ fv_video_img:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2012/03/21212-selectionprocess2.jpg
+image: /assets/wp-content/uploads/2012/03/21212-selectionprocess2.jpg
 categories:
   - Blog
   - com-thumb
 ---
-[<img class="aligncenter size-full wp-image-1387" title="21212 - Selection Process - 2° round" src="http://local.21212.com/wp-content/uploads/2012/03/21212-selectionprocess2.jpg" alt="" width="540" height="396" srcset="http://localhost:8080/wp-content/uploads/2012/03/21212-selectionprocess2.jpg 540w, http://localhost:8080/wp-content/uploads/2012/03/21212-selectionprocess2-300x220.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/wp-content/uploads/2012/03/21212-selectionprocess2.jpg)
+[<img class="aligncenter size-full wp-image-1387" title="21212 - Selection Process - 2° round" src="{{ site.url }}/assets/wp-content/uploads/2012/03/21212-selectionprocess2.jpg" alt="" width="540" height="396" srcset="{{ site.url }}/assets/wp-content/uploads/2012/03/21212-selectionprocess2.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2012/03/21212-selectionprocess2-300x220.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/assets/wp-content/uploads/2012/03/21212-selectionprocess2.jpg)
 
 21212, Brazil’s leading digital accelerator program invites you to apply for the **2nd round** of our program. You have a small window (4 days and counting) to take advantage of this exclusive invitation.  The deadline for submissions is **March 23th**! This is your last chance to apply for our 2012 program, 1° semester!
 
@@ -29,13 +29,13 @@ categories:
 This opportunity is **exclusively** for DIGITAL companies (Internet/Mobile).  In order for your company to be considered it is required that you have one of the following:
 
 (a) Entrepreneurs that are implementing previously  proven business models from around the world
-  
+
 (b) Innovative project that has already received traction in Brazilian market;
 
 <span style="text-decoration: underline;">The most important requirements to apply for our ‘last call’ are</span>:
 
 **• Startup with launched product and users base;**
-  
+
 **• Revenue &#8211; is not mandatory, but highly recommended.**
 
 You do not want to miss this opportunity -April is our kick-off, so [**APPLY NOW**](http://local.21212.com/apply/#).

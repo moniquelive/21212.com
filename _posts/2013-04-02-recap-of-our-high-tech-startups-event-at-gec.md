@@ -14,7 +14,7 @@ fv_video_img:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2013/04/GEChighimpact21212.jpg
+image: /assets/wp-content/uploads/2013/04/GEChighimpact21212.jpg
 categories:
   - Blog
   - com-thumb
@@ -24,7 +24,7 @@ categories:
 </p>
 
 <p dir="ltr" style="text-align: center;">
-  <a href="http://local.21212.com/wp-content/uploads/2013/04/gec_post_main_img.jpg"><img class="size-full wp-image-5821 aligncenter" alt="gec_post_main_img" src="http://local.21212.com/wp-content/uploads/2013/04/gec_post_main_img.jpg" width="540" height="486" srcset="http://localhost:8080/wp-content/uploads/2013/04/gec_post_main_img.jpg 540w, http://localhost:8080/wp-content/uploads/2013/04/gec_post_main_img-300x270.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/04/gec_post_main_img.jpg"><img class="size-full wp-image-5821 aligncenter" alt="gec_post_main_img" src="{{ site.url }}/assets/wp-content/uploads/2013/04/gec_post_main_img.jpg" width="540" height="486" srcset="{{ site.url }}/assets/wp-content/uploads/2013/04/gec_post_main_img.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/04/gec_post_main_img-300x270.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
 </p>
 
 The “Education Revolution” panel, which discussed the rapid growth of online education in Brazil, featured Diego Alvarez, from EasyAula, Marco Fisbhen, from Descomplica!, and Claudio Sassaki from Geekie. The panel brought attention to the changing role of professors with the rise of EdTech platforms. Claudio Sassaki pointed out that the professor is evolving from “someone who transmits content to someone who is the owner of content.” Diego Alvarez added that online platforms enable professors to receive proper feedback from students, which, in turn allows them to give more personalized attention to students’ weaknesses. However, as pointed out by Marco Fisbhen, “professors will not be willing to accept the changes” despite the obvious benefits. Fisbhen continued to explain that unless professors recognize advantages of technology in education, such as better time management, higher quality feedback, less work and more productivity, education professionals will simply reject this technological advancement.

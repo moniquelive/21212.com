@@ -17,7 +17,7 @@ fv_video_img:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2012/09/mov-empreenda-img.jpg
+image: /assets/wp-content/uploads/2012/09/mov-empreenda-img.jpg
 categories:
   - Blog
   - com-thumb

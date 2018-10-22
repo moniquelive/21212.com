@@ -13,7 +13,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2012/11/pitch-easyaula-wegoout.jpg
+image: /assets/wp-content/uploads/2012/11/pitch-easyaula-wegoout.jpg
 categories:
   - Blog
   - com-thumb

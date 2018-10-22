@@ -17,7 +17,7 @@ fb_social_plugin_settings_box_comments:
   - default
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2011/10/vaga-design-2011.png
+image: /assets/wp-content/uploads/2011/10/vaga-design-2011.png
 categories:
   - Blog
   - com-thumb
@@ -25,6 +25,6 @@ tags:
   - design
   - jobs
 ---
-[<img class="aligncenter size-full wp-image-877" src="http://local.21212.com/wp-content/uploads/2011/10/Jobs_Design-e1319761457992.png" alt="" width="540" height="592" srcset="http://localhost:8080/wp-content/uploads/2011/10/Jobs_Design-e1319761457992.png 540w, http://localhost:8080/wp-content/uploads/2011/10/Jobs_Design-e1319761457992-273x300.png 273w" sizes="(max-width: 540px) 100vw, 540px" />](#)
+[<img class="aligncenter size-full wp-image-877" src="{{ site.url }}/assets/wp-content/uploads/2011/10/Jobs_Design-e1319761457992.png" alt="" width="540" height="592" srcset="{{ site.url }}/assets/wp-content/uploads/2011/10/Jobs_Design-e1319761457992.png 540w, {{ site.url }}/assets/wp-content/uploads/2011/10/Jobs_Design-e1319761457992-273x300.png 273w" sizes="(max-width: 540px) 100vw, 540px" />](#)
 
 &nbsp;

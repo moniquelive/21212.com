@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2014/11/parceiros.jpg
+image: /assets/wp-content/uploads/2014/11/parceiros.jpg
 categories:
   - Blog
 ---

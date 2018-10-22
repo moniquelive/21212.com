@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/12/logodemoday.png
+image: /assets/wp-content/uploads/2013/12/logodemoday.png
 categories:
   - Blog
   - com-thumb
@@ -36,7 +36,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-7010" alt="mtgtalita" src="http://local.21212.com/wp-content/uploads/2013/12/mtgtalita.png" width="540" height="474" srcset="http://localhost:8080/wp-content/uploads/2013/12/mtgtalita.png 540w, http://localhost:8080/wp-content/uploads/2013/12/mtgtalita-300x263.png 300w" sizes="(max-width: 540px) 100vw, 540px" />
+  <img class="aligncenter size-full wp-image-7010" alt="mtgtalita" src="{{ site.url }}/assets/wp-content/uploads/2013/12/mtgtalita.png" width="540" height="474" srcset="{{ site.url }}/assets/wp-content/uploads/2013/12/mtgtalita.png 540w, {{ site.url }}/assets/wp-content/uploads/2013/12/mtgtalita-300x263.png 300w" sizes="(max-width: 540px) 100vw, 540px" />
 </p>
 
 Confira abaixo o vídeo com os melhores momentos do evento! Também disponibilizaremos os vídeos dos pitches nos próximos dias, no nosso blog, no Facebook e no Twitter, para você não perder nenhum momento do 21212 Demo Day.

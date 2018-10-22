@@ -19,13 +19,13 @@ fb_social_plugin_settings_box_comments:
   - default
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2012/07/facebook.png
+image: /assets/wp-content/uploads/2012/07/facebook.png
 categories:
   - Blog
   - com-thumb
 ---
 <p style="text-align: center;">
-  <img class="wp-image-2077 aligncenter" title="Design--Resource_Center--Facebook_Logo--facebook_logo" src="http://local.21212.com/wp-content/uploads/2012/06/Design-Resource_Center-Facebook_Logo-facebook_logo1.png" alt="" width="238" height="92" />
+  <img class="wp-image-2077 aligncenter" title="Design--Resource_Center--Facebook_Logo--facebook_logo" src="{{ site.url }}/assets/wp-content/uploads/2012/06/Design-Resource_Center-Facebook_Logo-facebook_logo1.png" alt="" width="238" height="92" />
 </p>
 
 &nbsp;
@@ -41,7 +41,7 @@ We’re excited to have Facebook on board with 21212!
 &nbsp;
 
 <p style="text-align: center;">
-  <img class="alignnone size-full wp-image-2071 aligncenter" title="2012_06_29_FB" src="http://local.21212.com/wp-content/uploads/2012/06/2012_06_29_FB1.jpg" alt="" width="540" height="406" />
+  <img class="alignnone size-full wp-image-2071 aligncenter" title="2012_06_29_FB" src="{{ site.url }}/assets/wp-content/uploads/2012/06/2012_06_29_FB1.jpg" alt="" width="540" height="406" />
 </p>
 
 &nbsp;

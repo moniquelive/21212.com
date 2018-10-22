@@ -12,13 +12,13 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/10/headernews-startbr-fb22222.jpg
+image: /assets/wp-content/uploads/2013/10/headernews-startbr-fb22222.jpg
 categories:
   - Blog
   - com-thumb
 ---
 <p dir="ltr">
-  <a href="http://local.21212.com/wp-content/uploads/2013/10/headernews-startbr-fb22222.jpg"><img class="aligncenter size-full wp-image-6839" alt="headernews-startbr-fb22222" src="http://local.21212.com/wp-content/uploads/2013/10/headernews-startbr-fb22222.jpg" width="403" height="404" srcset="http://localhost:8080/wp-content/uploads/2013/10/headernews-startbr-fb22222.jpg 403w, http://localhost:8080/wp-content/uploads/2013/10/headernews-startbr-fb22222-150x150.jpg 150w, http://localhost:8080/wp-content/uploads/2013/10/headernews-startbr-fb22222-300x300.jpg 300w" sizes="(max-width: 403px) 100vw, 403px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/10/headernews-startbr-fb22222.jpg"><img class="aligncenter size-full wp-image-6839" alt="headernews-startbr-fb22222" src="{{ site.url }}/assets/wp-content/uploads/2013/10/headernews-startbr-fb22222.jpg" width="403" height="404" srcset="{{ site.url }}/assets/wp-content/uploads/2013/10/headernews-startbr-fb22222.jpg 403w, {{ site.url }}/assets/wp-content/uploads/2013/10/headernews-startbr-fb22222-150x150.jpg 150w, {{ site.url }}/assets/wp-content/uploads/2013/10/headernews-startbr-fb22222-300x300.jpg 300w" sizes="(max-width: 403px) 100vw, 403px" /></a>
 </p>
 
 <p dir="ltr">

@@ -14,12 +14,12 @@ fv_video:
 fv_video_id:
   - "47664683"
 fv_video_img:
-  - http://local.21212.com/wp-content/plugins/featured-video/vimeo.jpg
+  - http://local.21212.com/assets/wp-content/plugins/featured-video/vimeo.jpg
 sharing_disabled:
   - "1"
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2012/08/img-site-video.jpg
+image: /assets/wp-content/uploads/2012/08/img-site-video.jpg
 categories:
   - Blog
   - com-thumb

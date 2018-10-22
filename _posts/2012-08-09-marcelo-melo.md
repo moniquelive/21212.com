@@ -39,7 +39,7 @@ startup:
   - "2280"
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2012/08/marcelo_melo.png
+image: /assets/wp-content/uploads/2012/08/marcelo_melo.png
 categories:
   - people
 ---

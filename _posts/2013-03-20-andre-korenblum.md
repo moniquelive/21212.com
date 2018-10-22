@@ -20,7 +20,7 @@ company:
   - Selo Reserva
 startup:
   - "5657"
-image: /wp-content/uploads/2013/03/andre.jpg
+image: /assets/wp-content/uploads/2013/03/andre.jpg
 categories:
   - people
 ---

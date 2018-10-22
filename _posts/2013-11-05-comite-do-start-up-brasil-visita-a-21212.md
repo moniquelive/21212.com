@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/11/supbrazil.jpg
+image: /assets/wp-content/uploads/2013/11/supbrazil.jpg
 categories:
   - Blog
   - com-thumb
@@ -22,8 +22,8 @@ categories:
 </p>
 
 <div id="attachment_6902" style="width: 550px" class="wp-caption aligncenter">
-  <a href="http://local.21212.com/wp-content/uploads/2013/11/reuniao.jpg"><img aria-describedby="caption-attachment-6902" class="size-full wp-image-6902" alt="Comitê do Start-Up Brasil em reunião com a 21212 e startups" src="http://local.21212.com/wp-content/uploads/2013/11/reuniao.jpg" width="540" height="360" srcset="http://localhost:8080/wp-content/uploads/2013/11/reuniao.jpg 540w, http://localhost:8080/wp-content/uploads/2013/11/reuniao-300x200.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
-  
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/11/reuniao.jpg"><img aria-describedby="caption-attachment-6902" class="size-full wp-image-6902" alt="Comitê do Start-Up Brasil em reunião com a 21212 e startups" src="{{ site.url }}/assets/wp-content/uploads/2013/11/reuniao.jpg" width="540" height="360" srcset="{{ site.url }}/assets/wp-content/uploads/2013/11/reuniao.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/11/reuniao-300x200.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+
   <p id="caption-attachment-6902" class="wp-caption-text">
     Comitê do Start-Up Brasil em reunião com a 21212 e startups
   </p>

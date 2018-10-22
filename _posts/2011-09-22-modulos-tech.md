@@ -16,7 +16,7 @@ tags:
   - technology
 ---
 <p style="text-align: center">
-  <img class="aligncenter size-full wp-image-661" src="http://local.21212.com/wp-content/uploads/2011/09/foto1-e1316734368340.jpg" alt="" width="540" height="403" srcset="http://localhost:8080/wp-content/uploads/2011/09/foto1-e1316734368340.jpg 540w, http://localhost:8080/wp-content/uploads/2011/09/foto1-e1316734368340-300x223.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
+  <img class="aligncenter size-full wp-image-661" src="{{ site.url }}/assets/wp-content/uploads/2011/09/foto1-e1316734368340.jpg" alt="" width="540" height="403" srcset="{{ site.url }}/assets/wp-content/uploads/2011/09/foto1-e1316734368340.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2011/09/foto1-e1316734368340-300x223.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
 </p>
 
 **Módulos Tech: Web Analytics, Mailchimp, Newsletters**

@@ -31,7 +31,7 @@ company:
   - Bidcorp
 startup:
   - "2283"
-image: /wp-content/uploads/2012/07/Bidcorp-Ricardo-Salazar.png
+image: /assets/wp-content/uploads/2012/07/Bidcorp-Ricardo-Salazar.png
 categories:
   - people
 ---

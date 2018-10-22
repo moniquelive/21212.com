@@ -20,7 +20,7 @@ company:
   - ResolveAí
 startup:
   - "836"
-image: /wp-content/uploads/2011/10/jose-sapir.jpg
+image: /assets/wp-content/uploads/2011/10/jose-sapir.jpg
 categories:
   - people
 ---

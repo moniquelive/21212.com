@@ -22,7 +22,7 @@ startup-link:
   - http://www.seloreserva.com.br
 startup-descricao:
   - Specialized in the curation of great experiences in wine and food.
-image: /wp-content/uploads/2013/03/seloreserva-logo.png
+image: /assets/wp-content/uploads/2013/03/seloreserva-logo.png
 categories:
   - companies
 ---

@@ -20,7 +20,7 @@ company:
   - Itrip
 startup:
   - "833"
-image: /wp-content/uploads/2011/10/marcelo-cantanhede.jpg
+image: /assets/wp-content/uploads/2011/10/marcelo-cantanhede.jpg
 categories:
   - people
 ---

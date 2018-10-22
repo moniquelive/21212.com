@@ -49,12 +49,12 @@ startup-logo:
 startup-ciclo:
   - "-1"
 video-pitch:
-  - '<iframe src="http://player.vimeo.com/video/38884620?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>'
+  - '<iframe src="{{ site.url }}http://player.vimeo.com/video/38884620?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>'
 startup-link:
   - http://www.resolveai.com.br/
 startup-descricao:
   - The smartest way from A to B
-image: /wp-content/uploads/2011/10/ResolveAi.gif
+image: /assets/wp-content/uploads/2011/10/ResolveAi.gif
 categories:
   - companies
 ---

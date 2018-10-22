@@ -26,7 +26,7 @@ company:
   - Mundo Verde
 startup:
   - ""
-image: /wp-content/uploads/2011/10/Mundo-Verde49-e1318866896639.jpg
+image: /assets/wp-content/uploads/2011/10/Mundo-Verde49-e1318866896639.jpg
 categories:
   - people
 ---

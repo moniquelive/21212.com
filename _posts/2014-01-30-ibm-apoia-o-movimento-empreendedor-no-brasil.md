@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2014/01/ibmlogo2.jpg
+image: /assets/wp-content/uploads/2014/01/ibmlogo2.jpg
 categories:
   - Blog
   - com-thumb
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p dir="ltr">
-  <a href="http://local.21212.com/wp-content/uploads/2014/01/IBM.jpg"><img class="aligncenter size-full wp-image-7098" alt="IBM" src="http://local.21212.com/wp-content/uploads/2014/01/IBM.jpg" width="540" height="262" srcset="http://localhost:8080/wp-content/uploads/2014/01/IBM.jpg 540w, http://localhost:8080/wp-content/uploads/2014/01/IBM-300x145.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2014/01/IBM.jpg"><img class="aligncenter size-full wp-image-7098" alt="IBM" src="{{ site.url }}/assets/wp-content/uploads/2014/01/IBM.jpg" width="540" height="262" srcset="{{ site.url }}/assets/wp-content/uploads/2014/01/IBM.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2014/01/IBM-300x145.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
 </p>
 
 <p dir="ltr">
@@ -37,10 +37,10 @@ categories:
   E se você tem interesse em saber um pouco mais sobre o que a IBM tem feito e faz pelos empreendedores brasileiros, não deixe de ir ao evento! Confira abaixo mais detalhes sobre o IBM Global Entrepreneur e participe.
 </p>
 
- [<img class="aligncenter size-full wp-image-7099" alt="agendaIBM" src="http://local.21212.com/wp-content/uploads/2014/01/agendaIBM.jpg" width="540" height="255" srcset="http://localhost:8080/wp-content/uploads/2014/01/agendaIBM.jpg 540w, http://localhost:8080/wp-content/uploads/2014/01/agendaIBM-300x141.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/wp-content/uploads/2014/01/agendaIBM.jpg)
+ [<img class="aligncenter size-full wp-image-7099" alt="agendaIBM" src="{{ site.url }}/assets/wp-content/uploads/2014/01/agendaIBM.jpg" width="540" height="255" srcset="{{ site.url }}/assets/wp-content/uploads/2014/01/agendaIBM.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2014/01/agendaIBM-300x141.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/assets/wp-content/uploads/2014/01/agendaIBM.jpg)
 
-[<img class="aligncenter size-full wp-image-7100" alt="localIBM" src="http://local.21212.com/wp-content/uploads/2014/01/localIBM.jpg" width="540" height="153" srcset="http://localhost:8080/wp-content/uploads/2014/01/localIBM.jpg 540w, http://localhost:8080/wp-content/uploads/2014/01/localIBM-300x85.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/wp-content/uploads/2014/01/localIBM.jpg)
+[<img class="aligncenter size-full wp-image-7100" alt="localIBM" src="{{ site.url }}/assets/wp-content/uploads/2014/01/localIBM.jpg" width="540" height="153" srcset="{{ site.url }}/assets/wp-content/uploads/2014/01/localIBM.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2014/01/localIBM-300x85.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/assets/wp-content/uploads/2014/01/localIBM.jpg)
 
 &nbsp;
 
-[<img class="aligncenter size-full wp-image-7101" alt="InscriçaoIBM" src="http://local.21212.com/wp-content/uploads/2014/01/InscriçaoIBM.jpg" width="540" height="266" srcset="http://localhost:8080/wp-content/uploads/2014/01/InscriçaoIBM.jpg 540w, http://localhost:8080/wp-content/uploads/2014/01/InscriçaoIBM-300x147.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/wp-content/uploads/2014/01/InscriçaoIBM.jpg)
+[<img class="aligncenter size-full wp-image-7101" alt="InscriçaoIBM" src="{{ site.url }}/assets/wp-content/uploads/2014/01/InscriçaoIBM.jpg" width="540" height="266" srcset="{{ site.url }}/assets/wp-content/uploads/2014/01/InscriçaoIBM.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2014/01/InscriçaoIBM-300x147.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/assets/wp-content/uploads/2014/01/InscriçaoIBM.jpg)

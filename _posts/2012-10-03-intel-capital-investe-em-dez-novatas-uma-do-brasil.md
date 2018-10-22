@@ -19,7 +19,7 @@ data-publicacao:
 tit-publicacao:
   - Intel Capital investe em dez novatas; uma do Brasil
 link-publicacao:
-  - http://local.21212.com/wp-content/uploads/2012/10/Pagpop-Intel.jpg
+  - http://local.21212.com/assets/wp-content/uploads/2012/10/Pagpop-Intel.jpg
 nome-veiculo:
   - Jornal Valor Econômico
 transposh_can_translate:

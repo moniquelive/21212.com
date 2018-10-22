@@ -20,7 +20,7 @@ company:
   - Monograme
 startup:
   - "5660"
-image: /wp-content/uploads/2013/03/erikgustavo.jpg
+image: /assets/wp-content/uploads/2013/03/erikgustavo.jpg
 categories:
   - people
 ---

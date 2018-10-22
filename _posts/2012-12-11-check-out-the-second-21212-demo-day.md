@@ -12,10 +12,10 @@ fv_video:
 fv_video_id:
   - "55290658"
 fv_video_img:
-  - http://local.21212.com/wp-content/plugins/featured-video/vimeo.jpg
+  - http://local.21212.com/assets/wp-content/plugins/featured-video/vimeo.jpg
 sharing_disabled:
   - "1"
-image: /wp-content/uploads/2012/12/dd-212121.jpg
+image: /assets/wp-content/uploads/2012/12/dd-212121.jpg
 categories:
   - Blog
   - com-thumb

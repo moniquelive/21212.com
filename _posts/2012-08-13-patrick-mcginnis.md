@@ -24,7 +24,7 @@ company:
   - Dirigo Advisors
 startup:
   - ""
-image: /wp-content/uploads/2012/08/Patrick-McGinnis.jpg
+image: /assets/wp-content/uploads/2012/08/Patrick-McGinnis.jpg
 categories:
   - people
 ---

@@ -12,13 +12,13 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/09/demoday_thumb.jpg
+image: /assets/wp-content/uploads/2013/09/demoday_thumb.jpg
 categories:
   - Blog
   - Featured Post
   - sem-thumb
 ---
-<img class="aligncenter size-full wp-image-7606" src="http://local.21212.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-21-at-8.49.45-AM.png" alt="Screen Shot 2015-01-21 at 8.49.45 AM" width="563" height="375" srcset="http://localhost:8080/wp-content/uploads/2015/01/Screen-Shot-2015-01-21-at-8.49.45-AM.png 563w, http://localhost:8080/wp-content/uploads/2015/01/Screen-Shot-2015-01-21-at-8.49.45-AM-300x200.png 300w" sizes="(max-width: 563px) 100vw, 563px" />
+<img class="aligncenter size-full wp-image-7606" src="{{ site.url }}/assets/wp-content/uploads/2015/01/Screen-Shot-2015-01-21-at-8.49.45-AM.png" alt="Screen Shot 2015-01-21 at 8.49.45 AM" width="563" height="375" srcset="{{ site.url }}/assets/wp-content/uploads/2015/01/Screen-Shot-2015-01-21-at-8.49.45-AM.png 563w, {{ site.url }}/assets/wp-content/uploads/2015/01/Screen-Shot-2015-01-21-at-8.49.45-AM-300x200.png 300w" sizes="(max-width: 563px) 100vw, 563px" />
 
 A quarta edição do 21212 Demo Day foi um sucesso!
 
@@ -50,4 +50,4 @@ O 21212 Demo Day foi a oportunidade perfeita para conhecer empresas digitais pro
 
 &nbsp;
 
-<img class="aligncenter size-full wp-image-7607" src="http://local.21212.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-21-at-8.56.16-AM.png" alt="Screen Shot 2015-01-21 at 8.56.16 AM" width="566" height="123" srcset="http://localhost:8080/wp-content/uploads/2015/01/Screen-Shot-2015-01-21-at-8.56.16-AM.png 566w, http://localhost:8080/wp-content/uploads/2015/01/Screen-Shot-2015-01-21-at-8.56.16-AM-300x65.png 300w" sizes="(max-width: 566px) 100vw, 566px" />
+<img class="aligncenter size-full wp-image-7607" src="{{ site.url }}/assets/wp-content/uploads/2015/01/Screen-Shot-2015-01-21-at-8.56.16-AM.png" alt="Screen Shot 2015-01-21 at 8.56.16 AM" width="566" height="123" srcset="{{ site.url }}/assets/wp-content/uploads/2015/01/Screen-Shot-2015-01-21-at-8.56.16-AM.png 566w, {{ site.url }}/assets/wp-content/uploads/2015/01/Screen-Shot-2015-01-21-at-8.56.16-AM-300x65.png 300w" sizes="(max-width: 566px) 100vw, 566px" />

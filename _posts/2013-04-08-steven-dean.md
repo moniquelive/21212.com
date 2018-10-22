@@ -20,7 +20,7 @@ company:
   - Prehype
 startup:
   - ""
-image: /wp-content/uploads/2013/04/StevenDean.jpg
+image: /assets/wp-content/uploads/2013/04/StevenDean.jpg
 categories:
   - people
 ---

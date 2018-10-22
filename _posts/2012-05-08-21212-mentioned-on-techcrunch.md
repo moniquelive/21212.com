@@ -15,7 +15,7 @@ fv_video_img:
   - ""
 fb_social_plugin_settings_box_comments:
   - default
-image: /wp-content/uploads/2012/05/techcrunch.jpg
+image: /assets/wp-content/uploads/2012/05/techcrunch.jpg
 categories:
   - Blog
   - com-thumb
@@ -24,7 +24,7 @@ Check out this post on TechCrunch <a title="TechCrunch" href="http://techcrunch.
 
 &nbsp;
 
-[<img class="aligncenter size-full wp-image-1929" title="21212 mentioned on TechCrunch" src="http://local.21212.com/wp-content/uploads/2012/05/21212-techcrunch.jpg" alt="" width="540" height="363" srcset="http://localhost:8080/wp-content/uploads/2012/05/21212-techcrunch.jpg 540w, http://localhost:8080/wp-content/uploads/2012/05/21212-techcrunch-300x201.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/wp-content/uploads/2012/05/21212-techcrunch.jpg)
+[<img class="aligncenter size-full wp-image-1929" title="21212 mentioned on TechCrunch" src="{{ site.url }}/assets/wp-content/uploads/2012/05/21212-techcrunch.jpg" alt="" width="540" height="363" srcset="{{ site.url }}/assets/wp-content/uploads/2012/05/21212-techcrunch.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2012/05/21212-techcrunch-300x201.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/assets/wp-content/uploads/2012/05/21212-techcrunch.jpg)
 
 &nbsp;
 

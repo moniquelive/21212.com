@@ -17,7 +17,7 @@ fv_video_img:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2012/10/speakersFeaturedImage.png
+image: /assets/wp-content/uploads/2012/10/speakersFeaturedImage.png
 categories:
   - Blog
   - com-thumb
@@ -32,7 +32,7 @@ Bios:
 
 <strong style="font-weight: bold;">Adriana Cisneros (Cisneros Group of Companies)</strong>
 
-[<img class="aligncenter size-full wp-image-4121" title="speakersAdriana" src="http://local.21212.com/wp-content/uploads/2012/10/speakersAdriana.png" alt="" width="250" height="250" srcset="http://localhost:8080/wp-content/uploads/2012/10/speakersAdriana.png 250w, http://localhost:8080/wp-content/uploads/2012/10/speakersAdriana-150x150.png 150w" sizes="(max-width: 250px) 100vw, 250px" />](http://local.21212.com/wp-content/uploads/2012/10/speakersAdriana.png)
+[<img class="aligncenter size-full wp-image-4121" title="speakersAdriana" src="{{ site.url }}/assets/wp-content/uploads/2012/10/speakersAdriana.png" alt="" width="250" height="250" srcset="{{ site.url }}/assets/wp-content/uploads/2012/10/speakersAdriana.png 250w, {{ site.url }}/assets/wp-content/uploads/2012/10/speakersAdriana-150x150.png 150w" sizes="(max-width: 250px) 100vw, 250px" />](http://local.21212.com/assets/wp-content/uploads/2012/10/speakersAdriana.png)
 
 Adriana Cisneros is Vice Chairman and Director of Strategy of the Cisneros Group of Companies, one of the leading privately held media, entertainment, telecommunications and consumer products organizations in the world. She is also President of the Fundación Cisneros, an NGO dedicated to improving access to quality education in Latin America. As the head of strategy she is overseeing the company’s transformation from a regional enterprise to one increasingly focused on global markets. In addition she is heading the organization’s innovation and adaptation of digital technologies and new media.
 
@@ -42,7 +42,7 @@ Adriana Cisneros is Vice Chairman and Director of Strategy of the Cisneros Group
 
 <strong style="font-weight: bold;">Davis Smith (Baby.com.br)</strong>
 
-<img class="aligncenter size-full wp-image-4118" title="speakersDavis" src="http://local.21212.com/wp-content/uploads/2012/10/speakersDavis.png" alt="" width="250" height="250" srcset="http://localhost:8080/wp-content/uploads/2012/10/speakersDavis.png 250w, http://localhost:8080/wp-content/uploads/2012/10/speakersDavis-150x150.png 150w" sizes="(max-width: 250px) 100vw, 250px" />
+<img class="aligncenter size-full wp-image-4118" title="speakersDavis" src="{{ site.url }}/assets/wp-content/uploads/2012/10/speakersDavis.png" alt="" width="250" height="250" srcset="{{ site.url }}/assets/wp-content/uploads/2012/10/speakersDavis.png 250w, {{ site.url }}/assets/wp-content/uploads/2012/10/speakersDavis-150x150.png 150w" sizes="(max-width: 250px) 100vw, 250px" />
 
 &nbsp;
 
@@ -54,7 +54,7 @@ Davis Smith is the Co-CEO and founder of Baby.com.br, Brazil&#8217;s leading e-c
 
 <strong style="font-weight: bold;">Cassio Spina (Anjos do Brasil)</strong>
 
-[<img class="aligncenter size-full wp-image-4119" title="speakersCassio" src="http://local.21212.com/wp-content/uploads/2012/10/speakersCassio.png" alt="" width="250" height="250" srcset="http://localhost:8080/wp-content/uploads/2012/10/speakersCassio.png 250w, http://localhost:8080/wp-content/uploads/2012/10/speakersCassio-150x150.png 150w" sizes="(max-width: 250px) 100vw, 250px" />](http://local.21212.com/wp-content/uploads/2012/10/speakersCassio.png)
+[<img class="aligncenter size-full wp-image-4119" title="speakersCassio" src="{{ site.url }}/assets/wp-content/uploads/2012/10/speakersCassio.png" alt="" width="250" height="250" srcset="{{ site.url }}/assets/wp-content/uploads/2012/10/speakersCassio.png 250w, {{ site.url }}/assets/wp-content/uploads/2012/10/speakersCassio-150x150.png 150w" sizes="(max-width: 250px) 100vw, 250px" />](http://local.21212.com/assets/wp-content/uploads/2012/10/speakersCassio.png)
 
 Graduated in electronic engineering by Escola Politécnica of USP, was an entrepreneur for 25 years in tech sector and currently is an angel investor for innovative startups. Cassio is also the founder of Anjos do Brasil ([www.anjosdobrasil.net](http://www.anjosdobrasil.net)) a non profit organization for fostering angel investment, and Altivia Ventures ([www.altivia.net.br](http://www.altivia.net.br)) an investment and advisoring company. He is also columnist of Exame, INFO and Endeavor, board member of companies and author of the book &#8220;Angel-Investor &#8211; A Practical Guide for Entrepreneurs and Investors&#8221; ([www.investidoranjo.net](about:blank)).
 
@@ -62,7 +62,7 @@ Graduated in electronic engineering by Escola Politécnica of USP, was an entrep
 
 <strong style="font-weight: bold;">Marcio Campos (PagPop)</strong>
 
-[<img class="aligncenter size-full wp-image-4120" title="speakersMarcio" src="http://local.21212.com/wp-content/uploads/2012/10/speakersMarcio.png" alt="" width="250" height="250" srcset="http://localhost:8080/wp-content/uploads/2012/10/speakersMarcio.png 250w, http://localhost:8080/wp-content/uploads/2012/10/speakersMarcio-150x150.png 150w" sizes="(max-width: 250px) 100vw, 250px" />](http://local.21212.com/wp-content/uploads/2012/10/speakersMarcio.png)
+[<img class="aligncenter size-full wp-image-4120" title="speakersMarcio" src="{{ site.url }}/assets/wp-content/uploads/2012/10/speakersMarcio.png" alt="" width="250" height="250" srcset="{{ site.url }}/assets/wp-content/uploads/2012/10/speakersMarcio.png 250w, {{ site.url }}/assets/wp-content/uploads/2012/10/speakersMarcio-150x150.png 150w" sizes="(max-width: 250px) 100vw, 250px" />](http://local.21212.com/assets/wp-content/uploads/2012/10/speakersMarcio.png)
 
 Marcio Campos is founder and CEO of PagPop Mobile Payments, a Brazilian startup focused on mobile payments in the Brazilian market. He has B.A in Dentistry at USP and MBA, and has been an entrepreneur since he was 19 years old.  After building PagPop for 4 years and learning everything about payments, participating in the 21212 Acceleration program, and raising fund from Cetus Investimentos and Intel Capital, he feels that with his strong team and great shareholders, PagPop is ready to be the leading mobile payments services and solutions in Brazil and Latin America, improving and developing a new way to accept payments and including people in a new socioeconomic environment.
 
@@ -70,22 +70,22 @@ Marcio Campos is founder and CEO of PagPop Mobile Payments, a Brazilian startup 
 
 <strong style="font-weight: bold;">Yann de Vries (Redpoint eVentures)</strong>
 
-[<img class="aligncenter size-full wp-image-4122" title="speakersYann" src="http://local.21212.com/wp-content/uploads/2012/10/speakersYann.png" alt="" width="250" height="250" srcset="http://localhost:8080/wp-content/uploads/2012/10/speakersYann.png 250w, http://localhost:8080/wp-content/uploads/2012/10/speakersYann-150x150.png 150w" sizes="(max-width: 250px) 100vw, 250px" />](http://local.21212.com/wp-content/uploads/2012/10/speakersYann.png)
+[<img class="aligncenter size-full wp-image-4122" title="speakersYann" src="{{ site.url }}/assets/wp-content/uploads/2012/10/speakersYann.png" alt="" width="250" height="250" srcset="{{ site.url }}/assets/wp-content/uploads/2012/10/speakersYann.png 250w, {{ site.url }}/assets/wp-content/uploads/2012/10/speakersYann-150x150.png 150w" sizes="(max-width: 250px) 100vw, 250px" />](http://local.21212.com/assets/wp-content/uploads/2012/10/speakersYann.png)
 
 Yann de Vries is a Founding Partner of Redpoint e.ventures. Yann brings to Brazil more than 15 years of international experience in the high tech industry across a variety of positions. Before co-founding Redpoint e.ventures, Yann spent five years heading Cisco’s Corporate Business Development activities (investments, M&A and corporate strategy) in Europe, the Middle East, Africa and Latin America. He also worked for six years in Silicon Valley with venture capital firm e.ventures, in a start-up with Sonim and in management consulting with Bain’s technology practice. He started his career as an engineer with Alcatel in Cairo and Agilent Technologies in Hong Kong.
 
 Yann holds a MSEE from the Swiss Federal Institute of Technology in Zurich and an MBA from Harvard Business School.
-  
+
 <strong id="internal-source-marker_0.6467194019351155"><br /> </strong>
 
 &nbsp;
 
 <strong style="font-weight: bold;">Matt Coffin (Coffin Capital)</strong>
 
-[<img class="aligncenter size-full wp-image-4157" title="matt" src="http://local.21212.com/wp-content/uploads/2012/10/matt.png" alt="" width="250" height="250" srcset="http://localhost:8080/wp-content/uploads/2012/10/matt.png 250w, http://localhost:8080/wp-content/uploads/2012/10/matt-150x150.png 150w" sizes="(max-width: 250px) 100vw, 250px" />](http://local.21212.com/wp-content/uploads/2012/10/matt.png)
+[<img class="aligncenter size-full wp-image-4157" title="matt" src="{{ site.url }}/assets/wp-content/uploads/2012/10/matt.png" alt="" width="250" height="250" srcset="{{ site.url }}/assets/wp-content/uploads/2012/10/matt.png 250w, {{ site.url }}/assets/wp-content/uploads/2012/10/matt-150x150.png 150w" sizes="(max-width: 250px) 100vw, 250px" />](http://local.21212.com/assets/wp-content/uploads/2012/10/matt.png)
 
 Matt is a serial investor and entrepreneur, having started and invested in over thirty early stage digital companies, including ShoeDazzle, Rubicon Project, Hautelook (sold to Nordstrom), Goldstar, Demand Media (IPO), InAdco, Mahalo, eBureau, Buscape (sold to Naspers), DocStoc, 2tor, Caring.com, and GraphEffect. Additionally, he is on the board and an investor in Machinima (#1 gaming network on YouTube), eBureau (predictive analytics), Mahalo (learning based apps) and Brighter.com (healthcare marketplace for dental care). He was CEO and Founder of LowerMyBills.com, a company that was sold to Experian for $350 million in 2005. Thru his investment firm, Coffin Capital and Ventures, Matt co-founded Brighter.com.
 
 Matt graduated from Babson College with a BA in Finance and Entrepreneurial Studies and soon after, began his career at Miller Publishing Group, the company which owned titles such as Vibe, Spin, Tennis, Sailing World, Where and several other special interest magazines. His forward thinking business ideas earned him the Ernst and Young Entrepreneur of the Year Award in 2007 and was Southern California Entrepreneur of the Year in 2006.
-  
+
 <strong id="internal-source-marker_0.6467194019351155"><br /> </strong>

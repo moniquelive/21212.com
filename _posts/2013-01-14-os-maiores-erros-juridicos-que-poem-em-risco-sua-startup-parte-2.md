@@ -13,7 +13,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/01/corporativo31.jpg
+image: /assets/wp-content/uploads/2013/01/corporativo31.jpg
 categories:
   - Blog
   - com-thumb

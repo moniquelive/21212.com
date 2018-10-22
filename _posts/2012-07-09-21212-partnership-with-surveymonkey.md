@@ -17,13 +17,13 @@ fv_video:
   - Paste your YouTube or Vimeo url
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2012/07/surveymonkey.jpg
+image: /assets/wp-content/uploads/2012/07/surveymonkey.jpg
 categories:
   - Blog
   - com-thumb
 ---
 <p style="text-align: center;">
-  <img class="wp-image-2100 aligncenter" title="SurveyMonkeyLogo011310" src="http://local.21212.com/wp-content/uploads/2012/07/SurveyMonkeyLogo011310-e1341847160316.jpg" alt="" width="352" height="53" />
+  <img class="wp-image-2100 aligncenter" title="SurveyMonkeyLogo011310" src="{{ site.url }}/assets/wp-content/uploads/2012/07/SurveyMonkeyLogo011310-e1341847160316.jpg" alt="" width="352" height="53" />
 </p>
 
 &nbsp;
@@ -36,6 +36,6 @@ Our startups will now receive credits for surveys they run during the Program. W
 
 &nbsp;
 
-<img class="wp-image-2102 aligncenter" title="484115_455531837803863_492497375_n" src="http://local.21212.com/wp-content/uploads/2012/07/484115_455531837803863_492497375_n.jpg" alt="" width="512" height="384" />
+<img class="wp-image-2102 aligncenter" title="484115_455531837803863_492497375_n" src="{{ site.url }}/assets/wp-content/uploads/2012/07/484115_455531837803863_492497375_n.jpg" alt="" width="512" height="384" />
 
-<img class="wp-image-2103 aligncenter" title="532353_455530407804006_4818760_n" src="http://local.21212.com/wp-content/uploads/2012/07/532353_455530407804006_4818760_n.jpg" alt="" width="512" height="384" />
+<img class="wp-image-2103 aligncenter" title="532353_455530407804006_4818760_n" src="{{ site.url }}/assets/wp-content/uploads/2012/07/532353_455530407804006_4818760_n.jpg" alt="" width="512" height="384" />

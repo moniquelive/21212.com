@@ -12,13 +12,13 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/07/shopifythumb.jpg
+image: /assets/wp-content/uploads/2013/07/shopifythumb.jpg
 categories:
   - Blog
   - com-thumb
 ---
 <p style="text-align: center;">
-  <a href="http://local.21212.com/wp-content/uploads/2013/07/shopify2.jpg"><img class="size-full wp-image-6503 aligncenter" alt="shopify2" src="http://local.21212.com/wp-content/uploads/2013/07/shopify2.jpg" width="460" height="401" srcset="http://localhost:8080/wp-content/uploads/2013/07/shopify2.jpg 460w, http://localhost:8080/wp-content/uploads/2013/07/shopify2-300x261.jpg 300w" sizes="(max-width: 460px) 100vw, 460px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/07/shopify2.jpg"><img class="size-full wp-image-6503 aligncenter" alt="shopify2" src="{{ site.url }}/assets/wp-content/uploads/2013/07/shopify2.jpg" width="460" height="401" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/shopify2.jpg 460w, {{ site.url }}/assets/wp-content/uploads/2013/07/shopify2-300x261.jpg 300w" sizes="(max-width: 460px) 100vw, 460px" /></a>
 </p>
 
 <p dir="ltr">
@@ -33,7 +33,7 @@ categories:
   Shopify currently hosts more than 60,000 active online retailers, including: Gatorade, Amnesty International, General Electric, Tesla Motors, LMFAO, Foo Fighters, Encyclopedia Britannica, Tata Group, etc. Shopify will take all the hassle out of building an online store, so its users can focus on what they do best: creating and selling your products and services!
 </p>
 
-<img class="size-full wp-image-6502 alignleft" alt="shopify1" src="http://local.21212.com/wp-content/uploads/2013/07/shopify1.jpg" width="284" height="177" />
+<img class="size-full wp-image-6502 alignleft" alt="shopify1" src="{{ site.url }}/assets/wp-content/uploads/2013/07/shopify1.jpg" width="284" height="177" />
 
 <p dir="ltr">
   Shopify was founded in 2004 by two snowboarding enthusiasts who wanted to create a better way to sell their snowboards online. Shopify has received $22 million in Series A and B funding from Bessemer Venture Partners, FirstMark Capital, Felicis Ventures, and Georgian Partners.

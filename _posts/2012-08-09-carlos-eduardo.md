@@ -37,7 +37,7 @@ company:
   - ZeroPaper
 startup:
   - "2289"
-image: /wp-content/uploads/2012/08/Carlos_eduardo.png
+image: /assets/wp-content/uploads/2012/08/Carlos_eduardo.png
 categories:
   - people
 ---

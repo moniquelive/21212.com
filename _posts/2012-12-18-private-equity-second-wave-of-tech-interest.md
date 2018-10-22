@@ -19,7 +19,7 @@ data-publicacao:
 tit-publicacao:
   - Private equity second wave of tech interest
 link-publicacao:
-  - /wp-content/uploads/2012/12/20121212-Private-EquitySecond-WaveOfTechinterest-BrazilConfidential.pdf
+  - /assets/wp-content/uploads/2012/12/20121212-Private-EquitySecond-WaveOfTechinterest-BrazilConfidential.pdf
 nome-veiculo:
   - Brazil Confidential
 categories:

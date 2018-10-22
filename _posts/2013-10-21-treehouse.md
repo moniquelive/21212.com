@@ -16,7 +16,7 @@ partners_url:
   - http://teamtreehouse.com/
 is_premium:
   - 'false'
-image: /wp-content/uploads/2013/10/treehouse.jpg
+image: /assets/wp-content/uploads/2013/10/treehouse.jpg
 categories:
   - partners
 ---

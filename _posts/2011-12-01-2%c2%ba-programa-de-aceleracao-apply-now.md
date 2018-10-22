@@ -15,13 +15,13 @@ fv_video_img:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2011/12/img-program-1.png
+image: /assets/wp-content/uploads/2011/12/img-program-1.png
 categories:
   - Blog
   - com-thumb
 tags:
   - application
 ---
-[<img class="aligncenter size-full wp-image-1002" src="http://local.21212.com/wp-content/uploads/2011/12/apply2012-e1322762142269.jpg" alt="" width="540" height="968" srcset="http://localhost:8080/wp-content/uploads/2011/12/apply2012-e1322762142269.jpg 540w, http://localhost:8080/wp-content/uploads/2011/12/apply2012-e1322762142269-167x300.jpg 167w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/apply/)
+[<img class="aligncenter size-full wp-image-1002" src="{{ site.url }}/assets/wp-content/uploads/2011/12/apply2012-e1322762142269.jpg" alt="" width="540" height="968" srcset="{{ site.url }}/assets/wp-content/uploads/2011/12/apply2012-e1322762142269.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2011/12/apply2012-e1322762142269-167x300.jpg 167w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/apply/)
 
 &nbsp;

@@ -26,7 +26,7 @@ company:
   - Matter Unlimited
 startup:
   - ""
-image: /wp-content/uploads/2011/09/RH-Head-Shot-e1317076327176.jpg
+image: /assets/wp-content/uploads/2011/09/RH-Head-Shot-e1317076327176.jpg
 categories:
   - people
 ---

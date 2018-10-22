@@ -27,8 +27,8 @@ fb_mentioned_pages_post_ids:
   - 'a:1:{i:0;s:31:"234458136577902_441077102582449";}'
 fb_status_messages:
   - |
-    a:3:{i:0;a:2:{s:7:"message";s:228:"Posted to mentioned pages' Facebook Timelines. <a href="http://www.facebook.com/234458136577902/posts/441077102582449" target="_blank"><img src="http://graph.facebook.com/234458136577902/picture" width="15" target="_blank"></a> ";s:5:"error";s:0:"";}i:1;a:2:{s:7:"message";s:352:"Failed posting to your Facebook Timeline. Error: {"message":"Object at URL 'http://local.21212.com/blog/we-just-launched-our-brand-new-site/' of type 'article' is invalid because it specifies multiple 'og:url' values: http://local.21212.com/blog/we-just-launched-our-brand-new-site/, http://local.21212.com/blog/we-just-launched-our-brand-new-site/.","type":"Exception"}";s:5:"error";s:1:"1";}i:2;a:2:{s:7:"message";s:118:"Posted to <a href="http://www.facebook.com/234458136577902_441077102582449" target="_blank">your Facebook Timeline</a>";s:5:"error";s:0:"";}}
-image: /wp-content/uploads/2012/07/0001.jpg
+    a:3:{i:0;a:2:{s:7:"message";s:228:"Posted to mentioned pages' Facebook Timelines. <a href="http://www.facebook.com/234458136577902/posts/441077102582449" target="_blank"><img src="{{ site.url }}http://graph.facebook.com/234458136577902/picture" width="15" target="_blank"></a> ";s:5:"error";s:0:"";}i:1;a:2:{s:7:"message";s:352:"Failed posting to your Facebook Timeline. Error: {"message":"Object at URL 'http://local.21212.com/blog/we-just-launched-our-brand-new-site/' of type 'article' is invalid because it specifies multiple 'og:url' values: http://local.21212.com/blog/we-just-launched-our-brand-new-site/, http://local.21212.com/blog/we-just-launched-our-brand-new-site/.","type":"Exception"}";s:5:"error";s:1:"1";}i:2;a:2:{s:7:"message";s:118:"Posted to <a href="http://www.facebook.com/234458136577902_441077102582449" target="_blank">your Facebook Timeline</a>";s:5:"error";s:0:"";}}
+image: /assets/wp-content/uploads/2012/07/0001.jpg
 categories:
   - Blog
   - com-thumb

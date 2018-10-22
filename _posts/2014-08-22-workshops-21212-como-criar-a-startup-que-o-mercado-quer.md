@@ -12,12 +12,12 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2014/01/logo21thumb.jpg
+image: /assets/wp-content/uploads/2014/01/logo21thumb.jpg
 categories:
   - Blog
   - com-thumb
 ---
-<img class="aligncenter size-full wp-image-7489" src="http://local.21212.com/wp-content/uploads/2014/08/Screen-Shot-2014-08-22-at-11.10.43-AM-e1408716686711.png" alt="Screen Shot 2014-08-22 at 11.10.43 AM" width="540" height="178" />
+<img class="aligncenter size-full wp-image-7489" src="{{ site.url }}/assets/wp-content/uploads/2014/08/Screen-Shot-2014-08-22-at-11.10.43-AM-e1408716686711.png" alt="Screen Shot 2014-08-22 at 11.10.43 AM" width="540" height="178" />
 
 Inscrições: <a title="Cursos 21212" href="http://cursos21212com.splashthat.com/" target="_blank">http://cursos21212com.splashthat.com/</a>
 

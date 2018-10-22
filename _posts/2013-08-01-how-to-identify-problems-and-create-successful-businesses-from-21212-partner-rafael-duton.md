@@ -12,14 +12,14 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/08/examethumb..jpg
+image: /assets/wp-content/uploads/2013/08/examethumb..jpg
 categories:
   - Blog
   - com-thumb
 ---
 <div id="attachment_6550" style="width: 423px" class="wp-caption aligncenter">
-  <a href="http://local.21212.com/wp-content/uploads/2013/08/size_590_Imagem_feita_por_uma_GoPro.jpg"><img aria-describedby="caption-attachment-6550" class=" wp-image-6550 " alt="Photo from GoPro" src="http://local.21212.com/wp-content/uploads/2013/08/size_590_Imagem_feita_por_uma_GoPro.jpg" width="413" height="310" srcset="http://localhost:8080/wp-content/uploads/2013/08/size_590_Imagem_feita_por_uma_GoPro.jpg 590w, http://localhost:8080/wp-content/uploads/2013/08/size_590_Imagem_feita_por_uma_GoPro-300x225.jpg 300w" sizes="(max-width: 413px) 100vw, 413px" /></a>
-  
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/08/size_590_Imagem_feita_por_uma_GoPro.jpg"><img aria-describedby="caption-attachment-6550" class=" wp-image-6550 " alt="Photo from GoPro" src="{{ site.url }}/assets/wp-content/uploads/2013/08/size_590_Imagem_feita_por_uma_GoPro.jpg" width="413" height="310" srcset="{{ site.url }}/assets/wp-content/uploads/2013/08/size_590_Imagem_feita_por_uma_GoPro.jpg 590w, {{ site.url }}/assets/wp-content/uploads/2013/08/size_590_Imagem_feita_por_uma_GoPro-300x225.jpg 300w" sizes="(max-width: 413px) 100vw, 413px" /></a>
+
   <p id="caption-attachment-6550" class="wp-caption-text">
     Photo from GoPro
   </p>

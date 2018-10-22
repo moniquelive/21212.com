@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2015/03/banner_mentoria-1.png
+image: /assets/wp-content/uploads/2015/03/banner_mentoria-1.png
 categories:
   - Blog
 ---

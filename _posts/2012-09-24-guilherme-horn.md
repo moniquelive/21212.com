@@ -24,7 +24,7 @@ company:
   - ÓRAMA
 startup:
   - ""
-image: /wp-content/uploads/2012/09/Guilherme_Horn_2.jpg
+image: /assets/wp-content/uploads/2012/09/Guilherme_Horn_2.jpg
 categories:
   - people
 ---

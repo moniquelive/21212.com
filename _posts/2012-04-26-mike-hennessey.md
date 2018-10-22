@@ -24,7 +24,7 @@ company:
   - BlueBanyan LLC
 startup:
   - ""
-image: /wp-content/uploads/2012/04/biz-photo-mike-e1335494978597.jpeg
+image: /assets/wp-content/uploads/2012/04/biz-photo-mike-e1335494978597.jpeg
 categories:
   - people
 tags:

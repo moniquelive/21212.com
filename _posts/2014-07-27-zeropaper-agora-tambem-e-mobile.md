@@ -12,14 +12,14 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2014/07/LOGO_ZeroPaperVertical-150x150.png
+image: /assets/wp-content/uploads/2014/07/LOGO_ZeroPaperVertical-150x150.png
 categories:
   - Blog
   - com-thumb
 ---
 A ZeroPaper, startup acelerada no 3º Programa da 21212 e hoje uma das maiores empresas de software financeiro para pequenos negócios do Brasil, lançou uma versão do seu gerenciador financeiro para celulares e tablets, o ZeroPaper Mobile.
 
-<img class="aligncenter size-full wp-image-7429" src="http://local.21212.com/wp-content/uploads/2014/07/ZeropaperMobile.jpg" alt="ZeropaperMobile" width="540" height="465" srcset="http://localhost:8080/wp-content/uploads/2014/07/ZeropaperMobile.jpg 540w, http://localhost:8080/wp-content/uploads/2014/07/ZeropaperMobile-300x258.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
+<img class="aligncenter size-full wp-image-7429" src="{{ site.url }}/assets/wp-content/uploads/2014/07/ZeropaperMobile.jpg" alt="ZeropaperMobile" width="540" height="465" srcset="{{ site.url }}/assets/wp-content/uploads/2014/07/ZeropaperMobile.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2014/07/ZeropaperMobile-300x258.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
 
 O aplicativo oferece a possibilidade de incluir fotos de comprovantes de pagamento para armazená-los em arquivos de controle financeiro – independente da qualidade da conexão de rede móvel. Os comprovantes podem ser automaticamente geolocalizados e associados a fornecedores usando a integração do aplicativo com a maior rede social de localização do mundo, o Foursquare.
 

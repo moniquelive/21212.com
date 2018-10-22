@@ -5,7 +5,7 @@ date: 2012-11-29T12:25:18-03:00
 author: "21212"
 excerpt: |
   In the last three blog posts, we posted videos of our companies’ presentations at the second 21212 Demo Day.
-  
+
   Last, but not least, we would like to share with you our final company presentations: Access Club and Zona Universitaria.
 layout: post
 guid: http://local.21212.com/?p=4432
@@ -16,7 +16,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2012/11/pitch-access-zona.jpg
+image: /assets/wp-content/uploads/2012/11/pitch-access-zona.jpg
 categories:
   - Blog
   - com-thumb

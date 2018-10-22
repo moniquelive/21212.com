@@ -20,7 +20,7 @@ company:
   - Bloompa
 startup:
   - "818"
-image: /wp-content/uploads/2011/10/ricardo-dantas.jpg
+image: /assets/wp-content/uploads/2011/10/ricardo-dantas.jpg
 categories:
   - people
 ---

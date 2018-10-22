@@ -26,7 +26,7 @@ company:
   - Monograme
 startup:
   - "5660"
-image: /wp-content/uploads/2011/06/renatocesar.jpg
+image: /assets/wp-content/uploads/2011/06/renatocesar.jpg
 categories:
   - people
 ---
@@ -36,22 +36,22 @@ Past experience:
 
 
 <ul>
-	
+
 
 <li>Head designer at 21212 Digital Accelerator</li>
 
 
-	
+
 
 <li>Webdesigner at LANCENET!</li>
 
 
-	
+
 
 <li>Digital Designer at IMMERSION</li>
 
 
-	
+
 
 <li>Art Assistance at D3i</li>
 

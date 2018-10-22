@@ -24,7 +24,7 @@ company:
   - Access Club
 startup:
   - "2275"
-image: /wp-content/uploads/2012/07/CarlosFredericoAmaral1.png
+image: /assets/wp-content/uploads/2012/07/CarlosFredericoAmaral1.png
 categories:
   - people
 ---

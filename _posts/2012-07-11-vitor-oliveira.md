@@ -24,7 +24,7 @@ company:
   - GoBooks
 startup:
   - "5666"
-image: /wp-content/uploads/2012/07/vitoroliveira.jpg
+image: /assets/wp-content/uploads/2012/07/vitoroliveira.jpg
 categories:
   - people
 ---
@@ -35,9 +35,9 @@ He is a developer and a fan of tech entrepreneurship who is helping startups to 
 Past experience:
 
 IT Summer Intern @ Brandship (21212 startup) &#8211; 2011/2012
-  
+
 IT Summer Intern @ Banco BBM S.A. &#8211; 2011/2012
-  
+
 Academic scholarship @ PUC-Rio &#8211; 2009 until now
-  
+
 IT Developer @ MRS Logística S.A. &#8211; 2003/2007

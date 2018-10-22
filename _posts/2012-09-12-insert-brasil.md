@@ -17,16 +17,16 @@ fv_video_img:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2012/09/insert.png
+image: /assets/wp-content/uploads/2012/09/insert.png
 categories:
   - Blog
   - com-thumb
 ---
-<img class="alignnone" title="insert" src="http://sphotos-c.ak.fbcdn.net/hphotos-ak-snc7/599532_10150936869160974_1768410689_n.jpg" alt="" width="500" height="350" />
+<img class="alignnone" title="insert" src="{{ site.url }}http://sphotos-c.ak.fbcdn.net/hphotos-ak-snc7/599532_10150936869160974_1768410689_n.jpg" alt="" width="500" height="350" />
 
 This past weekend, we had our first **BIG** design conference in Rio, and of course, 21212 was there to see what it was all about.
 
-[<img class="alignnone size-full wp-image-3707" title="insert2" src="http://local.21212.com/wp-content/uploads/2012/09/insert2.png" alt="" width="500" height="281" srcset="http://localhost:8080/wp-content/uploads/2012/09/insert2.png 500w, http://localhost:8080/wp-content/uploads/2012/09/insert2-300x168.png 300w" sizes="(max-width: 500px) 100vw, 500px" />](http://local.21212.com/wp-content/uploads/2012/09/insert2.png)
+[<img class="alignnone size-full wp-image-3707" title="insert2" src="{{ site.url }}/assets/wp-content/uploads/2012/09/insert2.png" alt="" width="500" height="281" srcset="{{ site.url }}/assets/wp-content/uploads/2012/09/insert2.png 500w, {{ site.url }}/assets/wp-content/uploads/2012/09/insert2-300x168.png 300w" sizes="(max-width: 500px) 100vw, 500px" />](http://local.21212.com/assets/wp-content/uploads/2012/09/insert2.png)
 
 The event happened in the port district region, in an old factory called &#8220;Centro Cultural Ação da Cidadania&#8221; that has been converted to welcome such events.
 
@@ -50,7 +50,7 @@ The guys from Tátil presented some of their most famous cases, providing a walk
 
 But the main event was certainly the lecture by Joshua Davis, &#8220;Beyond Play&#8221;.
 
-[<img class="alignnone size-full wp-image-3711" title="insert4" src="http://local.21212.com/wp-content/uploads/2012/09/insert4.png" alt="" width="500" height="240" srcset="http://localhost:8080/wp-content/uploads/2012/09/insert4.png 500w, http://localhost:8080/wp-content/uploads/2012/09/insert4-300x144.png 300w" sizes="(max-width: 500px) 100vw, 500px" />](http://local.21212.com/wp-content/uploads/2012/09/insert4.png)
+[<img class="alignnone size-full wp-image-3711" title="insert4" src="{{ site.url }}/assets/wp-content/uploads/2012/09/insert4.png" alt="" width="500" height="240" srcset="{{ site.url }}/assets/wp-content/uploads/2012/09/insert4.png 500w, {{ site.url }}/assets/wp-content/uploads/2012/09/insert4-300x144.png 300w" sizes="(max-width: 500px) 100vw, 500px" />](http://local.21212.com/assets/wp-content/uploads/2012/09/insert4.png)
 
 Joshua talked about his life and work, and how he decided that he wanted to have fun while working. He claimed that both things are related: when you enjoy what you are doing, you spur creativity; on the other hand, chances are that you will produce the best work when you are having fun.
 

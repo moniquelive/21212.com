@@ -12,13 +12,13 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/08/HackThumb.jpg
+image: /assets/wp-content/uploads/2013/08/HackThumb.jpg
 categories:
   - Blog
   - com-thumb
 ---
 <p dir="ltr">
-  <a href="http://local.21212.com/wp-content/uploads/2013/08/Untitled-5.jpg"><img class="aligncenter size-full wp-image-6638" alt="Untitled-5" src="http://local.21212.com/wp-content/uploads/2013/08/Untitled-5.jpg" width="540" height="200" srcset="http://localhost:8080/wp-content/uploads/2013/08/Untitled-5.jpg 540w, http://localhost:8080/wp-content/uploads/2013/08/Untitled-5-300x111.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/08/Untitled-5.jpg"><img class="aligncenter size-full wp-image-6638" alt="Untitled-5" src="{{ site.url }}/assets/wp-content/uploads/2013/08/Untitled-5.jpg" width="540" height="200" srcset="{{ site.url }}/assets/wp-content/uploads/2013/08/Untitled-5.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/08/Untitled-5-300x111.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
 </p>
 
 <p dir="ltr">
@@ -56,7 +56,7 @@ You can sign up to join the competition at the [event site](http://www.rio.rj.go
 </p>
 
 <p dir="ltr">
-  <a href="http://local.21212.com/wp-content/uploads/2013/08/Hackathon.jpg"><img class="aligncenter size-full wp-image-6635" alt="Hackathon" src="http://local.21212.com/wp-content/uploads/2013/08/Hackathon.jpg" width="440" height="540" srcset="http://localhost:8080/wp-content/uploads/2013/08/Hackathon.jpg 440w, http://localhost:8080/wp-content/uploads/2013/08/Hackathon-244x300.jpg 244w" sizes="(max-width: 440px) 100vw, 440px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/08/Hackathon.jpg"><img class="aligncenter size-full wp-image-6635" alt="Hackathon" src="{{ site.url }}/assets/wp-content/uploads/2013/08/Hackathon.jpg" width="440" height="540" srcset="{{ site.url }}/assets/wp-content/uploads/2013/08/Hackathon.jpg 440w, {{ site.url }}/assets/wp-content/uploads/2013/08/Hackathon-244x300.jpg 244w" sizes="(max-width: 440px) 100vw, 440px" /></a>
 </p>
 
 &nbsp;

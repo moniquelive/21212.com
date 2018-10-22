@@ -26,7 +26,7 @@ company:
   - 77 Venture
 startup:
   - ""
-image: /wp-content/uploads/2011/10/IMG_0115-e1318946264674.jpeg
+image: /assets/wp-content/uploads/2011/10/IMG_0115-e1318946264674.jpeg
 categories:
   - people
 ---

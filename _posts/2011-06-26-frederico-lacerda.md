@@ -28,7 +28,7 @@ company:
   - 21212 Digital Accelerator
 startup:
   - ""
-image: /wp-content/uploads/2013/01/Fred.jpg
+image: /assets/wp-content/uploads/2013/01/Fred.jpg
 categories:
   - people
 ---

@@ -22,7 +22,7 @@ startup-link:
   - http://www.monogra.me
 startup-descricao:
   - Premium fashion basics without middlemen.
-image: /wp-content/uploads/2013/03/monograme.jpg
+image: /assets/wp-content/uploads/2013/03/monograme.jpg
 categories:
   - companies
 ---

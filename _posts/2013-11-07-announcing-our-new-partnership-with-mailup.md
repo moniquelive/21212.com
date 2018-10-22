@@ -12,13 +12,13 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/11/mailup-logo.jpg
+image: /assets/wp-content/uploads/2013/11/mailup-logo.jpg
 categories:
   - Blog
   - com-thumb
 ---
 <p dir="ltr">
-  <a href="http://local.21212.com/wp-content/uploads/2013/11/MailUp2.png"><img class="aligncenter size-full wp-image-6924" alt="MailUp2" src="http://local.21212.com/wp-content/uploads/2013/11/MailUp2.png" width="487" height="258" srcset="http://localhost:8080/wp-content/uploads/2013/11/MailUp2.png 487w, http://localhost:8080/wp-content/uploads/2013/11/MailUp2-300x158.png 300w" sizes="(max-width: 487px) 100vw, 487px" /></a>We are happy to announce our new partnership with <a href="http://www.mailup.com/">MailUp</a>, a platform that offers a complete email delivery solution.
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/11/MailUp2.png"><img class="aligncenter size-full wp-image-6924" alt="MailUp2" src="{{ site.url }}/assets/wp-content/uploads/2013/11/MailUp2.png" width="487" height="258" srcset="{{ site.url }}/assets/wp-content/uploads/2013/11/MailUp2.png 487w, {{ site.url }}/assets/wp-content/uploads/2013/11/MailUp2-300x158.png 300w" sizes="(max-width: 487px) 100vw, 487px" /></a>We are happy to announce our new partnership with <a href="http://www.mailup.com/">MailUp</a>, a platform that offers a complete email delivery solution.
 </p>
 
 <p dir="ltr">

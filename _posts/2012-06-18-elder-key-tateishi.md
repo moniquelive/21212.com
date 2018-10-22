@@ -20,7 +20,7 @@ company:
   - Simpply
 startup:
   - "839"
-image: /wp-content/uploads/2011/10/elder-key-tateishi1.jpg
+image: /assets/wp-content/uploads/2011/10/elder-key-tateishi1.jpg
 categories:
   - people
 ---

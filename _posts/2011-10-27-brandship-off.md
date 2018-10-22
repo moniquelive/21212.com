@@ -56,7 +56,7 @@ startup-link:
   - http://www.facebook.com/brandshipdigitalagency
 startup-descricao:
   - Social agency
-image: /wp-content/uploads/2011/10/logo.png
+image: /assets/wp-content/uploads/2011/10/logo.png
 categories:
   - companies
 ---

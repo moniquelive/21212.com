@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/02/duton_thumbs.jpg
+image: /assets/wp-content/uploads/2013/02/duton_thumbs.jpg
 categories:
   - Blog
   - com-thumb
@@ -20,7 +20,7 @@ categories:
 Last week, Estadão released an article where our partner Rafael Duton discussed the five errors that could end any partnership in the business world. [Click here](http://pme.estadao.com.br/noticias/noticias,confira-cinco-erros-que-podem-acabar-com-qualquer-sociedade-no-mundo-dos-negocios-,2633,0.htm) to read the original article in Portuguese or continue reading below for a summary in English.
 
 <p style="text-align: center;">
-  <img class="size-medium wp-image-5340 aligncenter" alt="duton21212" src="http://local.21212.com/wp-content/uploads/2013/02/duton-300x175.jpg" width="300" height="175" srcset="http://localhost:8080/wp-content/uploads/2013/02/duton-300x175.jpg 300w, http://localhost:8080/wp-content/uploads/2013/02/duton.jpg 540w" sizes="(max-width: 300px) 100vw, 300px" />
+  <img class="size-medium wp-image-5340 aligncenter" alt="duton21212" src="{{ site.url }}/assets/wp-content/uploads/2013/02/duton-300x175.jpg" width="300" height="175" srcset="{{ site.url }}/assets/wp-content/uploads/2013/02/duton-300x175.jpg 300w, {{ site.url }}/assets/wp-content/uploads/2013/02/duton.jpg 540w" sizes="(max-width: 300px) 100vw, 300px" />
 </p>
 
 <p style="text-align: center;">

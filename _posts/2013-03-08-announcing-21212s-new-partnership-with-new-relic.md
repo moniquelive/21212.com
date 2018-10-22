@@ -12,13 +12,13 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/03/21212newrelic.jpg
+image: /assets/wp-content/uploads/2013/03/21212newrelic.jpg
 categories:
   - Blog
   - com-thumb
 ---
 <p style="text-align: center;">
-  <a href="http://local.21212.com/wp-content/uploads/2013/03/main.jpg"><img class=" wp-image-5583 aligncenter" alt="main" src="http://local.21212.com/wp-content/uploads/2013/03/main.jpg" width="432" height="240" srcset="http://localhost:8080/wp-content/uploads/2013/03/main.jpg 540w, http://localhost:8080/wp-content/uploads/2013/03/main-300x166.jpg 300w" sizes="(max-width: 432px) 100vw, 432px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/03/main.jpg"><img class=" wp-image-5583 aligncenter" alt="main" src="{{ site.url }}/assets/wp-content/uploads/2013/03/main.jpg" width="432" height="240" srcset="{{ site.url }}/assets/wp-content/uploads/2013/03/main.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/03/main-300x166.jpg 300w" sizes="(max-width: 432px) 100vw, 432px" /></a>
 </p>
 
 21212 has just partnered with [New Relic](http://newrelic.com/), an SaaS application performance management company from San Francisco, California. New Relic lets you monitor, troubleshoot and scale a web app, keeping it from slowing down with the increase of visitors. They make it easy by showing the most important performance data for your app in real time. Arley Moura, of 21212’s start-up [ZeroPaper](https://www.zeropaper.com.br/), has been using New Relic and told us a little about how it has helped them out:

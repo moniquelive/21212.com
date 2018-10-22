@@ -16,7 +16,7 @@ partners_url:
   - 'https://eventioz.com.br/l/cupom-desconto?utm_source=eventioz&utm_medium=partner&utm_campaign=ez_21212_eventbrite&utm_content=button_cta&source=ezprem'
 is_premium:
   - 'false'
-image: /wp-content/uploads/2015/04/eventbrite-logo-vector.png
+image: /assets/wp-content/uploads/2015/04/eventbrite-logo-vector.png
 categories:
   - partners
 ---

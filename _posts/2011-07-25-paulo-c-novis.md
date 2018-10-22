@@ -28,7 +28,7 @@ company:
   - Infoglobo
 startup:
   - ""
-image: /wp-content/uploads/2011/07/PauloNovis.png
+image: /assets/wp-content/uploads/2011/07/PauloNovis.png
 categories:
   - people
 ---

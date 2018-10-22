@@ -12,13 +12,13 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/11/Tree-Houselogo.png
+image: /assets/wp-content/uploads/2013/11/Tree-Houselogo.png
 categories:
   - Blog
   - com-thumb
 ---
 <p dir="ltr">
-  <a href="http://local.21212.com/wp-content/uploads/2013/11/Treehouse2.png"><img class="aligncenter size-full wp-image-6897" alt="Treehouse2" src="http://local.21212.com/wp-content/uploads/2013/11/Treehouse2.png" width="503" height="123" srcset="http://localhost:8080/wp-content/uploads/2013/11/Treehouse2.png 503w, http://localhost:8080/wp-content/uploads/2013/11/Treehouse2-300x73.png 300w" sizes="(max-width: 503px) 100vw, 503px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/11/Treehouse2.png"><img class="aligncenter size-full wp-image-6897" alt="Treehouse2" src="{{ site.url }}/assets/wp-content/uploads/2013/11/Treehouse2.png" width="503" height="123" srcset="{{ site.url }}/assets/wp-content/uploads/2013/11/Treehouse2.png 503w, {{ site.url }}/assets/wp-content/uploads/2013/11/Treehouse2-300x73.png 300w" sizes="(max-width: 503px) 100vw, 503px" /></a>
 </p>
 
 <p dir="ltr">

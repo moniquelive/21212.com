@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/09/pagthumb.jpg
+image: /assets/wp-content/uploads/2013/09/pagthumb.jpg
 categories:
   - Blog
   - com-thumb
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p dir="ltr">
-  <a href="http://local.21212.com/wp-content/uploads/2013/09/pagpop.jpg"><img class="aligncenter size-full wp-image-6696" alt="pagpop" src="http://local.21212.com/wp-content/uploads/2013/09/pagpop.jpg" width="540" height="350" srcset="http://localhost:8080/wp-content/uploads/2013/09/pagpop.jpg 540w, http://localhost:8080/wp-content/uploads/2013/09/pagpop-300x194.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/09/pagpop.jpg"><img class="aligncenter size-full wp-image-6696" alt="pagpop" src="{{ site.url }}/assets/wp-content/uploads/2013/09/pagpop.jpg" width="540" height="350" srcset="{{ site.url }}/assets/wp-content/uploads/2013/09/pagpop.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/09/pagpop-300x194.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
 </p>
 
 Pagpop’s founder, Marcio Campos, explained how he came up with the idea of one of the easiest and most practical ways of digital payment: an app that enable payments by credit card through a device attached to the cellphone. The idea came up during an appoitment with a patient. Formelly a surgeon dentist, Campos wanted to make his patients lives easier by creating a way of payment that could eliminate the main problem that used to happen when people paid by check: the payment defaults.

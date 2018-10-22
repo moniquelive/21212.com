@@ -17,14 +17,14 @@ fv_video_img:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2012/09/logo1.jpeg
+image: /assets/wp-content/uploads/2012/09/logo1.jpeg
 categories:
   - Blog
   - com-thumb
 ---
 <strong id="internal-source-marker_0.18057800480164587"><a href="http://techcrunch.com/events/disrupt-sf-2012/event-info/">TechCrunch SF Disrupt 2012</a> starts Monday, September 10 and will end on the 12th.  The TechCrunch conference is meant to bring together experts in the digital and entrepreneurial space in order to present many points of view on changing technological world.</strong>
 
-<img src="https://lh6.googleusercontent.com/TMpg22TsaxF3Lx1nf5rGUrMb12jepKuWE1SueSmxiJ0gh88C4g6xcJdFY-dCMfXSaTfnaiNmO37giB_f-yUbQ_HYoydwySRSjnIYp6Nv2TlTd1FIdSI" alt="" width="540" height="331" />
+<img src="{{ site.url }}https://lh6.googleusercontent.com/TMpg22TsaxF3Lx1nf5rGUrMb12jepKuWE1SueSmxiJ0gh88C4g6xcJdFY-dCMfXSaTfnaiNmO37giB_f-yUbQ_HYoydwySRSjnIYp6Nv2TlTd1FIdSI" alt="" width="540" height="331" />
 
 The Conference also features an on stage competition called Startup Battlefield.  As well, over 100 startups will be demoing their products.  There is a [pavilion this year dedicated to Brazil!](http://techcrunch.com/2012/07/04/pavilions/)
 

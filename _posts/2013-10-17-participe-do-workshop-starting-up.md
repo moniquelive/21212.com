@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/10/fb_21212-2.jpg
+image: /assets/wp-content/uploads/2013/10/fb_21212-2.jpg
 categories:
   - Blog
   - com-thumb
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p dir="ltr">
-  <a href="http://local.21212.com/wp-content/uploads/2013/10/fb_212121.jpg"><img class="aligncenter size-full wp-image-6802" alt="fb_21212" src="http://local.21212.com/wp-content/uploads/2013/10/fb_212121.jpg" width="540" height="282" srcset="http://localhost:8080/wp-content/uploads/2013/10/fb_212121.jpg 540w, http://localhost:8080/wp-content/uploads/2013/10/fb_212121-300x156.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/10/fb_212121.jpg"><img class="aligncenter size-full wp-image-6802" alt="fb_21212" src="{{ site.url }}/assets/wp-content/uploads/2013/10/fb_212121.jpg" width="540" height="282" srcset="{{ site.url }}/assets/wp-content/uploads/2013/10/fb_212121.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/10/fb_212121-300x156.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
 </p>
 
 <p dir="ltr">

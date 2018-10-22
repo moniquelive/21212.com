@@ -31,7 +31,7 @@ company:
   - Site Sustentável
 startup:
   - "2292"
-image: /wp-content/uploads/2012/07/Site-Sustentavel-Maximiliano-Muniz1.png
+image: /assets/wp-content/uploads/2012/07/Site-Sustentavel-Maximiliano-Muniz1.png
 categories:
   - people
 ---

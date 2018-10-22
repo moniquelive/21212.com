@@ -20,7 +20,7 @@ company:
   - ""
 startup:
   - "5666"
-image: /wp-content/uploads/2013/05/otakar.jpg
+image: /assets/wp-content/uploads/2013/05/otakar.jpg
 categories:
   - people
 ---

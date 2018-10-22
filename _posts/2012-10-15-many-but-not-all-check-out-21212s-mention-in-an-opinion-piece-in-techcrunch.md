@@ -17,7 +17,7 @@ fv_video_img:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2012/10/techcrunch.png
+image: /assets/wp-content/uploads/2012/10/techcrunch.png
 categories:
   - Blog
   - com-thumb
@@ -26,4 +26,4 @@ Yesterday, Peter Relan posted an opinion piece in TechCrunch titled, [90% of Inc
 
 He mentions 21212 as an example of a tech accelerator that can help the urban development in this fast growing economy.  He described in one sentence exactly what we aim to do &#8220;incubate tomorrow’s disruptors.&#8221;  Here, we have a heavy focus mentorship and strong entrepreneurs in our accelerator and a growing network that is dedicated to seeing the growth of an entrepreneurial ecosystem and we are excited to be a driver in this space!
 
-[<img class="alignnone size-full wp-image-4069" title="techcrunch21212" src="http://local.21212.com/wp-content/uploads/2012/10/techcrunch212122.png" alt="" width="540" height="597" srcset="http://localhost:8080/wp-content/uploads/2012/10/techcrunch212122.png 540w, http://localhost:8080/wp-content/uploads/2012/10/techcrunch212122-271x300.png 271w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/wp-content/uploads/2012/10/techcrunch212122.png)
+[<img class="alignnone size-full wp-image-4069" title="techcrunch21212" src="{{ site.url }}/assets/wp-content/uploads/2012/10/techcrunch212122.png" alt="" width="540" height="597" srcset="{{ site.url }}/assets/wp-content/uploads/2012/10/techcrunch212122.png 540w, {{ site.url }}/assets/wp-content/uploads/2012/10/techcrunch212122-271x300.png 271w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/assets/wp-content/uploads/2012/10/techcrunch212122.png)

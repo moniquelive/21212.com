@@ -12,13 +12,13 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/10/U-start.jpg
+image: /assets/wp-content/uploads/2013/10/U-start.jpg
 categories:
   - Blog
   - com-thumb
 ---
 <p dir="ltr">
-  <a href="http://local.21212.com/wp-content/uploads/2013/10/U-Start-Logo-2.jpg"><img class="aligncenter size-full wp-image-6857" alt="U-Start-Logo-2" src="http://local.21212.com/wp-content/uploads/2013/10/U-Start-Logo-2.jpg" width="488" height="282" srcset="http://localhost:8080/wp-content/uploads/2013/10/U-Start-Logo-2.jpg 488w, http://localhost:8080/wp-content/uploads/2013/10/U-Start-Logo-2-300x173.jpg 300w" sizes="(max-width: 488px) 100vw, 488px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/10/U-Start-Logo-2.jpg"><img class="aligncenter size-full wp-image-6857" alt="U-Start-Logo-2" src="{{ site.url }}/assets/wp-content/uploads/2013/10/U-Start-Logo-2.jpg" width="488" height="282" srcset="{{ site.url }}/assets/wp-content/uploads/2013/10/U-Start-Logo-2.jpg 488w, {{ site.url }}/assets/wp-content/uploads/2013/10/U-Start-Logo-2-300x173.jpg 300w" sizes="(max-width: 488px) 100vw, 488px" /></a>
 </p>
 
 <p dir="ltr">

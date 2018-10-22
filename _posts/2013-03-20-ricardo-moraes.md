@@ -20,7 +20,7 @@ company:
   - Memed
 startup:
   - "5669"
-image: /wp-content/uploads/2013/03/ricardo.jpg
+image: /assets/wp-content/uploads/2013/03/ricardo.jpg
 categories:
   - people
 ---

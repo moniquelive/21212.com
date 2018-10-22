@@ -22,7 +22,7 @@ startup-link:
   - http://www.wedologos.com.br
 startup-descricao:
   - "We Do Logos is Brazil's leading outsourcing marketplace."
-image: /wp-content/uploads/2013/10/wdl-logo.png
+image: /assets/wp-content/uploads/2013/10/wdl-logo.png
 categories:
   - companies
 ---

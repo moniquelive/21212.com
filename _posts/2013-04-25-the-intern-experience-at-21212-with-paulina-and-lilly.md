@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/04/internexperiencethumb.jpg
+image: /assets/wp-content/uploads/2013/04/internexperiencethumb.jpg
 categories:
   - Blog
   - com-thumb
@@ -22,8 +22,8 @@ categories:
 </p>
 
 <div id="attachment_5942" style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://local.21212.com/wp-content/uploads/2013/04/internexperiencemain..jpg"><img aria-describedby="caption-attachment-5942" class="size-full wp-image-5942 " alt="internexperiencemain." src="http://local.21212.com/wp-content/uploads/2013/04/internexperiencemain..jpg" width="500" height="298" srcset="http://localhost:8080/wp-content/uploads/2013/04/internexperiencemain..jpg 500w, http://localhost:8080/wp-content/uploads/2013/04/internexperiencemain.-300x178.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
-  
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/04/internexperiencemain..jpg"><img aria-describedby="caption-attachment-5942" class="size-full wp-image-5942 " alt="internexperiencemain." src="{{ site.url }}/assets/wp-content/uploads/2013/04/internexperiencemain..jpg" width="500" height="298" srcset="{{ site.url }}/assets/wp-content/uploads/2013/04/internexperiencemain..jpg 500w, {{ site.url }}/assets/wp-content/uploads/2013/04/internexperiencemain.-300x178.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+
   <p id="caption-attachment-5942" class="wp-caption-text">
     Paulina and Lilly with the Memed team, Marcelo and Luciana
   </p>

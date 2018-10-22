@@ -24,7 +24,7 @@ startup:
   - "2535"
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2012/07/Queremos-Bruno-Ribeiro.png
+image: /assets/wp-content/uploads/2012/07/Queremos-Bruno-Ribeiro.png
 categories:
   - people
 ---

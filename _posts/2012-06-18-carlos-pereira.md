@@ -20,7 +20,7 @@ company:
   - Igluu
 startup:
   - "831"
-image: /wp-content/uploads/2011/10/carlos-pereira.jpg
+image: /assets/wp-content/uploads/2011/10/carlos-pereira.jpg
 categories:
   - people
 ---

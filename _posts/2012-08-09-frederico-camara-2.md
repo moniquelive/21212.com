@@ -39,7 +39,7 @@ startup:
   - "2273"
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2012/08/frederico_camara1.png
+image: /assets/wp-content/uploads/2012/08/frederico_camara1.png
 categories:
   - people
 ---

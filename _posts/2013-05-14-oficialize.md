@@ -24,7 +24,7 @@ startup-link:
   - ""
 startup-descricao:
   - Helping business owners incorporate their companies in Brazil
-image: /wp-content/uploads/2013/05/oficialize.png
+image: /assets/wp-content/uploads/2013/05/oficialize.png
 categories:
   - companies
 ---

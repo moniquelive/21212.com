@@ -17,7 +17,7 @@ data-publicacao:
 tit-publicacao:
   - Rio cria ambiente para tornar-se polo de atração em TI
 link-publicacao:
-  - http://local.21212.com/wp-content/uploads/2013/02/EntrevistaBen_-Valor-Economico.pdf
+  - http://local.21212.com/assets/wp-content/uploads/2013/02/EntrevistaBen_-Valor-Economico.pdf
 nome-veiculo:
   - Valor Economico
 categories:

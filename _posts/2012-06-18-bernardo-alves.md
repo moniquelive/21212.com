@@ -20,7 +20,7 @@ company:
   - Craques
 startup:
   - "822"
-image: /wp-content/uploads/2011/10/bernardo-alves.jpg
+image: /assets/wp-content/uploads/2011/10/bernardo-alves.jpg
 categories:
   - people
 ---

@@ -17,14 +17,14 @@ fv_video_img:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2012/08/Startup-World-Map2-e1345830157482.jpeg
+image: /assets/wp-content/uploads/2012/08/Startup-World-Map2-e1345830157482.jpeg
 categories:
   - Blog
   - com-thumb
 ---
 [Startup World](http://www.startupworld.com), the global competition to find the next Facebook or Google is coming to Rio De Janeiro this **Sunday 26 August from 6 PM to 10 PM**.
 
-<img class="aligncenter size-full wp-image-3439" title="Startup World" src="http://local.21212.com/wp-content/uploads/2012/08/Startup-World-Map2-e1345830157482.jpeg" alt="" width="540" height="312" srcset="http://localhost:8080/wp-content/uploads/2012/08/Startup-World-Map2-e1345830157482.jpeg 540w, http://localhost:8080/wp-content/uploads/2012/08/Startup-World-Map2-e1345830157482-300x173.jpeg 300w" sizes="(max-width: 540px) 100vw, 540px" />
+<img class="aligncenter size-full wp-image-3439" title="Startup World" src="{{ site.url }}/assets/wp-content/uploads/2012/08/Startup-World-Map2-e1345830157482.jpeg" alt="" width="540" height="312" srcset="{{ site.url }}/assets/wp-content/uploads/2012/08/Startup-World-Map2-e1345830157482.jpeg 540w, {{ site.url }}/assets/wp-content/uploads/2012/08/Startup-World-Map2-e1345830157482-300x173.jpeg 300w" sizes="(max-width: 540px) 100vw, 540px" />
 
 The event is hosted by The Next Web&#8217;s [Hermione Way](https://twitter.com/hermioneway).  Technology startups based in Rio De Janerio have applied to pitch in front of a panel of judges.  The panel includes Michael Nicklas from [Ideasnet](http://www.ideiasnet.com.br/), Diego Remus of of [Startupi](http://startups.ig.com.br/), and Alex Tabor of [Peixe Urbano](http://www.peixeurbano.com.br/rio-de-janeiro).  The winner announced at the event will be invited to Silicon Valley to compete in the finals early in 2013.  Regional prizes are worth up to $37,000 including Rackspace hosting and Echo real-time streams.
 
@@ -45,8 +45,8 @@ Peixe Urbano&#8217;s office
 Av. Presidente Vargas, 1001 &#8211; Rio de Janeiro, RJ 20071-000
 
 <div id="attachment_3430" style="width: 550px" class="wp-caption aligncenter">
-  <img aria-describedby="caption-attachment-3430" class="size-full wp-image-3430 " title="Lima-Winner" src="http://local.21212.com/wp-content/uploads/2012/08/Lima-Winner-e1345830247684.jpeg" alt="" width="540" height="360" srcset="http://localhost:8080/wp-content/uploads/2012/08/Lima-Winner-e1345830247684.jpeg 540w, http://localhost:8080/wp-content/uploads/2012/08/Lima-Winner-e1345830247684-300x200.jpeg 300w" sizes="(max-width: 540px) 100vw, 540px" />
-  
+  <img aria-describedby="caption-attachment-3430" class="size-full wp-image-3430 " title="Lima-Winner" src="{{ site.url }}/assets/wp-content/uploads/2012/08/Lima-Winner-e1345830247684.jpeg" alt="" width="540" height="360" srcset="{{ site.url }}/assets/wp-content/uploads/2012/08/Lima-Winner-e1345830247684.jpeg 540w, {{ site.url }}/assets/wp-content/uploads/2012/08/Lima-Winner-e1345830247684-300x200.jpeg 300w" sizes="(max-width: 540px) 100vw, 540px" />
+
   <p id="caption-attachment-3430" class="wp-caption-text">
     Take a look at the winners from Lima edition!
   </p>

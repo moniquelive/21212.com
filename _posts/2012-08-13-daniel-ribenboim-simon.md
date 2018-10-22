@@ -24,7 +24,7 @@ company:
   - Gávea Investimentos
 startup:
   - ""
-image: /wp-content/uploads/2012/08/Daniel-Ribenboim-Simon.jpg
+image: /assets/wp-content/uploads/2012/08/Daniel-Ribenboim-Simon.jpg
 categories:
   - people
 ---

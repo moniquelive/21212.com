@@ -17,7 +17,7 @@ data-publicacao:
 tit-publicacao:
   - Fundos ampliam foco de interesse
 link-publicacao:
-  - http://local.21212.com/wp-content/uploads/2012/03/Fundos-ampliam-foco-de-interesse.pdf
+  - http://local.21212.com/assets/wp-content/uploads/2012/03/Fundos-ampliam-foco-de-interesse.pdf
 nome-veiculo:
   - Valor Econômico
 transposh_can_translate:

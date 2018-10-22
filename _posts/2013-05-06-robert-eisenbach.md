@@ -20,7 +20,7 @@ company:
   - The Perfect Storm Group
 startup:
   - ""
-image: /wp-content/uploads/2013/05/Robert-eisenbach.jpg
+image: /assets/wp-content/uploads/2013/05/Robert-eisenbach.jpg
 categories:
   - people
 ---

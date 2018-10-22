@@ -17,12 +17,12 @@ fv_video_img:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2012/10/airbnbLogo250x250.png
+image: /assets/wp-content/uploads/2012/10/airbnbLogo250x250.png
 categories:
   - Blog
   - com-thumb
 ---
-[<img class="alignnone size-full wp-image-4045" title="airbnbBannerPost" src="http://local.21212.com/wp-content/uploads/2012/10/airbnbBannerPost.png" alt="" width="540" height="214" srcset="http://localhost:8080/wp-content/uploads/2012/10/airbnbBannerPost.png 540w, http://localhost:8080/wp-content/uploads/2012/10/airbnbBannerPost-300x118.png 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/wp-content/uploads/2012/10/airbnbBannerPost.png)
+[<img class="alignnone size-full wp-image-4045" title="airbnbBannerPost" src="{{ site.url }}/assets/wp-content/uploads/2012/10/airbnbBannerPost.png" alt="" width="540" height="214" srcset="{{ site.url }}/assets/wp-content/uploads/2012/10/airbnbBannerPost.png 540w, {{ site.url }}/assets/wp-content/uploads/2012/10/airbnbBannerPost-300x118.png 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/assets/wp-content/uploads/2012/10/airbnbBannerPost.png)
 
 Demo Day is less than two weeks away!  Our teams are working hard and excited to present to the leading international and Brazilian angel investors, VCs, thought leaders, media, and market insiders.
 

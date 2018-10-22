@@ -20,7 +20,7 @@ company:
   - Aentropico
 startup:
   - "5674"
-image: /wp-content/uploads/2013/03/juanpablo.jpg
+image: /assets/wp-content/uploads/2013/03/juanpablo.jpg
 categories:
   - people
 ---

@@ -12,12 +12,12 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2015/07/template_posts_blog_primeiro_passo.png
+image: /assets/wp-content/uploads/2015/07/template_posts_blog_primeiro_passo.png
 categories:
   - Blog
   - com-thumb
 ---
-<img class="aligncenter size-full wp-image-7708" src="http://local.21212.com/wp-content/uploads/2015/07/template_posts_blog_primeiro_passo.png" alt="template_posts_blog_primeiro_passo" width="530" height="275" srcset="http://localhost:8080/wp-content/uploads/2015/07/template_posts_blog_primeiro_passo.png 530w, http://localhost:8080/wp-content/uploads/2015/07/template_posts_blog_primeiro_passo-300x156.png 300w" sizes="(max-width: 530px) 100vw, 530px" />
+<img class="aligncenter size-full wp-image-7708" src="{{ site.url }}/assets/wp-content/uploads/2015/07/template_posts_blog_primeiro_passo.png" alt="template_posts_blog_primeiro_passo" width="530" height="275" srcset="{{ site.url }}/assets/wp-content/uploads/2015/07/template_posts_blog_primeiro_passo.png 530w, {{ site.url }}/assets/wp-content/uploads/2015/07/template_posts_blog_primeiro_passo-300x156.png 300w" sizes="(max-width: 530px) 100vw, 530px" />
 
 (<a href="http://academy.21212.com/blog/nos-demos-o-primeiro-passo-agora-e-com-voces/" target="_blank">post original de Luciana Vicente no blog da 21212 Academy</a>)
 

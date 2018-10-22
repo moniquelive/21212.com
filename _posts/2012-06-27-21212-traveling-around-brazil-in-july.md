@@ -17,7 +17,7 @@ fv_video_id:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2012/07/travel-suitcase.jpg
+image: /assets/wp-content/uploads/2012/07/travel-suitcase.jpg
 categories:
   - Blog
   - com-thumb
@@ -26,40 +26,40 @@ categories:
 
 Here’s where we’ll be over the next few weeks:
 
-[<img class="alignleft  wp-image-2001" title="Sebrae" src="http://local.21212.com/wp-content/uploads/2012/06/logo-1.jpg" alt="" width="120" height="94" />](http://www.sebrae.com.br/customizado/feira-do-empreendedor-goiania)**01 Jul
-  
+[<img class="alignleft  wp-image-2001" title="Sebrae" src="{{ site.url }}/assets/wp-content/uploads/2012/06/logo-1.jpg" alt="" width="120" height="94" />](http://www.sebrae.com.br/customizado/feira-do-empreendedor-goiania)**01 Jul
+
 ** [Feira do Empreendedor Sebrae Goiânia](http://www.sebrae.com.br/customizado/feira-do-empreendedor-goiania)
 
 _Giving a workshop and participating in a roundtable discussion_
 
 &nbsp;
 
-[<img class="alignleft  wp-image-2002" title="Startup Club" src="http://local.21212.com/wp-content/uploads/2012/06/logo-2.jpg" alt="" width="120" height="94" />](http://startupclub.com.br/programacao.html)**04 Jul
-  
+[<img class="alignleft  wp-image-2002" title="Startup Club" src="{{ site.url }}/assets/wp-content/uploads/2012/06/logo-2.jpg" alt="" width="120" height="94" />](http://startupclub.com.br/programacao.html)**04 Jul
+
 ** [Startup Club Curitiba](http://startupclub.com.br/programacao.html)
 
 _Giving a workshop and meeting with startups_
 
 &nbsp;
 
-<img class="alignleft  wp-image-2004" title="logo-4" src="http://local.21212.com/wp-content/uploads/2012/06/logo-4.jpg" alt="" width="120" height="94" />**10 Jul
-  
+<img class="alignleft  wp-image-2004" title="logo-4" src="{{ site.url }}/assets/wp-content/uploads/2012/06/logo-4.jpg" alt="" width="120" height="94" />**10 Jul
+
 ** [Startup Meetup Floripa](http://circuitostartup.com/portal/pt/floripa)
 
 _Giving a mini presentation about acceleration and participating as one of the judges _
 
 &nbsp;
 
-[<img class="alignleft  wp-image-2003" title="Pitch / Empreendedorismo Digital" src="http://local.21212.com/wp-content/uploads/2012/06/logo-3.jpg" alt="" width="120" height="94" />](http://www.pitchdigital.com.br/ms/programacao/)**21 Jul
-  
+[<img class="alignleft  wp-image-2003" title="Pitch / Empreendedorismo Digital" src="{{ site.url }}/assets/wp-content/uploads/2012/06/logo-3.jpg" alt="" width="120" height="94" />](http://www.pitchdigital.com.br/ms/programacao/)**21 Jul
+
 ** [Pitch Digital Campo Grande](http://www.pitchdigital.com.br/ms/programacao/)
 
 _Giving a lecture and participating as one of the judges_
 
 &nbsp;
 
-[<img class="alignleft  wp-image-2005" title="Startup Belo Horizonte" src="http://local.21212.com/wp-content/uploads/2012/06/logo-5.jpg" alt="" width="120" height="94" />](http://circuitostartup.com/portal/pt/belo-horizonte)**23 Jul
-  
+[<img class="alignleft  wp-image-2005" title="Startup Belo Horizonte" src="{{ site.url }}/assets/wp-content/uploads/2012/06/logo-5.jpg" alt="" width="120" height="94" />](http://circuitostartup.com/portal/pt/belo-horizonte)**23 Jul
+
 ** [Startup Meetup Belo Horizonte](http://circuitostartup.com/portal/pt/belo-horizonte)
 
 _Giving a lecture and participating as one of the judges_

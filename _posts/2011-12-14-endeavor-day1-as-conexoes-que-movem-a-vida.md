@@ -15,7 +15,7 @@ fv_video_img:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2011/12/video-marcelo.png
+image: /assets/wp-content/uploads/2011/12/video-marcelo.png
 categories:
   - Blog
   - com-thumb

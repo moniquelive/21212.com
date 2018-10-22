@@ -28,7 +28,7 @@ company:
   - Progredir Investimentos
 startup:
   - ""
-image: /wp-content/uploads/2012/05/DSC02521.jpg
+image: /assets/wp-content/uploads/2012/05/DSC02521.jpg
 categories:
   - people
 tags:

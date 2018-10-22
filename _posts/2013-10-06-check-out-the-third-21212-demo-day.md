@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2014/02/banner_11.png
+image: /assets/wp-content/uploads/2014/02/banner_11.png
 categories:
   - Blog
   - com-thumb
@@ -20,14 +20,14 @@ categories:
   - Featured Post
 ---
 The 3rd Demo Day was completely amazing! We were proud to receive so many partners, friends, and key players from the digital ecosystem. [
-  
-<img class="aligncenter size-full wp-image-6756" alt="main" src="http://local.21212.com/wp-content/uploads/2013/10/main.jpg" width="540" height="498" srcset="http://localhost:8080/wp-content/uploads/2013/10/main.jpg 540w, http://localhost:8080/wp-content/uploads/2013/10/main-300x276.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/wp-content/uploads/2013/10/main.jpg)We would like to personally thank our supporters, mentors, partners and sponsors &#8211; GOLD: <a href="http://www.sebrae.com.br/" target="_blank">Sebrae/RJ</a>, <a href="http://www.ciaotelecom.com.br/" target="_blank">Ciao Telecom</a>, <a href="http://aws.amazon.com/" target="_blank">Amazon Web Services</a>; SILVER: <a href="https://qualcommventures.com/" target="_blank">Qualcomm Ventures</a>; and SUPPORTERS: <a href="http://www.totvs.com/home/us" target="_blank">Totvs</a>, <a href="http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/index.html" target="_blank">BNDES</a>, <a href="http://emergeamericas.org/" target="_blank">eMerge Americas</a> &#8211; for making it possible.
 
-[<img class="aligncenter size-full wp-image-6760" alt="sponsors" src="http://local.21212.com/wp-content/uploads/2013/10/sponsors.jpg" width="540" height="654" srcset="http://localhost:8080/wp-content/uploads/2013/10/sponsors.jpg 540w, http://localhost:8080/wp-content/uploads/2013/10/sponsors-247x300.jpg 247w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/wp-content/uploads/2013/10/sponsors.jpg)
+<img class="aligncenter size-full wp-image-6756" alt="main" src="{{ site.url }}/assets/wp-content/uploads/2013/10/main.jpg" width="540" height="498" srcset="{{ site.url }}/assets/wp-content/uploads/2013/10/main.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/10/main-300x276.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/assets/wp-content/uploads/2013/10/main.jpg)We would like to personally thank our supporters, mentors, partners and sponsors &#8211; GOLD: <a href="http://www.sebrae.com.br/" target="_blank">Sebrae/RJ</a>, <a href="http://www.ciaotelecom.com.br/" target="_blank">Ciao Telecom</a>, <a href="http://aws.amazon.com/" target="_blank">Amazon Web Services</a>; SILVER: <a href="https://qualcommventures.com/" target="_blank">Qualcomm Ventures</a>; and SUPPORTERS: <a href="http://www.totvs.com/home/us" target="_blank">Totvs</a>, <a href="http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/index.html" target="_blank">BNDES</a>, <a href="http://emergeamericas.org/" target="_blank">eMerge Americas</a> &#8211; for making it possible.
+
+[<img class="aligncenter size-full wp-image-6760" alt="sponsors" src="{{ site.url }}/assets/wp-content/uploads/2013/10/sponsors.jpg" width="540" height="654" srcset="{{ site.url }}/assets/wp-content/uploads/2013/10/sponsors.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/10/sponsors-247x300.jpg 247w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/assets/wp-content/uploads/2013/10/sponsors.jpg)
 
 Throughout the day we could feel the energy and commitment of the companies that were presenting, and the empathy coming from the public, with over 450 people, including investors and entrepreneurs. <span style="font-size: 13px; line-height: 19px;">Gustavo Franco (</span><a style="font-size: 13px; line-height: 19px;" href="http://www.imil.org.br/" target="_blank">Instituto Millenium</a><span style="font-size: 13px; line-height: 19px;">) offered a great insight into the brazilian macro scene, while Sandra Boccia (</span><a style="font-size: 13px; line-height: 19px;" href="http://revistapegn.globo.com/" target="_blank">PEGN</a><span style="font-size: 13px; line-height: 19px;">) moderated great talks with Guilherme Horn (</span><a style="font-size: 13px; line-height: 19px;" href="http://www.orama.com.br/" target="_blank">ÓRAMA</a><span style="font-size: 13px; line-height: 19px;">), and Bruno Natal (</span><a style="font-size: 13px; line-height: 19px;" href="http://www.wedemand.com/" target="_blank">WeDemand</a><span style="font-size: 13px; line-height: 19px;">). Luminaries and entrepreneurs such as Felipe Castro (</span><a style="font-size: 13px; line-height: 19px;" href="http://safarirecrutamento.com.br/" target="_blank">Safari Recrutamento</a><span style="font-size: 13px; line-height: 19px;">), Fabricio Bloisi (</span><a style="font-size: 13px; line-height: 19px;" href="http://movile.com/pt/" target="_blank">Movile</a><span style="font-size: 13px; line-height: 19px;">) e Guilherme Pacheco (</span><a style="font-size: 13px; line-height: 19px;" href="http://www.mosaicointernet.com/" target="_blank">Mosaico Internet</a><span style="font-size: 13px; line-height: 19px;">) also participated at a panel discussion regarding the brazilian talent ecosystem, where they deliberate about how talented, creative and courageous brazilian entrepreneur can be. </span>
 
-[<img class="aligncenter size-full wp-image-6757" alt="paineis" src="http://local.21212.com/wp-content/uploads/2013/10/paineis.jpg" width="541" height="406" srcset="http://localhost:8080/wp-content/uploads/2013/10/paineis.jpg 541w, http://localhost:8080/wp-content/uploads/2013/10/paineis-300x225.jpg 300w" sizes="(max-width: 541px) 100vw, 541px" />](http://local.21212.com/wp-content/uploads/2013/10/paineis.jpg)
+[<img class="aligncenter size-full wp-image-6757" alt="paineis" src="{{ site.url }}/assets/wp-content/uploads/2013/10/paineis.jpg" width="541" height="406" srcset="{{ site.url }}/assets/wp-content/uploads/2013/10/paineis.jpg 541w, {{ site.url }}/assets/wp-content/uploads/2013/10/paineis-300x225.jpg 300w" sizes="(max-width: 541px) 100vw, 541px" />](http://local.21212.com/assets/wp-content/uploads/2013/10/paineis.jpg)
 
 It was the perfect opportunity to meet high potential companies, do some network and spend a good time together. Here are the companies which presented:
 
@@ -47,7 +47,7 @@ It was the perfect opportunity to meet high potential companies, do some network
 
 <a href="http://www.gobooks.com.br/" target="_blank">GoBooks</a> &#8211; The first textbook rental company in Brazil.
 
-[<img class="aligncenter size-full wp-image-6758" alt="pitchers" src="http://local.21212.com/wp-content/uploads/2013/10/pitchers.jpg" width="541" height="744" srcset="http://localhost:8080/wp-content/uploads/2013/10/pitchers.jpg 541w, http://localhost:8080/wp-content/uploads/2013/10/pitchers-218x300.jpg 218w" sizes="(max-width: 541px) 100vw, 541px" />](http://local.21212.com/wp-content/uploads/2013/10/pitchers.jpg)
+[<img class="aligncenter size-full wp-image-6758" alt="pitchers" src="{{ site.url }}/assets/wp-content/uploads/2013/10/pitchers.jpg" width="541" height="744" srcset="{{ site.url }}/assets/wp-content/uploads/2013/10/pitchers.jpg 541w, {{ site.url }}/assets/wp-content/uploads/2013/10/pitchers-218x300.jpg 218w" sizes="(max-width: 541px) 100vw, 541px" />](http://local.21212.com/assets/wp-content/uploads/2013/10/pitchers.jpg)
 
 APPLICATIONS
 

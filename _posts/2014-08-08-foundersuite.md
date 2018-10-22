@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2014/08/foundersuite1.png
+image: /assets/wp-content/uploads/2014/08/foundersuite1.png
 categories:
   - partners
 ---

@@ -31,7 +31,7 @@ company:
   - Easyaula
 startup:
   - "2286"
-image: /wp-content/uploads/2012/07/Easyaula-Diego-Alvarez1.png
+image: /assets/wp-content/uploads/2012/07/Easyaula-Diego-Alvarez1.png
 categories:
   - people
 ---

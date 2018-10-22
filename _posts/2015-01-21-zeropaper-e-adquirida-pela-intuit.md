@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2015/01/zico-intuit-21212.png
+image: /assets/wp-content/uploads/2015/01/zico-intuit-21212.png
 categories:
   - Blog
   - com-thumb
@@ -20,7 +20,7 @@ categories:
 ---
 <a title="Translate" href="https://translate.google.com/translate?sl=pt&tl=en&js=y&prev=_t&hl=pt-BR&ie=UTF-8&u=http%3A%2F%2F21212.com%2Fblog%2Fzeropaper-e-adquirida-pela-intuit%2F&edit-text=" target="_blank">Translate this post to English</a>.
 
-<img class="aligncenter size-full wp-image-7612" src="http://local.21212.com/wp-content/uploads/2015/01/zico-intuit.jpg" alt="zico-intuit" width="500" height="227" srcset="http://localhost:8080/wp-content/uploads/2015/01/zico-intuit.jpg 500w, http://localhost:8080/wp-content/uploads/2015/01/zico-intuit-300x136.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />
+<img class="aligncenter size-full wp-image-7612" src="{{ site.url }}/assets/wp-content/uploads/2015/01/zico-intuit.jpg" alt="zico-intuit" width="500" height="227" srcset="{{ site.url }}/assets/wp-content/uploads/2015/01/zico-intuit.jpg 500w, {{ site.url }}/assets/wp-content/uploads/2015/01/zico-intuit-300x136.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />
 
 Estamos orgulhosos em anunciar que a <a title="ZeroPaper" href="https://zeropaper.com.br/" target="_blank">ZeroPaper</a>, startup acelerada no 2º programa da 21212, foi adquirida pela <a title="Intuit" href="http://www.intuit.com/" target="_blank">Intuit</a>, líder global no desenvolvimento de softwares de gestão financeira para pequenos negócios. Sempre estivemos muito confiantes sobre o potencial de impacto da ZeroPaper como um software de gestão financeira, por resolver um problema real de milhões de micro e pequenos empreendedores. Acima de tudo, essa aquisição demonstra o quão longe empreendedores brasileiros podem chegar depois de apenas dois anos de operação.
 
@@ -31,8 +31,8 @@ A venda da ZeroPaper para a Intuit não representa apenas o sucesso de quatro em
 Veja abaixo o anúncio da aquisição escrito por André Macedo, CEO da ZeroPaper, no <a title="Blog ZeroPaper" href="http://blog.zeropaper.com.br/post/108667586498/intuit-zeropaper" target="_blank">blog da empresa</a>:
 
 <div id="attachment_7613" style="width: 550px" class="wp-caption aligncenter">
-  <img aria-describedby="caption-attachment-7613" class="wp-image-7613 size-full" src="http://local.21212.com/wp-content/uploads/2015/01/ZeroPaper_DemoDay21212-e1421839674440.jpg" alt="Fundadores da ZeroPaper no 21212 Demo Day" width="540" height="359" />
-  
+  <img aria-describedby="caption-attachment-7613" class="wp-image-7613 size-full" src="{{ site.url }}/assets/wp-content/uploads/2015/01/ZeroPaper_DemoDay21212-e1421839674440.jpg" alt="Fundadores da ZeroPaper no 21212 Demo Day" width="540" height="359" />
+
   <p id="caption-attachment-7613" class="wp-caption-text">
     Fundadores da ZeroPaper no 21212 Demo Day
   </p>
@@ -49,5 +49,5 @@ Estamos muito focados em ajudar a introduzir o QuickBooks para as pequenas empre
 Muito obrigado pelo apoio e confiança de todos os nossos 450 mil usuários, e também dos nossos investidores 21212, Totvs Ventures, José Schettino e Emmanuel Orillard, que também nos apoiaram até aqui! Continuaremos a trabalhar duro todos os dias para que, agora junto com a Intuit, sua empresa possa continuar crescendo.&#8221;
 
 André Macedo
-  
+
 CEO ZeroPaper

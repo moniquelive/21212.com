@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/06/loginradiusthumb.jpg
+image: /assets/wp-content/uploads/2013/06/loginradiusthumb.jpg
 categories:
   - Blog
   - com-thumb
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p dir="ltr" style="text-align: center;">
-  <a href="http://local.21212.com/wp-content/uploads/2013/06/loginraiusmain.jpg"><img class=" wp-image-6201 aligncenter" alt="loginraiusmain" src="http://local.21212.com/wp-content/uploads/2013/06/loginraiusmain-1024x335.jpg" width="574" height="187" srcset="http://localhost:8080/wp-content/uploads/2013/06/loginraiusmain-1024x335.jpg 1024w, http://localhost:8080/wp-content/uploads/2013/06/loginraiusmain-300x98.jpg 300w" sizes="(max-width: 574px) 100vw, 574px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/06/loginraiusmain.jpg"><img class=" wp-image-6201 aligncenter" alt="loginraiusmain" src="{{ site.url }}/assets/wp-content/uploads/2013/06/loginraiusmain-1024x335.jpg" width="574" height="187" srcset="{{ site.url }}/assets/wp-content/uploads/2013/06/loginraiusmain-1024x335.jpg 1024w, {{ site.url }}/assets/wp-content/uploads/2013/06/loginraiusmain-300x98.jpg 300w" sizes="(max-width: 574px) 100vw, 574px" /></a>
 </p>
 
 LoginRadius has integrated over 20 different social media networks, allowing clients to login to websites through their social media accounts. According to LoginRadius, 54% of users leave a website if they are asked to fill out a registration form. Enabling logins through social media not only reduces this percentage, but also increases the time users spend on a website and decreases spammers.

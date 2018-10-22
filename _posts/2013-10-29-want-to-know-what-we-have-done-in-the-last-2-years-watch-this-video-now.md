@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/10/thumbtime.png
+image: /assets/wp-content/uploads/2013/10/thumbtime.png
 categories:
   - Blog
   - com-thumb

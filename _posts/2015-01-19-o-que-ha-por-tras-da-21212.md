@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2014/02/banner_11.png
+image: /assets/wp-content/uploads/2014/02/banner_11.png
 categories:
   - Blog
   - Featured Post
@@ -23,8 +23,8 @@ categories:
 Sabemos que a maior parte das pessoas já conhece o conceito de aceleradora de startups e os benefícios atrelados ao mesmo (se você não sabe, <a title="About 21212" href="http://local.21212.com/about" target="_blank">clique aqui e aprenda mais</a>). Estamos muito satisfeitos com os resultados que alcançamos até hoje, como pode ser visto pelo reconhecimento do mercado (como o de “Melhor Aceleradora do Ano na América Latina”, pela The Next Web em 2013), da <a title="21212 Press" href="http://local.21212.com/press/" target="_blank">mídia</a>, ou das nossas próprias empresas de portfolio, que seguem crescendo e se consolidando na liderança em seus mercados. Mas como bons empreendedores, não estamos nunca satisfeitos e achamos que podemos ir muito mais longe. Por isso, gostaríamos de compartilhar um pouco daquilo que está por trás da 21212 que acreditamos ser realmente relevante.
 
 <div id="attachment_7376" style="width: 550px" class="wp-caption aligncenter">
-  <img aria-describedby="caption-attachment-7376" class="wp-image-7376 size-full" src="http://local.21212.com/wp-content/uploads/2014/07/1275352_663369603686751_175477686_o-1-e1405436408732.jpg" alt="1275352_663369603686751_175477686_o (1)" width="540" height="286" />
-  
+  <img aria-describedby="caption-attachment-7376" class="wp-image-7376 size-full" src="{{ site.url }}/assets/wp-content/uploads/2014/07/1275352_663369603686751_175477686_o-1-e1405436408732.jpg" alt="1275352_663369603686751_175477686_o (1)" width="540" height="286" />
+
   <p id="caption-attachment-7376" class="wp-caption-text">
     Parte da equipe da 21212 no 3o Demo Day, em 2013
   </p>
@@ -43,8 +43,8 @@ Seguindo essa linha, a visão da 21212 é construir e acelerar startups de alto 
 Acreditamos fortemente que uma das principais qualidades que uma equipe de uma aceleradora deve ter é track record. Ou seja, precisamos já ter vivido o que os nossos empreendedores estão vivendo, tanto o lado bom quanto o lado não tão bom. Nessa linha, montamos o time de fundadores da 21212 com ex-empreendedores que construíram startups digitais no Brasil e nos EUA, e que passaram inúmeras vezes pelo sufoco de quase falir, pela necessidade de negar deals de investimento quando não achavam que estava na hora, pela satisfação de ver suas empresas se tornando as maiores em suas indústrias e expandindo para outros países, e pela realização de fechar o ciclo com a venda de seus negócios. É o caso dos sócios-fundadores Marcelo Sales (foco: Estratégia e Crescimento), Rafael Duton (foco: Metodologia e Talentos) e Cyber (foco: Tecnologia), com a <a title="Movile" href="http://www.movile.com/pt/" target="_blank">Movile</a> (hoje a maior empresa de desenvolvimento mobile da América Latina), e do nosso sócio-fundador americano Benjamin White (foco: Produto), que além de ter ocupado o cargo de VP digital da MTV e mentor da TechStars, foi fundador, sócio ou investidor de algumas empresas nos EUA, com destaque para a <a title="SlingMedia" href="http://www.slingbox.com/" target="_blank">Sling Media</a> (vendida em 2007 por US$ 380 milhões).
 
 <div id="attachment_7381" style="width: 550px" class="wp-caption aligncenter">
-  <img aria-describedby="caption-attachment-7381" class="wp-image-7381 size-full" src="http://local.21212.com/wp-content/uploads/2014/07/VAZ_8373-e1405439950671.jpg" alt="VAZ_8373" width="540" height="360" />
-  
+  <img aria-describedby="caption-attachment-7381" class="wp-image-7381 size-full" src="{{ site.url }}/assets/wp-content/uploads/2014/07/VAZ_8373-e1405439950671.jpg" alt="VAZ_8373" width="540" height="360" />
+
   <p id="caption-attachment-7381" class="wp-caption-text">
     Sócios-fundadores da 21212 ao receber um novo empreendedor.
   </p>
@@ -61,8 +61,8 @@ NOSSOS &#8216;EARLY RESULTS&#8217; &#8212; RESULTADOS NO CURTO PRAZO
 Uma das palavras mais importantes dentro da 21212 é “resultado”. Tanto em nossas reuniões internas semanais quanto em nossas interações com os empreendedores, estamos sempre focando nos resultados das ações que realizamos, ou nos resultados esperados das ações que vamos realizar (nem que seja aprendizado). Isso porque o tempo é curto e os recursos, limitados.
 
 <div id="attachment_7377" style="width: 550px" class="wp-caption aligncenter">
-  <img aria-describedby="caption-attachment-7377" class="wp-image-7377 size-full" src="http://local.21212.com/wp-content/uploads/2014/07/988739_664299913593720_467861313_n-e1405436567248.jpg" alt="988739_664299913593720_467861313_n" width="540" height="360" />
-  
+  <img aria-describedby="caption-attachment-7377" class="wp-image-7377 size-full" src="{{ site.url }}/assets/wp-content/uploads/2014/07/988739_664299913593720_467861313_n-e1405436567248.jpg" alt="988739_664299913593720_467861313_n" width="540" height="360" />
+
   <p id="caption-attachment-7377" class="wp-caption-text">
     Gustavo Franco, ex-presidente do Banco Central, fazendo palestra de abertura do 3o Demo Day
   </p>
@@ -85,8 +85,8 @@ QUEM ESTAMOS PROCURANDO
 Na 21212, aprendemos que o maior clichê do empreendedorismo é de fato importante: o que mais importa são as pessoas! Vimos em nosso próprio portfolio que as empresas que mais tiveram resultados eram aquelas que possuíam as pessoas mais extraordinárias para os negócios que criavam. Por isso, hoje o nosso critério mais relevante durante o processo seletivo é observar com cuidado quem são os empreendedores por trás do negócio, e se existe sinergia com o mindset do nosso time fundador, afinal… seremos sócios! Se você e o seu time seguem à risca a regra de cobrarem o máximo de si mesmos, é grande a chance de trabalharmos juntos. Qualquer caso diferente é &#8220;deal breaker” para nós!
 
 <div id="attachment_7378" style="width: 550px" class="wp-caption aligncenter">
-  <img aria-describedby="caption-attachment-7378" class="wp-image-7378 size-full" src="http://local.21212.com/wp-content/uploads/2014/07/602365_498478790175834_1019994578_n-e1405436615963.jpg" alt="602365_498478790175834_1019994578_n" width="540" height="359" />
-  
+  <img aria-describedby="caption-attachment-7378" class="wp-image-7378 size-full" src="{{ site.url }}/assets/wp-content/uploads/2014/07/602365_498478790175834_1019994578_n-e1405436615963.jpg" alt="602365_498478790175834_1019994578_n" width="540" height="359" />
+
   <p id="caption-attachment-7378" class="wp-caption-text">
     Fundadores da ZeroPaper, uma das equipes extraordinárias que passaram pela 21212
   </p>

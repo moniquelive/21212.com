@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/10/banner-seed-facebook-br.jpg
+image: /assets/wp-content/uploads/2013/10/banner-seed-facebook-br.jpg
 categories:
   - Blog
   - com-thumb
@@ -29,4 +29,4 @@ Esta é uma grande oportunidade para pessoas que têm uma grande ideia, mas não
 
 <b id="docs-internal-guid-350e3274-c2d7-9b68-3a89-0dde8d52c1ee"><br /> Para mais informações, acesse: <a href="http://www.seed.mg.gov.br">http://www.seed.mg.gov.br</a></b>
 
-[<img class="aligncenter size-full wp-image-6794" alt="emkt-portugues" src="http://local.21212.com/wp-content/uploads/2013/10/emkt-portugues.jpg" width="600" height="1285" srcset="http://localhost:8080/wp-content/uploads/2013/10/emkt-portugues.jpg 600w, http://localhost:8080/wp-content/uploads/2013/10/emkt-portugues-140x300.jpg 140w, http://localhost:8080/wp-content/uploads/2013/10/emkt-portugues-478x1024.jpg 478w" sizes="(max-width: 600px) 100vw, 600px" />](http://local.21212.com/wp-content/uploads/2013/10/emkt-portugues.jpg)
+[<img class="aligncenter size-full wp-image-6794" alt="emkt-portugues" src="{{ site.url }}/assets/wp-content/uploads/2013/10/emkt-portugues.jpg" width="600" height="1285" srcset="{{ site.url }}/assets/wp-content/uploads/2013/10/emkt-portugues.jpg 600w, {{ site.url }}/assets/wp-content/uploads/2013/10/emkt-portugues-140x300.jpg 140w, {{ site.url }}/assets/wp-content/uploads/2013/10/emkt-portugues-478x1024.jpg 478w" sizes="(max-width: 600px) 100vw, 600px" />](http://local.21212.com/assets/wp-content/uploads/2013/10/emkt-portugues.jpg)

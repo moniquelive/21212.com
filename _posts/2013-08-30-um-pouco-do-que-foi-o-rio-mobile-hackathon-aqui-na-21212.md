@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/08/RIOHACKTHUMB.jpg
+image: /assets/wp-content/uploads/2013/08/RIOHACKTHUMB.jpg
 categories:
   - Blog
   - com-thumb
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p dir="ltr" style="text-align: center;">
-  <a href="http://local.21212.com/wp-content/uploads/2013/08/RioMobile.jpg"><img class="aligncenter size-full wp-image-6648" title="Imagem cedida pela Produtora do evento" alt="RioMobile" src="http://local.21212.com/wp-content/uploads/2013/08/RioMobile.jpg" width="540" height="350" srcset="http://localhost:8080/wp-content/uploads/2013/08/RioMobile.jpg 540w, http://localhost:8080/wp-content/uploads/2013/08/RioMobile-300x194.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/08/RioMobile.jpg"><img class="aligncenter size-full wp-image-6648" title="Imagem cedida pela Produtora do evento" alt="RioMobile" src="{{ site.url }}/assets/wp-content/uploads/2013/08/RioMobile.jpg" width="540" height="350" srcset="{{ site.url }}/assets/wp-content/uploads/2013/08/RioMobile.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/08/RioMobile-300x194.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
 </p>
 
 O vencedor do quesito Melhor Jogo foi o Gosma, um game de corrida interminável no qual o jogador tem que se esquivar de obstáculos, levando em consideração que cada desvio muda a direção da gravidade.

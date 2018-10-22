@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/12/ascoa3.jpg
+image: /assets/wp-content/uploads/2013/12/ascoa3.jpg
 categories:
   - Blog
   - com-thumb

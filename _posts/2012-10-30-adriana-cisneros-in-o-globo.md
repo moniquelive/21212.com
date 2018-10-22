@@ -16,13 +16,13 @@ fv_video_img:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2012/10/adrianaCisnerosContentFeaturedImage.png
+image: /assets/wp-content/uploads/2012/10/adrianaCisnerosContentFeaturedImage.png
 categories:
   - Blog
   - com-thumb
 ---
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-4252" title="adrianaCisnerosBanner" src="http://local.21212.com/wp-content/uploads/2012/10/adrianaCisnerosBanner.png" alt="" width="540" height="299" srcset="http://localhost:8080/wp-content/uploads/2012/10/adrianaCisnerosBanner.png 540w, http://localhost:8080/wp-content/uploads/2012/10/adrianaCisnerosBanner-300x166.png 300w" sizes="(max-width: 540px) 100vw, 540px" />
+  <img class="aligncenter size-full wp-image-4252" title="adrianaCisnerosBanner" src="{{ site.url }}/assets/wp-content/uploads/2012/10/adrianaCisnerosBanner.png" alt="" width="540" height="299" srcset="{{ site.url }}/assets/wp-content/uploads/2012/10/adrianaCisnerosBanner.png 540w, {{ site.url }}/assets/wp-content/uploads/2012/10/adrianaCisnerosBanner-300x166.png 300w" sizes="(max-width: 540px) 100vw, 540px" />
 </p>
 
 Adriana Cisneros, the keynote speaker at our second Demo Day and mentor of our startups was featured in O Globo.  In the piece they mention 21212 as one part of the Cisneros Group&#8217;s transition to digital areas. Check it out (in portuguese):
@@ -58,5 +58,5 @@ Bem, nós ainda estamos lá, não estamos?
 [Link to original article ](http://moglobo.globo.com/integra.asp?txtUrl=/economia/grupo-cisneros-da-venezuela-mira-mercado-brasileiro-de-tv-6549448)
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-4254" title="adrianaCisnerosContent" src="http://local.21212.com/wp-content/uploads/2012/10/adrianaCisnerosContent1.png" alt="" width="540" height="730" srcset="http://localhost:8080/wp-content/uploads/2012/10/adrianaCisnerosContent1.png 540w, http://localhost:8080/wp-content/uploads/2012/10/adrianaCisnerosContent1-221x300.png 221w" sizes="(max-width: 540px) 100vw, 540px" />
+  <img class="aligncenter size-full wp-image-4254" title="adrianaCisnerosContent" src="{{ site.url }}/assets/wp-content/uploads/2012/10/adrianaCisnerosContent1.png" alt="" width="540" height="730" srcset="{{ site.url }}/assets/wp-content/uploads/2012/10/adrianaCisnerosContent1.png 540w, {{ site.url }}/assets/wp-content/uploads/2012/10/adrianaCisnerosContent1-221x300.png 221w" sizes="(max-width: 540px) 100vw, 540px" />
 </p>

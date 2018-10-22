@@ -22,7 +22,7 @@ company:
   - Queremos!
 startup:
   - "2535"
-image: /wp-content/uploads/2012/07/Queremos-Tiago-Campagnoni.png
+image: /assets/wp-content/uploads/2012/07/Queremos-Tiago-Campagnoni.png
 categories:
   - people
 ---

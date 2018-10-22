@@ -20,7 +20,7 @@ company:
   - Helpin
 startup:
   - ""
-image: /wp-content/uploads/2011/10/roberto-fermino.jpg
+image: /assets/wp-content/uploads/2011/10/roberto-fermino.jpg
 categories:
   - people
 ---

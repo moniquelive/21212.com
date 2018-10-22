@@ -17,7 +17,7 @@ data-publicacao:
 tit-publicacao:
   - Um novo jeito de acelerar empreendimentos promissores
 link-publicacao:
-  - http://local.21212.com/wp-content/uploads/2012/05/21212-press-BrasilEconomico.pdf
+  - http://local.21212.com/assets/wp-content/uploads/2012/05/21212-press-BrasilEconomico.pdf
 nome-veiculo:
   - Jornal Brasil Econômico
 transposh_can_translate:

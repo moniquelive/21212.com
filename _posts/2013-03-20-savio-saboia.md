@@ -20,7 +20,7 @@ company:
   - Treebos
 startup:
   - "5653"
-image: /wp-content/uploads/2013/03/saviosaboia.jpg
+image: /assets/wp-content/uploads/2013/03/saviosaboia.jpg
 categories:
   - people
 ---

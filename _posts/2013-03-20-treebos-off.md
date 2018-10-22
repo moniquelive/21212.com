@@ -24,7 +24,7 @@ startup-link:
   - http://www.treebos.com
 startup-descricao:
   - Supporting local farms and healthy eating.
-image: /wp-content/uploads/2013/03/treebos-logo.png
+image: /assets/wp-content/uploads/2013/03/treebos-logo.png
 categories:
   - companies
 ---

@@ -26,7 +26,7 @@ company:
   - Gávea Investment Funds
 startup:
   - ""
-image: /wp-content/uploads/2012/04/Cmeyn-09_2008-e1334193947671.jpg
+image: /assets/wp-content/uploads/2012/04/Cmeyn-09_2008-e1334193947671.jpg
 categories:
   - people
 tags:

@@ -26,7 +26,7 @@ company:
   - Brasil Plural
 startup:
   - ""
-image: /wp-content/uploads/2012/11/rodin.jpg
+image: /assets/wp-content/uploads/2012/11/rodin.jpg
 categories:
   - people
 ---

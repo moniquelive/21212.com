@@ -12,11 +12,11 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2014/11/ibm_patro_demoday.jpg
+image: /assets/wp-content/uploads/2014/11/ibm_patro_demoday.jpg
 categories:
   - Blog
 ---
-<span style="color: #141823;">Nós temos o orgulho de anunciar que a IBM, uma das maiores incentivadoras do ecossistema empreendedor brasileiro, é uma das patrocinadoras do Demo Day da 21212.</span><br style="color: #141823;" /><br style="color: #141823;" /><span style="color: #141823;">Na IBM, mantém-se a liderança em criação, desenvolvimento e manufatura das mai</span><span class="text_exposed_show" style="color: #141823;">s avançadas tecnologias de informação da indústria, incluindo sistemas de computadores, software, sistemas de rede, dispositivos de armazenamento e microeletrônica. E sua rede mundial de soluções e serviços profissionais IBM traduz estas avançadas tecnologias em negócios para os seus clientes.</p> 
+<span style="color: #141823;">Nós temos o orgulho de anunciar que a IBM, uma das maiores incentivadoras do ecossistema empreendedor brasileiro, é uma das patrocinadoras do Demo Day da 21212.</span><br style="color: #141823;" /><br style="color: #141823;" /><span style="color: #141823;">Na IBM, mantém-se a liderança em criação, desenvolvimento e manufatura das mai</span><span class="text_exposed_show" style="color: #141823;">s avançadas tecnologias de informação da indústria, incluindo sistemas de computadores, software, sistemas de rede, dispositivos de armazenamento e microeletrônica. E sua rede mundial de soluções e serviços profissionais IBM traduz estas avançadas tecnologias em negócios para os seus clientes.</p>
 
 <p>
   O time da 21212 agradece à IBM por apoiar o Demo Day 2014 a ser um grande sucesso!</span>

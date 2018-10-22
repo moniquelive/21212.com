@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/05/digitalkthumb.jpg
+image: /assets/wp-content/uploads/2013/05/digitalkthumb.jpg
 categories:
   - Blog
   - com-thumb
@@ -22,8 +22,8 @@ categories:
 </p>
 
 <div id="attachment_6067" style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://local.21212.com/wp-content/uploads/2013/05/VENUE1.jpg"><img aria-describedby="caption-attachment-6067" class="size-full wp-image-6067 " alt="VENUE" src="http://local.21212.com/wp-content/uploads/2013/05/VENUE1.jpg" width="500" height="340" srcset="http://localhost:8080/wp-content/uploads/2013/05/VENUE1.jpg 500w, http://localhost:8080/wp-content/uploads/2013/05/VENUE1-300x204.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
-  
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/05/VENUE1.jpg"><img aria-describedby="caption-attachment-6067" class="size-full wp-image-6067 " alt="VENUE" src="{{ site.url }}/assets/wp-content/uploads/2013/05/VENUE1.jpg" width="500" height="340" srcset="{{ site.url }}/assets/wp-content/uploads/2013/05/VENUE1.jpg 500w, {{ site.url }}/assets/wp-content/uploads/2013/05/VENUE1-300x204.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+
   <p id="caption-attachment-6067" class="wp-caption-text">
     The venue- Ivan Vazov National Theatre
   </p>

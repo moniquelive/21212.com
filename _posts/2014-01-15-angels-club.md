@@ -16,7 +16,7 @@ partners_url:
   - http://angelsclub.com/
 is_premium:
   - 'false'
-image: /wp-content/uploads/2014/01/angelsclub3.jpg
+image: /assets/wp-content/uploads/2014/01/angelsclub3.jpg
 categories:
   - partners
 ---

@@ -16,7 +16,7 @@ partners_url:
   - http://customer.io/
 is_premium:
   - 'false'
-image: /wp-content/uploads/2014/07/customerio-logo.jpg
+image: /assets/wp-content/uploads/2014/07/customerio-logo.jpg
 categories:
   - partners
 ---

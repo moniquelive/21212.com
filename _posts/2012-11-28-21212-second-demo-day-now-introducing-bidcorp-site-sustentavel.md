@@ -5,7 +5,7 @@ date: 2012-11-28T15:06:58-03:00
 author: "21212"
 excerpt: |
   We hope that you have enjoyed watching the videos we have shared so far of the companies that presented at the second 21212 Demo Day!
-  
+
   Now we would like to introduce to you two other great companies: Bidcorp and Site Sustentavel.
 layout: post
 guid: http://local.21212.com/?p=4423
@@ -16,7 +16,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2012/11/pitch-site-bid.jpg
+image: /assets/wp-content/uploads/2012/11/pitch-site-bid.jpg
 categories:
   - Blog
   - com-thumb

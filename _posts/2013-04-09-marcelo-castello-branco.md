@@ -20,7 +20,7 @@ company:
   - MCB Entertainment
 startup:
   - ""
-image: /wp-content/uploads/2013/04/Marcelo-Castelo-Branco.jpg
+image: /assets/wp-content/uploads/2013/04/Marcelo-Castelo-Branco.jpg
 categories:
   - people
 ---

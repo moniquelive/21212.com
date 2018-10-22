@@ -20,7 +20,7 @@ company:
   - Treebos
 startup:
   - "5653"
-image: /wp-content/uploads/2013/03/franciscoprovete.jpg
+image: /assets/wp-content/uploads/2013/03/franciscoprovete.jpg
 categories:
   - people
 ---

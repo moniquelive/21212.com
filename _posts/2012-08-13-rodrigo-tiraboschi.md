@@ -24,7 +24,7 @@ company:
   - ""
 startup:
   - ""
-image: /wp-content/uploads/2012/08/Rodrigo-Tiraboschi.jpg
+image: /assets/wp-content/uploads/2012/08/Rodrigo-Tiraboschi.jpg
 categories:
   - people
 ---

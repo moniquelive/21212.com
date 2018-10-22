@@ -24,7 +24,7 @@ company:
   - Konigsberger Vannucchi
 startup:
   - ""
-image: /wp-content/uploads/2012/08/Ruben-Sanchez.jpg
+image: /assets/wp-content/uploads/2012/08/Ruben-Sanchez.jpg
 categories:
   - people
 ---

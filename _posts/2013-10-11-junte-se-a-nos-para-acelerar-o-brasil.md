@@ -12,13 +12,13 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/10/lets2.jpg
+image: /assets/wp-content/uploads/2013/10/lets2.jpg
 categories:
   - Blog
   - com-thumb
 ---
 <p dir="ltr">
-  <a href="http://local.21212.com/wp-content/uploads/2013/10/post_an_2chamada_port.png"><img class="aligncenter size-full wp-image-6768" alt="post_an_2chamada_port" src="http://local.21212.com/wp-content/uploads/2013/10/post_an_2chamada_port.png" width="584" height="336" srcset="http://localhost:8080/wp-content/uploads/2013/10/post_an_2chamada_port.png 584w, http://localhost:8080/wp-content/uploads/2013/10/post_an_2chamada_port-300x172.png 300w" sizes="(max-width: 584px) 100vw, 584px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/10/post_an_2chamada_port.png"><img class="aligncenter size-full wp-image-6768" alt="post_an_2chamada_port" src="{{ site.url }}/assets/wp-content/uploads/2013/10/post_an_2chamada_port.png" width="584" height="336" srcset="{{ site.url }}/assets/wp-content/uploads/2013/10/post_an_2chamada_port.png 584w, {{ site.url }}/assets/wp-content/uploads/2013/10/post_an_2chamada_port-300x172.png 300w" sizes="(max-width: 584px) 100vw, 584px" /></a>
 </p>
 
 <p dir="ltr">
@@ -42,11 +42,11 @@ categories:
 </p>
 
 <p dir="ltr">
-  Não perca a oportunidade de deslanchar, receber investimento e ser acelerado pela maior aceleradora da América Latina em conjunto com o Start-Up Brasil do Governo Federal. Para isso, leia bem o <a href="http://startupbrasil.mcti.gov.br/wp-content/uploads/2013/02/Chamada-MCTI_SEPIN_CNPq-11-2013-Start-up-Brasil.pdf">edital</a> e não deixe de indicar na <a href="http://startupbrasil.mcti.gov.br/inscricoes/">inscrição</a> a 21212 como aceleradora escolhida (1ª opção).
+  Não perca a oportunidade de deslanchar, receber investimento e ser acelerado pela maior aceleradora da América Latina em conjunto com o Start-Up Brasil do Governo Federal. Para isso, leia bem o <a href="http://startupbrasil.mcti.gov.br/assets/wp-content/uploads/2013/02/Chamada-MCTI_SEPIN_CNPq-11-2013-Start-up-Brasil.pdf">edital</a> e não deixe de indicar na <a href="http://startupbrasil.mcti.gov.br/inscricoes/">inscrição</a> a 21212 como aceleradora escolhida (1ª opção).
 </p>
 
 <p dir="ltr" style="text-align: center;">
-  <img class="aligncenter size-full wp-image-6769" alt="campanha01-fb" src="http://local.21212.com/wp-content/uploads/2013/10/campanha01-fb.jpg" width="403" height="403" srcset="http://localhost:8080/wp-content/uploads/2013/10/campanha01-fb.jpg 403w, http://localhost:8080/wp-content/uploads/2013/10/campanha01-fb-150x150.jpg 150w, http://localhost:8080/wp-content/uploads/2013/10/campanha01-fb-300x300.jpg 300w" sizes="(max-width: 403px) 100vw, 403px" />
+  <img class="aligncenter size-full wp-image-6769" alt="campanha01-fb" src="{{ site.url }}/assets/wp-content/uploads/2013/10/campanha01-fb.jpg" width="403" height="403" srcset="{{ site.url }}/assets/wp-content/uploads/2013/10/campanha01-fb.jpg 403w, {{ site.url }}/assets/wp-content/uploads/2013/10/campanha01-fb-150x150.jpg 150w, {{ site.url }}/assets/wp-content/uploads/2013/10/campanha01-fb-300x300.jpg 300w" sizes="(max-width: 403px) 100vw, 403px" />
 </p>
 
 &nbsp;

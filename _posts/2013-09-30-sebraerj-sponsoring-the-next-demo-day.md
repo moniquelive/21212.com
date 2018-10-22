@@ -12,13 +12,13 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/09/sebraethumb.jpg
+image: /assets/wp-content/uploads/2013/09/sebraethumb.jpg
 categories:
   - Blog
   - com-thumb
 ---
 <p dir="ltr">
-  <a href="http://local.21212.com/wp-content/uploads/2012/10/sebareBanner.png"><img class="aligncenter size-full wp-image-4115" alt="sebareBanner" src="http://local.21212.com/wp-content/uploads/2012/10/sebareBanner.png" width="540" height="300" srcset="http://localhost:8080/wp-content/uploads/2012/10/sebareBanner.png 540w, http://localhost:8080/wp-content/uploads/2012/10/sebareBanner-300x166.png 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2012/10/sebareBanner.png"><img class="aligncenter size-full wp-image-4115" alt="sebareBanner" src="{{ site.url }}/assets/wp-content/uploads/2012/10/sebareBanner.png" width="540" height="300" srcset="{{ site.url }}/assets/wp-content/uploads/2012/10/sebareBanner.png 540w, {{ site.url }}/assets/wp-content/uploads/2012/10/sebareBanner-300x166.png 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
 </p>
 
 <p dir="ltr">

@@ -26,7 +26,7 @@ company:
   - Prehype
 startup:
   - ""
-image: /wp-content/uploads/2011/07/henrik-werdelin-e1312137978630.jpeg
+image: /assets/wp-content/uploads/2011/07/henrik-werdelin-e1312137978630.jpeg
 categories:
   - people
 ---

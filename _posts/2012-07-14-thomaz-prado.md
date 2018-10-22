@@ -26,7 +26,7 @@ startup:
   - "2275"
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2012/07/ThomazPrado.png
+image: /assets/wp-content/uploads/2012/07/ThomazPrado.png
 categories:
   - people
 ---

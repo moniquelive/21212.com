@@ -24,7 +24,7 @@ partners_url:
   - https://www.pivotaltracker.com/
 is_premium:
   - 'false'
-image: /wp-content/uploads/2011/12/pivotaltracker.jpg
+image: /assets/wp-content/uploads/2011/12/pivotaltracker.jpg
 categories:
   - partners
 ---

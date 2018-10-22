@@ -13,7 +13,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/01/steven-dean.png
+image: /assets/wp-content/uploads/2013/01/steven-dean.png
 categories:
   - Blog
   - com-thumb
@@ -21,7 +21,7 @@ categories:
 Steven Dean is a New York designer, consultant, educator and entrepreneur focused on consumer health and wellness innovation. He is a partner of <a title="Prehype" href="http://prehype.com/" target="_blank">Prehype</a>, a product innovation studio with offices in London and New York. Prehype has a partnership with 21212 with the objective of getting more corporations to innovate like startups. For our Weekly Talk on January 16th, our team and entrepreneurs had the chance to hear a little bit about Steven’s amazing experience in behavior design.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5217" alt="Steven Dean - Behavior Design" src="http://local.21212.com/wp-content/uploads/2013/01/02.png" width="540" height="346" srcset="http://localhost:8080/wp-content/uploads/2013/01/02.png 540w, http://localhost:8080/wp-content/uploads/2013/01/02-300x192.png 300w" sizes="(max-width: 540px) 100vw, 540px" />
+  <img class="aligncenter size-full wp-image-5217" alt="Steven Dean - Behavior Design" src="{{ site.url }}/assets/wp-content/uploads/2013/01/02.png" width="540" height="346" srcset="{{ site.url }}/assets/wp-content/uploads/2013/01/02.png 540w, {{ site.url }}/assets/wp-content/uploads/2013/01/02-300x192.png 300w" sizes="(max-width: 540px) 100vw, 540px" />
 </p>
 
 Steven Dean opened the talk by describing his work with the Quantified Self, a movement which promotes health and wellness by encouraging the use of technology for internal data acquisition (everything from food consumed to blood oxygen levels). He also mentioned his work at the Stanford Persuasive Technology Lab, where the goal is to “design products and services that get people to do things.”
@@ -35,11 +35,11 @@ The description of the specific target behavior must be crisp and meaningful. On
 There are two dimensions of getting a particular behavior to occur: motivation and ability. A trigger/cue/reminder/call to action must also be present.  In order for a behavior to happen, it must be easy to do, user motivation must be high and a trigger must be in place. All three of these need to occur at the same time.
 
 **B=MAT
-  
+
 Behavior = Motivation Ability Trigger**
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5215" alt="Steven Dean Graphic" src="http://local.21212.com/wp-content/uploads/2013/01/deansgraphic.png" width="540" height="446" srcset="http://localhost:8080/wp-content/uploads/2013/01/deansgraphic.png 540w, http://localhost:8080/wp-content/uploads/2013/01/deansgraphic-300x247.png 300w" sizes="(max-width: 540px) 100vw, 540px" />
+  <img class="aligncenter size-full wp-image-5215" alt="Steven Dean Graphic" src="{{ site.url }}/assets/wp-content/uploads/2013/01/deansgraphic.png" width="540" height="446" srcset="{{ site.url }}/assets/wp-content/uploads/2013/01/deansgraphic.png 540w, {{ site.url }}/assets/wp-content/uploads/2013/01/deansgraphic-300x247.png 300w" sizes="(max-width: 540px) 100vw, 540px" />
 </p>
 
 &nbsp;
@@ -49,7 +49,7 @@ Entrepreneurs’ goal is to create a platform that puts triggers in the path of 
 He explained that in design, simplicity is critically important. All great companies started by doing one tiny thing, finding a little success, and building off of that success.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5216" alt="Steven Dean and 21212 Partners about Behavior Design" src="http://local.21212.com/wp-content/uploads/2013/01/01.png" width="540" height="346" srcset="http://localhost:8080/wp-content/uploads/2013/01/01.png 540w, http://localhost:8080/wp-content/uploads/2013/01/01-300x192.png 300w" sizes="(max-width: 540px) 100vw, 540px" />
+  <img class="aligncenter size-full wp-image-5216" alt="Steven Dean and 21212 Partners about Behavior Design" src="{{ site.url }}/assets/wp-content/uploads/2013/01/01.png" width="540" height="346" srcset="{{ site.url }}/assets/wp-content/uploads/2013/01/01.png 540w, {{ site.url }}/assets/wp-content/uploads/2013/01/01-300x192.png 300w" sizes="(max-width: 540px) 100vw, 540px" />
 </p>
 
 Dean also shared three insights on human beings. We are lazy, social creatures of habit. There will always be a part of the population that entrepreneurs can’t reach.

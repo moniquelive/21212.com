@@ -22,7 +22,7 @@ startup-link:
   - ""
 startup-descricao:
   - Saldo Coletivo
-image: /wp-content/uploads/2014/07/saldocoletivo2.jpg
+image: /assets/wp-content/uploads/2014/07/saldocoletivo2.jpg
 categories:
   - companies
 ---

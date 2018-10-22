@@ -22,7 +22,7 @@ startup-link:
   - https://superplayer.fm/
 startup-descricao:
   - Superplayer is one of the first music-list-centered products in the world.
-image: /wp-content/uploads/2014/06/Superplayer.jpg
+image: /assets/wp-content/uploads/2014/06/Superplayer.jpg
 categories:
   - companies
 ---

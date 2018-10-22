@@ -17,12 +17,12 @@ fv_video_img:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2012/10/amazonFeaturedImage2.png
+image: /assets/wp-content/uploads/2012/10/amazonFeaturedImage2.png
 categories:
   - Blog
   - com-thumb
 ---
-[<img class="alignnone size-full wp-image-4113" title="amazonBanner" src="http://local.21212.com/wp-content/uploads/2012/10/amazonBanner2.png" alt="" width="540" height="185" srcset="http://localhost:8080/wp-content/uploads/2012/10/amazonBanner2.png 540w, http://localhost:8080/wp-content/uploads/2012/10/amazonBanner2-300x102.png 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/wp-content/uploads/2012/10/amazonBanner2.png)
+[<img class="alignnone size-full wp-image-4113" title="amazonBanner" src="{{ site.url }}/assets/wp-content/uploads/2012/10/amazonBanner2.png" alt="" width="540" height="185" srcset="{{ site.url }}/assets/wp-content/uploads/2012/10/amazonBanner2.png 540w, {{ site.url }}/assets/wp-content/uploads/2012/10/amazonBanner2-300x102.png 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/assets/wp-content/uploads/2012/10/amazonBanner2.png)
 
 We are proud to announce that Amazon Web Services will be sponsoring 21212 Digital Accelerator’s Demo Day on this Friday.
 

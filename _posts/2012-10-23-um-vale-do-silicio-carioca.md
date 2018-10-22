@@ -19,7 +19,7 @@ data-publicacao:
 tit-publicacao:
   - Um Vale do Silício carioca
 link-publicacao:
-  - http://local.21212.com/wp-content/uploads/2012/10/21212-Pedro-Doria.pdf
+  - http://local.21212.com/assets/wp-content/uploads/2012/10/21212-Pedro-Doria.pdf
 nome-veiculo:
   - 'O Globo / Pedro Doria, Digital & Mídia'
 transposh_can_translate:

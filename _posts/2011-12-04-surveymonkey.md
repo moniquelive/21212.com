@@ -22,7 +22,7 @@ partners_url:
   - http://pt.surveymonkey.com/
 is_premium:
   - 'false'
-image: /wp-content/uploads/2011/12/surveymonkeylogo-160x160.png
+image: /assets/wp-content/uploads/2011/12/surveymonkeylogo-160x160.png
 categories:
   - partners
 ---

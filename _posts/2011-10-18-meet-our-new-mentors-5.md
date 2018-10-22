@@ -14,7 +14,7 @@ categories:
 tags:
   - mentor
 ---
-<img class="aligncenter size-full wp-image-311" src="http://local.21212.com/wp-content/uploads/2011/07/super-mentor.png" alt="super-mentor" width="250" height="250" srcset="http://localhost:8080/wp-content/uploads/2011/07/super-mentor.png 250w, http://localhost:8080/wp-content/uploads/2011/07/super-mentor-150x150.png 150w" sizes="(max-width: 250px) 100vw, 250px" />
+<img class="aligncenter size-full wp-image-311" src="{{ site.url }}/assets/wp-content/uploads/2011/07/super-mentor.png" alt="super-mentor" width="250" height="250" srcset="{{ site.url }}/assets/wp-content/uploads/2011/07/super-mentor.png 250w, {{ site.url }}/assets/wp-content/uploads/2011/07/super-mentor-150x150.png 150w" sizes="(max-width: 250px) 100vw, 250px" />
 
 **Meet our new mentor: Adriana Cisneros!**
 
@@ -27,7 +27,7 @@ We are so happy to introduce you to our new mentor, who will be supporting our A
 </p>
 
 <p style="text-align: left">
-  <img class="aligncenter size-full wp-image-670" src="http://local.21212.com/wp-content/uploads/2011/09/ACG-en-RD-1-e1316747428556.jpg" alt="Adriana Cisneros" width="250" height="250" srcset="http://localhost:8080/wp-content/uploads/2011/09/ACG-en-RD-1-e1316747428556.jpg 250w, http://localhost:8080/wp-content/uploads/2011/09/ACG-en-RD-1-e1316747428556-150x150.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />
+  <img class="aligncenter size-full wp-image-670" src="{{ site.url }}/assets/wp-content/uploads/2011/09/ACG-en-RD-1-e1316747428556.jpg" alt="Adriana Cisneros" width="250" height="250" srcset="{{ site.url }}/assets/wp-content/uploads/2011/09/ACG-en-RD-1-e1316747428556.jpg 250w, {{ site.url }}/assets/wp-content/uploads/2011/09/ACG-en-RD-1-e1316747428556-150x150.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />
 </p>
 
 **Adriana Cisneros** is Vice Chairman and Director of Strategy of the Cisneros Group of Companies, one of the leading privately held media, entertainment, telecommunications and consumer products organizations in the world. Read more about her [here](http://local.21212.com/team/adriana-cisneros/ "Adriana Cisneiros").

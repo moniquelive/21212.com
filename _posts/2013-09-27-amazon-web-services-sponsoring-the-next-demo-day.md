@@ -12,12 +12,12 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/09/AWSTHUMB.jpg
+image: /assets/wp-content/uploads/2013/09/AWSTHUMB.jpg
 categories:
   - Blog
   - com-thumb
 ---
-[<img class="aligncenter size-full wp-image-6718" alt="awsusar" src="http://local.21212.com/wp-content/uploads/2013/09/awsusar.jpg" width="540" height="240" srcset="http://localhost:8080/wp-content/uploads/2013/09/awsusar.jpg 540w, http://localhost:8080/wp-content/uploads/2013/09/awsusar-300x133.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/wp-content/uploads/2013/09/awsusar.jpg)
+[<img class="aligncenter size-full wp-image-6718" alt="awsusar" src="{{ site.url }}/assets/wp-content/uploads/2013/09/awsusar.jpg" width="540" height="240" srcset="{{ site.url }}/assets/wp-content/uploads/2013/09/awsusar.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/09/awsusar-300x133.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/assets/wp-content/uploads/2013/09/awsusar.jpg)
 
 We are proud to announce that Amazon Web Services will be sponsoring our upcoming [Demo Day](http://demoday.21212.com/), which will take place on the next week, October 3rd.
 

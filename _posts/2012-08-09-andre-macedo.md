@@ -37,7 +37,7 @@ company:
   - ZeroPaper
 startup:
   - "2289"
-image: /wp-content/uploads/2012/08/Andre_macedo.png
+image: /assets/wp-content/uploads/2012/08/Andre_macedo.png
 categories:
   - people
 ---

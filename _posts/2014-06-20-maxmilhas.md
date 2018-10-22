@@ -22,7 +22,7 @@ startup-link:
   - https://www.maxmilhas.com.br/
 startup-descricao:
   - Marketplace to buy and sell airplane tickets through miles.
-image: /wp-content/uploads/2014/06/logo_maxmilhas1280_alta_resoluçao.png
+image: /assets/wp-content/uploads/2014/06/logo_maxmilhas1280_alta_resoluçao.png
 categories:
   - companies
 ---

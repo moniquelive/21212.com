@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2014/09/pedro-luzardo-e1411504526953.png
+image: /assets/wp-content/uploads/2014/09/pedro-luzardo-e1411504526953.png
 categories:
   - Blog
 ---

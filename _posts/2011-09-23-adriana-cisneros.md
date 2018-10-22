@@ -26,7 +26,7 @@ company:
   - Cisneros Group of Companies
 startup:
   - ""
-image: /wp-content/uploads/2011/09/ACG-en-RD-1-e1316747428556.jpg
+image: /assets/wp-content/uploads/2011/09/ACG-en-RD-1-e1316747428556.jpg
 categories:
   - people
 ---

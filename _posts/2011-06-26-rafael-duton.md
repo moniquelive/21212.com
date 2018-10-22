@@ -30,7 +30,7 @@ company:
   - 21212 Digital Accelerator
 startup:
   - ""
-image: /wp-content/uploads/2011/06/duton3.jpg
+image: /assets/wp-content/uploads/2011/06/duton3.jpg
 categories:
   - people
 ---

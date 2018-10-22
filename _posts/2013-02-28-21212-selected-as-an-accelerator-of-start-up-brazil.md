@@ -12,14 +12,14 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/02/Startupbrasilthumb.jpg
+image: /assets/wp-content/uploads/2013/02/Startupbrasilthumb.jpg
 categories:
   - Blog
   - com-thumb
 ---
 <div id="attachment_5533" style="width: 550px" class="wp-caption aligncenter">
-  <img aria-describedby="caption-attachment-5533" class="size-full wp-image-5533" alt="Founders of 21212" src="http://local.21212.com/wp-content/uploads/2013/02/startupbrasilfounders.jpg" width="540" height="300" srcset="http://localhost:8080/wp-content/uploads/2013/02/startupbrasilfounders.jpg 540w, http://localhost:8080/wp-content/uploads/2013/02/startupbrasilfounders-300x166.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
-  
+  <img aria-describedby="caption-attachment-5533" class="size-full wp-image-5533" alt="Founders of 21212" src="{{ site.url }}/assets/wp-content/uploads/2013/02/startupbrasilfounders.jpg" width="540" height="300" srcset="{{ site.url }}/assets/wp-content/uploads/2013/02/startupbrasilfounders.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/02/startupbrasilfounders-300x166.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
+
   <p id="caption-attachment-5533" class="wp-caption-text">
     Founders of 21212
   </p>
@@ -30,8 +30,8 @@ We are proud to announce that we have just been chosen as one of the  accelerat
 The most difficult part was figuring out how to summarize all the hard work done at 21212 in the past two years&#8230;
 
 <div id="attachment_5536" style="width: 550px" class="wp-caption aligncenter">
-  <a href="http://local.21212.com/wp-content/uploads/2013/02/startupbr21212.jpg"><img aria-describedby="caption-attachment-5536" class="size-full wp-image-5536" alt="21212 Startup Brasil proposal " src="http://local.21212.com/wp-content/uploads/2013/02/startupbr21212.jpg" width="540" height="360" srcset="http://localhost:8080/wp-content/uploads/2013/02/startupbr21212.jpg 540w, http://localhost:8080/wp-content/uploads/2013/02/startupbr21212-300x200.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
-  
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/02/startupbr21212.jpg"><img aria-describedby="caption-attachment-5536" class="size-full wp-image-5536" alt="21212 Startup Brasil proposal " src="{{ site.url }}/assets/wp-content/uploads/2013/02/startupbr21212.jpg" width="540" height="360" srcset="{{ site.url }}/assets/wp-content/uploads/2013/02/startupbr21212.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/02/startupbr21212-300x200.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+
   <p id="caption-attachment-5536" class="wp-caption-text">
     21212 Startup Brasil proposal
   </p>

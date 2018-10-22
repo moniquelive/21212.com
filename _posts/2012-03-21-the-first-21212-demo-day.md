@@ -13,13 +13,13 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2012/03/demoday-150x150.jpg
+image: /assets/wp-content/uploads/2012/03/demoday-150x150.jpg
 categories:
   - Blog
   - com-thumb
 ---
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-1485" title="logo" src="http://local.21212.com/wp-content/uploads/2012/03/logo1.jpg" alt="" width="540" height="285" srcset="http://localhost:8080/wp-content/uploads/2012/03/logo1.jpg 540w, http://localhost:8080/wp-content/uploads/2012/03/logo1-300x158.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
+  <img class="aligncenter size-full wp-image-1485" title="logo" src="{{ site.url }}/assets/wp-content/uploads/2012/03/logo1.jpg" alt="" width="540" height="285" srcset="{{ site.url }}/assets/wp-content/uploads/2012/03/logo1.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2012/03/logo1-300x158.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
 </p>
 
 <p style="text-align: left;">
@@ -35,9 +35,9 @@ In addition to our companies presentations we were fortunate to have spectacular
 <div class="mceTemp mceIEcenter" style="text-align: center;">
   <dl id="attachment_1446" class="wp-caption aligncenter" style="width: 549px;">
     <dt class="wp-caption-dt">
-      <img class="size-full wp-image-1446 " title="Armínio Fraga" src="http://local.21212.com/wp-content/uploads/2012/03/21212_DemoDay_S_ArminioFraga-e1332361827752.jpg" alt="" width="539" height="358" srcset="http://localhost:8080/wp-content/uploads/2012/03/21212_DemoDay_S_ArminioFraga-e1332361827752.jpg 539w, http://localhost:8080/wp-content/uploads/2012/03/21212_DemoDay_S_ArminioFraga-e1332361827752-300x199.jpg 300w" sizes="(max-width: 539px) 100vw, 539px" />
+      <img class="size-full wp-image-1446 " title="Armínio Fraga" src="{{ site.url }}/assets/wp-content/uploads/2012/03/21212_DemoDay_S_ArminioFraga-e1332361827752.jpg" alt="" width="539" height="358" srcset="{{ site.url }}/assets/wp-content/uploads/2012/03/21212_DemoDay_S_ArminioFraga-e1332361827752.jpg 539w, {{ site.url }}/assets/wp-content/uploads/2012/03/21212_DemoDay_S_ArminioFraga-e1332361827752-300x199.jpg 300w" sizes="(max-width: 539px) 100vw, 539px" />
     </dt>
-    
+
     <dd class="wp-caption-dd">
       <strong>Armínio Fraga</strong>, Founding Partner of Gavea Investimentos
     </dd>
@@ -74,9 +74,9 @@ We are excited to announce that <a title="Pagpop" href="http://www.pagpop.com.br
 <div class="mceTemp mceIEcenter" style="text-align: center;">
   <dl id="attachment_1456" class="wp-caption aligncenter" style="width: 550px;">
     <dt class="wp-caption-dt">
-      <img class="size-full wp-image-1456" title="Pagpop" src="http://local.21212.com/wp-content/uploads/2012/03/Marcio.jpg" alt="" width="540" height="270" srcset="http://localhost:8080/wp-content/uploads/2012/03/Marcio.jpg 540w, http://localhost:8080/wp-content/uploads/2012/03/Marcio-300x150.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
+      <img class="size-full wp-image-1456" title="Pagpop" src="{{ site.url }}/assets/wp-content/uploads/2012/03/Marcio.jpg" alt="" width="540" height="270" srcset="{{ site.url }}/assets/wp-content/uploads/2012/03/Marcio.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2012/03/Marcio-300x150.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
     </dt>
-    
+
     <dd class="wp-caption-dd">
       <strong>Marcio Campos</strong>, Founder of PagPop
     </dd>
@@ -92,9 +92,9 @@ If you are interested to be a sponsor supporting our next Demo Day, please **<a 
 <div class="mceTemp mceIEcenter" style="text-align: center;">
   <dl id="attachment_1457" class="wp-caption aligncenter" style="width: 550px;">
     <dt class="wp-caption-dt">
-      <img class="size-full wp-image-1457" title="21212 Team and Startups" src="http://local.21212.com/wp-content/uploads/2012/03/21212_DemoDay_TheEnd-e1332363307857.jpg" alt="" width="540" height="270" srcset="http://localhost:8080/wp-content/uploads/2012/03/21212_DemoDay_TheEnd-e1332363307857.jpg 540w, http://localhost:8080/wp-content/uploads/2012/03/21212_DemoDay_TheEnd-e1332363307857-300x150.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
+      <img class="size-full wp-image-1457" title="21212 Team and Startups" src="{{ site.url }}/assets/wp-content/uploads/2012/03/21212_DemoDay_TheEnd-e1332363307857.jpg" alt="" width="540" height="270" srcset="{{ site.url }}/assets/wp-content/uploads/2012/03/21212_DemoDay_TheEnd-e1332363307857.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2012/03/21212_DemoDay_TheEnd-e1332363307857-300x150.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
     </dt>
-    
+
     <dd class="wp-caption-dd">
       The <strong>21212 Team</strong> and <strong>Startups</strong>
     </dd>

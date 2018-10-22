@@ -26,7 +26,7 @@ company:
   - 'Axxon Group - Private Equity'
 startup:
   - ""
-image: /wp-content/uploads/2011/10/Marcello-e1318869307558.jpg
+image: /assets/wp-content/uploads/2011/10/Marcello-e1318869307558.jpg
 categories:
   - people
 ---

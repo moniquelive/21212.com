@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/10/fbposts05b-selectioncampaign.jpg
+image: /assets/wp-content/uploads/2013/10/fbposts05b-selectioncampaign.jpg
 categories:
   - Blog
   - com-thumb
@@ -24,8 +24,8 @@ Não são só empreendedores brasileiros que passam pela 21212. É o caso do Seb
 </p>
 
 <div id="attachment_6834" style="width: 413px" class="wp-caption aligncenter">
-  <a href="http://local.21212.com/wp-content/uploads/2013/10/fbposts05b-selectioncampaign.jpg"><img aria-describedby="caption-attachment-6834" class="size-full wp-image-6834" alt="fbposts05b-selectioncampaign" src="http://local.21212.com/wp-content/uploads/2013/10/fbposts05b-selectioncampaign.jpg" width="403" height="403" srcset="http://localhost:8080/wp-content/uploads/2013/10/fbposts05b-selectioncampaign.jpg 403w, http://localhost:8080/wp-content/uploads/2013/10/fbposts05b-selectioncampaign-150x150.jpg 150w, http://localhost:8080/wp-content/uploads/2013/10/fbposts05b-selectioncampaign-300x300.jpg 300w" sizes="(max-width: 403px) 100vw, 403px" /></a>
-  
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/10/fbposts05b-selectioncampaign.jpg"><img aria-describedby="caption-attachment-6834" class="size-full wp-image-6834" alt="fbposts05b-selectioncampaign" src="{{ site.url }}/assets/wp-content/uploads/2013/10/fbposts05b-selectioncampaign.jpg" width="403" height="403" srcset="{{ site.url }}/assets/wp-content/uploads/2013/10/fbposts05b-selectioncampaign.jpg 403w, {{ site.url }}/assets/wp-content/uploads/2013/10/fbposts05b-selectioncampaign-150x150.jpg 150w, {{ site.url }}/assets/wp-content/uploads/2013/10/fbposts05b-selectioncampaign-300x300.jpg 300w" sizes="(max-width: 403px) 100vw, 403px" /></a>
+
   <p id="caption-attachment-6834" class="wp-caption-text">
     Sebastián Perez, sócio-fundador da Aentropico.
   </p>

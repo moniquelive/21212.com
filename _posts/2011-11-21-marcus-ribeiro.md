@@ -24,7 +24,7 @@ company:
   - GoBooks
 startup:
   - "5666"
-image: /wp-content/uploads/2011/11/marcusribeiro.jpg
+image: /assets/wp-content/uploads/2011/11/marcusribeiro.jpg
 categories:
   - people
 tags:
@@ -35,7 +35,7 @@ tags:
 Past experience:
 
 Import Department &#8211; Foreign Trade &#8211; B2W. Cia Global do varejo
-  
+
 XYNYTH Manufacturing Corp. &#8211; Inventory and Logistics
-  
+
 Panorama Consultoria Internacional Junior Enterprise &#8211; CMO and founder

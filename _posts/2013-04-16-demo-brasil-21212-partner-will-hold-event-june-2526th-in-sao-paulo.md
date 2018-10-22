@@ -12,13 +12,13 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/04/thumb-1.jpg
+image: /assets/wp-content/uploads/2013/04/thumb-1.jpg
 categories:
   - Blog
   - com-thumb
 ---
 <p dir="ltr" style="text-align: center;">
-  <a href="http://local.21212.com/wp-content/uploads/2013/04/main-3.jpg"><img class="size-full wp-image-5892 aligncenter" alt="main (3)" src="http://local.21212.com/wp-content/uploads/2013/04/main-3.jpg" width="540" height="272" srcset="http://localhost:8080/wp-content/uploads/2013/04/main-3.jpg 540w, http://localhost:8080/wp-content/uploads/2013/04/main-3-300x151.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/04/main-3.jpg"><img class="size-full wp-image-5892 aligncenter" alt="main (3)" src="{{ site.url }}/assets/wp-content/uploads/2013/04/main-3.jpg" width="540" height="272" srcset="{{ site.url }}/assets/wp-content/uploads/2013/04/main-3.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/04/main-3-300x151.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
 </p>
 
 <p dir="ltr">

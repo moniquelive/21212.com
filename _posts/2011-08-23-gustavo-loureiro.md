@@ -30,7 +30,7 @@ company:
   - SMMNews.ca
 startup:
   - "812"
-image: /wp-content/uploads/2011/08/Gustavo_Loureiro_14-1-e1314143148541.jpg
+image: /assets/wp-content/uploads/2011/08/Gustavo_Loureiro_14-1-e1314143148541.jpg
 categories:
   - people
 ---

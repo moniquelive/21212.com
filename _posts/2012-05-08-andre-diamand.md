@@ -28,7 +28,7 @@ company:
   - VentureOne
 startup:
   - ""
-image: /wp-content/uploads/2012/05/andre.diamand.terno_.foto_-e1336483267251.png
+image: /assets/wp-content/uploads/2012/05/andre.diamand.terno_.foto_-e1336483267251.png
 categories:
   - people
 tags:

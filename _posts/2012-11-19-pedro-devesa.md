@@ -26,7 +26,7 @@ company:
   - B2W Inc.
 startup:
   - ""
-image: /wp-content/uploads/2012/11/pedro.jpg
+image: /assets/wp-content/uploads/2012/11/pedro.jpg
 categories:
   - people
 ---

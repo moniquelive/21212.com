@@ -20,7 +20,7 @@ company:
   - Instaquadros
 startup:
   - "5663"
-image: /wp-content/uploads/2013/03/seila.jpg
+image: /assets/wp-content/uploads/2013/03/seila.jpg
 categories:
   - people
 ---

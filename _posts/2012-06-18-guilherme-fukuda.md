@@ -20,7 +20,7 @@ startup:
   - "839"
 company:
   - Simpply
-image: /wp-content/uploads/2011/10/guilherme-fukuda1.jpg
+image: /assets/wp-content/uploads/2011/10/guilherme-fukuda1.jpg
 categories:
   - people
 ---

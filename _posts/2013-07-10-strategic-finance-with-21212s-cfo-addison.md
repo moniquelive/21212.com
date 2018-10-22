@@ -14,7 +14,7 @@ fv_video_img:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2013/07/strategicfinancesthumb2.jpg
+image: /assets/wp-content/uploads/2013/07/strategicfinancesthumb2.jpg
 categories:
   - Blog
   - com-thumb
@@ -24,8 +24,8 @@ categories:
 </p>
 
 <div id="attachment_6381" style="width: 332px" class="wp-caption alignleft">
-  <a href="http://local.21212.com/wp-content/uploads/2013/07/J9H3492.jpg"><img aria-describedby="caption-attachment-6381" class=" wp-image-6381  " alt="_J9H3492" src="http://local.21212.com/wp-content/uploads/2013/07/J9H3492.jpg" width="322" height="215" srcset="http://localhost:8080/wp-content/uploads/2013/07/J9H3492.jpg 576w, http://localhost:8080/wp-content/uploads/2013/07/J9H3492-300x200.jpg 300w" sizes="(max-width: 322px) 100vw, 322px" /></a>
-  
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/07/J9H3492.jpg"><img aria-describedby="caption-attachment-6381" class=" wp-image-6381  " alt="_J9H3492" src="{{ site.url }}/assets/wp-content/uploads/2013/07/J9H3492.jpg" width="322" height="215" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/J9H3492.jpg 576w, {{ site.url }}/assets/wp-content/uploads/2013/07/J9H3492-300x200.jpg 300w" sizes="(max-width: 322px) 100vw, 322px" /></a>
+
   <p id="caption-attachment-6381" class="wp-caption-text">
     Addison speaking at our most recent Investor Day in São Paulo
   </p>

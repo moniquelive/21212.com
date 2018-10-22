@@ -22,7 +22,7 @@ startup-link:
   - http://www.aentropi.co
 startup-descricao:
   - Turning big data into predictive insights.
-image: /wp-content/uploads/2013/03/aentropico1.png
+image: /assets/wp-content/uploads/2013/03/aentropico1.png
 categories:
   - companies
 ---

@@ -17,7 +17,7 @@ data-publicacao:
 tit-publicacao:
   - Conhecimento e rede de contatos apoiam projetos
 link-publicacao:
-  - http://local.21212.com/wp-content/uploads/2013/01/materia_Brasil_Economico_publicada_pg_40_18_dez_2012.pdf
+  - http://local.21212.com/assets/wp-content/uploads/2013/01/materia_Brasil_Economico_publicada_pg_40_18_dez_2012.pdf
 nome-veiculo:
   - Jornal Brasil Econômico
 categories:

@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/03/guilhermecohnthumb.jpg
+image: /assets/wp-content/uploads/2013/03/guilhermecohnthumb.jpg
 categories:
   - Blog
   - com-thumb
@@ -20,7 +20,7 @@ categories:
 For our Weekly Talk last Wednesday, February 27th, Guilherme Cohn, mentor at 21212 and partner at Confrapar, spoke to us about investments and running your start-up. Below is a quick recap of some of the interesting points he discussed with us.
 
 <p style="text-align: left;">
-  <b id="internal-source-marker_0.11631176015362144"><a href="http://local.21212.com/wp-content/uploads/2013/03/guilherme21212m.jpg"><img class="size-full wp-image-5548 aligncenter" alt="guilherme21212m" src="http://local.21212.com/wp-content/uploads/2013/03/guilherme21212m.jpg" width="540" height="300" srcset="http://localhost:8080/wp-content/uploads/2013/03/guilherme21212m.jpg 540w, http://localhost:8080/wp-content/uploads/2013/03/guilherme21212m-300x166.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a></b>
+  <b id="internal-source-marker_0.11631176015362144"><a href="http://local.21212.com/assets/wp-content/uploads/2013/03/guilherme21212m.jpg"><img class="size-full wp-image-5548 aligncenter" alt="guilherme21212m" src="{{ site.url }}/assets/wp-content/uploads/2013/03/guilherme21212m.jpg" width="540" height="300" srcset="{{ site.url }}/assets/wp-content/uploads/2013/03/guilherme21212m.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/03/guilherme21212m-300x166.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a></b>
 </p>
 
 ·         Premature scaling is a reality. After closing a round of funding, it is easy to spend money hiring a large team hoping that it will help the growth of your business. However, there is still a high risk that months will go by and your business will have no growth at all. If this occurs, you will be using up your money before you have time to see what you are doing wrong and make adjustments. Investors want to see that you know how to allocate their money strategically so premature scaling doesn’t occur.

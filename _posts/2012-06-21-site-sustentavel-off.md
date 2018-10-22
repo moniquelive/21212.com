@@ -51,12 +51,12 @@ startup-logo:
 startup-ciclo:
   - "-2"
 video-pitch:
-  - '<iframe src="http://player.vimeo.com/video/53859136?title=0&byline=0&portrait=0&badge=0" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>'
+  - '<iframe src="{{ site.url }}http://player.vimeo.com/video/53859136?title=0&byline=0&portrait=0&badge=0" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>'
 startup-link:
   - http://www.sitesustentavel.com.br
 startup-descricao:
   - Increasing ecommerce sales with a sustainable focus
-image: /wp-content/uploads/2012/06/logo-sitesustentavel.jpg
+image: /assets/wp-content/uploads/2012/06/logo-sitesustentavel.jpg
 categories:
   - companies
 ---

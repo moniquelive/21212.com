@@ -24,7 +24,7 @@ company:
   - Casa do Saber
 startup:
   - ""
-image: /wp-content/uploads/2012/04/Alexandre_alta-e1335479809626.jpg
+image: /assets/wp-content/uploads/2012/04/Alexandre_alta-e1335479809626.jpg
 categories:
   - people
 tags:

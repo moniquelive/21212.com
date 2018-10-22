@@ -17,7 +17,7 @@ data-publicacao:
 tit-publicacao:
   - Aceleradora de negócios binacional
 link-publicacao:
-  - http://local.21212.com/wp-content/uploads/2011/07/21212OGlobo.jpg
+  - http://local.21212.com/assets/wp-content/uploads/2011/07/21212OGlobo.jpg
 nome-veiculo:
   - 'O Globo / Negócios & Cia'
 transposh_can_translate:

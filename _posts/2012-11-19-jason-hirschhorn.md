@@ -26,7 +26,7 @@ company:
   - The reDEF Group
 startup:
   - ""
-image: /wp-content/uploads/2012/11/jason.jpg
+image: /assets/wp-content/uploads/2012/11/jason.jpg
 categories:
   - people
 ---

@@ -49,12 +49,12 @@ startup-logo:
 startup-ciclo:
   - "-3"
 video-pitch:
-  - '<iframe src="http://player.vimeo.com/video/53854533?title=0&byline=0&portrait=0&badge=0" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>'
+  - '<iframe src="{{ site.url }}http://player.vimeo.com/video/53854533?title=0&byline=0&portrait=0&badge=0" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>'
 startup-link:
   - http://www.easyaula.com.br
 startup-descricao:
   - Learn from inspiring people, next to you
-image: /wp-content/uploads/2012/06/logoeasyaula.png
+image: /assets/wp-content/uploads/2012/06/logoeasyaula.png
 categories:
   - companies
 ---

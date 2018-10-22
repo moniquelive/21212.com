@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/09/GDG.jpg
+image: /assets/wp-content/uploads/2013/09/GDG.jpg
 categories:
   - Blog
   - com-thumb
@@ -22,8 +22,8 @@ categories:
 </p>
 
 <div id="attachment_6661" style="width: 550px" class="wp-caption aligncenter">
-  <a href="http://local.21212.com/wp-content/uploads/2013/09/gdgfotocerta.jpg"><img aria-describedby="caption-attachment-6661" class="size-full wp-image-6661" alt="gdgfotocerta" src="http://local.21212.com/wp-content/uploads/2013/09/gdgfotocerta.jpg" width="540" height="400" srcset="http://localhost:8080/wp-content/uploads/2013/09/gdgfotocerta.jpg 540w, http://localhost:8080/wp-content/uploads/2013/09/gdgfotocerta-300x222.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
-  
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/09/gdgfotocerta.jpg"><img aria-describedby="caption-attachment-6661" class="size-full wp-image-6661" alt="gdgfotocerta" src="{{ site.url }}/assets/wp-content/uploads/2013/09/gdgfotocerta.jpg" width="540" height="400" srcset="{{ site.url }}/assets/wp-content/uploads/2013/09/gdgfotocerta.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/09/gdgfotocerta-300x222.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+
   <p id="caption-attachment-6661" class="wp-caption-text">
     É aqui, no nosso escritório, que o primeiro encontro do GDG carioca vai acontecer!
   </p>

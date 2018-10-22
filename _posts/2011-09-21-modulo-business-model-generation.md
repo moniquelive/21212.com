@@ -17,8 +17,8 @@ tags:
   - business
 ---
 <div id="attachment_642" style="width: 550px" class="wp-caption aligncenter">
-  <img aria-describedby="caption-attachment-642" class="size-full wp-image-642" src="http://local.21212.com/wp-content/uploads/2011/09/canvasaceleradosbx-e1316617075939.jpg" alt="" width="540" height="357" srcset="http://localhost:8080/wp-content/uploads/2011/09/canvasaceleradosbx-e1316617075939.jpg 540w, http://localhost:8080/wp-content/uploads/2011/09/canvasaceleradosbx-e1316617075939-300x198.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
-  
+  <img aria-describedby="caption-attachment-642" class="size-full wp-image-642" src="{{ site.url }}/assets/wp-content/uploads/2011/09/canvasaceleradosbx-e1316617075939.jpg" alt="" width="540" height="357" srcset="{{ site.url }}/assets/wp-content/uploads/2011/09/canvasaceleradosbx-e1316617075939.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2011/09/canvasaceleradosbx-e1316617075939-300x198.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
+
   <p id="caption-attachment-642" class="wp-caption-text">
     Empreendedores da 21212 colocando a mão na massa
   </p>
@@ -47,5 +47,5 @@ Conforme divulgado no final da sessão ao vivo, os próximos módulos de acelera
 Acompanhem o nosso <a href="http://twitter.com/21212com" target="_blank">Twitter</a> para ficar sabendo de novidades e outras palestras.
 
 Um abraço,
-  
+
 **21212 Team**

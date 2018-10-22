@@ -15,7 +15,7 @@ tags:
   - entrepreneurship
 ---
 <p style="text-align: center">
-  <img class="aligncenter size-full wp-image-334" src="http://local.21212.com/wp-content/uploads/2011/07/663433_35712445-e1310670711669.jpg" alt="candies" width="540" height="359" srcset="http://localhost:8080/wp-content/uploads/2011/07/663433_35712445-e1310670711669.jpg 540w, http://localhost:8080/wp-content/uploads/2011/07/663433_35712445-e1310670711669-300x199.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
+  <img class="aligncenter size-full wp-image-334" src="{{ site.url }}/assets/wp-content/uploads/2011/07/663433_35712445-e1310670711669.jpg" alt="candies" width="540" height="359" srcset="{{ site.url }}/assets/wp-content/uploads/2011/07/663433_35712445-e1310670711669.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2011/07/663433_35712445-e1310670711669-300x199.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
 </p>
 
 Today we read an article from _<a title="Escape from Cubicle Nation" href="http://www.escapefromcubiclenation.com/" target="_blank">Escape from Cubicle Nation</a>_, a blog published by <a title="About Pamela Slim" href="http://www.escapefromcubiclenation.com/about-pam/" target="_blank">Pamela Slim</a>.

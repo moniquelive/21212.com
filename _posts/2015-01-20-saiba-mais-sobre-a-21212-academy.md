@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2014/09/Banner-21-website-1.png
+image: /assets/wp-content/uploads/2014/09/Banner-21-website-1.png
 categories:
   - Blog
   - com-thumb

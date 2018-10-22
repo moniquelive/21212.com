@@ -15,12 +15,12 @@ fv_video_img:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2012/01/branship41.jpg
+image: /assets/wp-content/uploads/2012/01/branship41.jpg
 categories:
   - Blog
   - com-thumb
 ---
-<img class="aligncenter size-full wp-image-1140" src="http://local.21212.com/wp-content/uploads/2012/01/brandship.jpg" alt="" width="540" height="327" srcset="http://localhost:8080/wp-content/uploads/2012/01/brandship.jpg 540w, http://localhost:8080/wp-content/uploads/2012/01/brandship-300x181.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
+<img class="aligncenter size-full wp-image-1140" src="{{ site.url }}/assets/wp-content/uploads/2012/01/brandship.jpg" alt="" width="540" height="327" srcset="{{ site.url }}/assets/wp-content/uploads/2012/01/brandship.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2012/01/brandship-300x181.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
 
 [Brandship](http://local.21212.com/companies/brandship/ "Brandship") went to Santa Marta Community in Botafogo to have lunch today and wants to help a local entrepreneur to use digital media.
 
@@ -28,11 +28,11 @@ categories:
 
 Bar do Zequinha used to be a lookout for local drug-dealers but today lots of tourists go there to lunch and chill out during a guided tour to that community. The fried chicken is terrific but our entrepreneurs chose the pork chops instead plus all the trimmings (rice, beans, salad and &#8211; since we are in Brazil &#8211; farofa and fritas &#8211; the local french fries). The fries are delicious &#8211; remembers Renny Pereira, Brandship&#8217;s Chief of Design. Zequinha serves bier in the right temperature (extremly cold!) and the place is near the inclined plane&#8217;s third station.
 
-<img class="aligncenter size-full wp-image-1136" src="http://local.21212.com/wp-content/uploads/2012/01/brandship3.jpg" alt="" width="540" height="720" srcset="http://localhost:8080/wp-content/uploads/2012/01/brandship3.jpg 540w, http://localhost:8080/wp-content/uploads/2012/01/brandship3-225x300.jpg 225w" sizes="(max-width: 540px) 100vw, 540px" />
+<img class="aligncenter size-full wp-image-1136" src="{{ site.url }}/assets/wp-content/uploads/2012/01/brandship3.jpg" alt="" width="540" height="720" srcset="{{ site.url }}/assets/wp-content/uploads/2012/01/brandship3.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2012/01/brandship3-225x300.jpg 225w" sizes="(max-width: 540px) 100vw, 540px" />
 
 Don&#8217;t be afraid to be lost in the narrow streets of the community, the locals are always happy to help. The company has added the bar in Foursquare and Andre Nakamura, co-founder of Brandship, says that he will fight to be the mayor! This is only the beginning: the startup will lunch there again next week, but now with the 21212 team!
 
-<img class="aligncenter size-full wp-image-1139" src="http://local.21212.com/wp-content/uploads/2012/01/branship41.jpg" alt="" width="540" height="655" srcset="http://localhost:8080/wp-content/uploads/2012/01/branship41.jpg 540w, http://localhost:8080/wp-content/uploads/2012/01/branship41-247x300.jpg 247w" sizes="(max-width: 540px) 100vw, 540px" />
+<img class="aligncenter size-full wp-image-1139" src="{{ site.url }}/assets/wp-content/uploads/2012/01/branship41.jpg" alt="" width="540" height="655" srcset="{{ site.url }}/assets/wp-content/uploads/2012/01/branship41.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2012/01/branship41-247x300.jpg 247w" sizes="(max-width: 540px) 100vw, 540px" />
 
 More info:
 

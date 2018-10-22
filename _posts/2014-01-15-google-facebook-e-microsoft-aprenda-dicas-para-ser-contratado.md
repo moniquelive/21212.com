@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2014/01/easyaulaThumb.png
+image: /assets/wp-content/uploads/2014/01/easyaulaThumb.png
 categories:
   - Blog
   - com-thumb
@@ -21,7 +21,7 @@ categories:
   Trabalhar no <a href="http://www.google.com/about/company/">Google</a>, na <a href="http://www.microsoft.com/pt-br/default.aspx">Microsoft</a> ou no <a href="https://www.facebook.com/">Facebook</a>, algumas das maiores empresas de tecnologia do mundo, é o sonho de muita gente. E não é pra menos. O Google, por exemplo, considerado a melhor empresa para se trabalhar, oferece uma assistência completa a cada um dos seus funcionários &#8211; desde piscina de bolinhas para divertir o staff a 3 refeições diárias gratuitas. E não é só isso. Abaixo, você confere os principais benefícios que os funcionários do Google recebem da empresa (e não são poucos!):
 </p>
 
-[<img class="aligncenter size-full wp-image-7031" alt="infografico" src="http://local.21212.com/wp-content/uploads/2014/01/infografico.jpg" width="540" height="1432" srcset="http://localhost:8080/wp-content/uploads/2014/01/infografico.jpg 540w, http://localhost:8080/wp-content/uploads/2014/01/infografico-113x300.jpg 113w, http://localhost:8080/wp-content/uploads/2014/01/infografico-386x1024.jpg 386w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/wp-content/uploads/2014/01/infografico.jpg)
+[<img class="aligncenter size-full wp-image-7031" alt="infografico" src="{{ site.url }}/assets/wp-content/uploads/2014/01/infografico.jpg" width="540" height="1432" srcset="{{ site.url }}/assets/wp-content/uploads/2014/01/infografico.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2014/01/infografico-113x300.jpg 113w, {{ site.url }}/assets/wp-content/uploads/2014/01/infografico-386x1024.jpg 386w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/assets/wp-content/uploads/2014/01/infografico.jpg)
 
 &nbsp;
 

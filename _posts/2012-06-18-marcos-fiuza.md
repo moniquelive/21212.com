@@ -22,7 +22,7 @@ company:
   - ResolveAí
 startup:
   - "836"
-image: /wp-content/uploads/2011/10/marcos-fiuza.jpg
+image: /assets/wp-content/uploads/2011/10/marcos-fiuza.jpg
 categories:
   - people
 ---

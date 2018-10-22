@@ -31,7 +31,7 @@ fb_status_messages:
     a:2:{i:0;a:2:{s:7:"message";s:147:"Posted to <a href="http://www.facebook.com/234458136577902/posts/508680812480477" target="_blank">21212 Digital Accelerator's Facebook Timeline</a>";s:5:"error";s:0:"";}i:1;a:2:{s:7:"message";s:322:"Failed posting to your Facebook Timeline. Error: {"message":"Object at URL 'http://local.21212.com/sem-categoria/frederico-camara/' of type 'article' is invalid because it specifies multiple 'og:url' values: http://local.21212.com/sem-categoria/frederico-camara/, http://local.21212.com/sem-categoria/frederico-camara/.","type":"Exception"}";s:5:"error";s:1:"1";}}
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2012/08/frederico_camara.png
+image: /assets/wp-content/uploads/2012/08/frederico_camara.png
 categories:
   - Blog
   - com-thumb

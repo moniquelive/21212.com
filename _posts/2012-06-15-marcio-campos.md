@@ -22,7 +22,7 @@ company:
   - Pagpop
 startup:
   - "842"
-image: /wp-content/uploads/2011/10/marcio-campos.jpg
+image: /assets/wp-content/uploads/2011/10/marcio-campos.jpg
 categories:
   - people
 ---

@@ -17,7 +17,7 @@ data-publicacao:
 tit-publicacao:
   - Uma boa ideia à procura de sócios
 link-publicacao:
-  - http://local.21212.com/wp-content/uploads/2012/03/Uma-boa-ideia-à-procura-de-sócios.pdf
+  - http://local.21212.com/assets/wp-content/uploads/2012/03/Uma-boa-ideia-à-procura-de-sócios.pdf
 nome-veiculo:
   - Valor Econômico
 transposh_can_translate:

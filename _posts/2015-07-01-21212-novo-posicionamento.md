@@ -15,7 +15,7 @@ fv_video_img:
 categories:
   - pt
 ---
-<img class="aligncenter wp-image-7696" src="http://local.21212.com/wp-content/uploads/2015/07/capa_face_ou_news.png" alt="capa_face_ou_news" width="599" height="222" srcset="http://localhost:8080/wp-content/uploads/2015/07/capa_face_ou_news.png 850w, http://localhost:8080/wp-content/uploads/2015/07/capa_face_ou_news-300x111.png 300w" sizes="(max-width: 599px) 100vw, 599px" />
+<img class="aligncenter wp-image-7696" src="{{ site.url }}/assets/wp-content/uploads/2015/07/capa_face_ou_news.png" alt="capa_face_ou_news" width="599" height="222" srcset="{{ site.url }}/assets/wp-content/uploads/2015/07/capa_face_ou_news.png 850w, {{ site.url }}/assets/wp-content/uploads/2015/07/capa_face_ou_news-300x111.png 300w" sizes="(max-width: 599px) 100vw, 599px" />
 
 A 21212 foi idealizada por empreendedores para empreendedores. Criada em 2011 com o objetivo de ajudar empreendedores a criar valor no crescente mercado digital brasileiro, a 21212 foi a primeira aceleradora de startups digitais do país.
 

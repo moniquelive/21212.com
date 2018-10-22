@@ -31,7 +31,7 @@ company:
   - Easyaula
 startup:
   - "2286"
-image: /wp-content/uploads/2012/07/Easyaula-Victor-Campos.png
+image: /assets/wp-content/uploads/2012/07/Easyaula-Victor-Campos.png
 categories:
   - people
 ---

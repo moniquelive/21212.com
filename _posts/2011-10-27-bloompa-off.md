@@ -25,7 +25,7 @@ empreendedor_4:
 empreendedor_nome_4:
   - ""
 bt-video-pitch:
-  - '<iframe src="http://player.vimeo.com/video/38884426?title=0&byline=0&portrait=0" width="620" height="349" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>'
+  - '<iframe src="{{ site.url }}http://player.vimeo.com/video/38884426?title=0&byline=0&portrait=0" width="620" height="349" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>'
 fv_video:
   - Paste your YouTube or Vimeo url
 fv_video_id:
@@ -49,12 +49,12 @@ startup-logo:
 startup-ciclo:
   - "-3"
 video-pitch:
-  - '<iframe src="http://player.vimeo.com/video/38884426?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>'
+  - '<iframe src="{{ site.url }}http://player.vimeo.com/video/38884426?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>'
 startup-link:
   - http://www.bloompa.com.br/
 startup-descricao:
   - Turning visits into sales.
-image: /wp-content/uploads/2011/10/bloompa.gif
+image: /assets/wp-content/uploads/2011/10/bloompa.gif
 categories:
   - companies
 ---

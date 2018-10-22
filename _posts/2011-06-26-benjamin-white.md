@@ -28,7 +28,7 @@ company:
   - 21212 Digital Accelerator
 startup:
   - ""
-image: /wp-content/uploads/2013/01/Ben.jpg
+image: /assets/wp-content/uploads/2013/01/Ben.jpg
 categories:
   - people
 ---
@@ -36,7 +36,7 @@ categories:
   <p>
     <strong>Ben </strong>is an entrepreneur, angel investor and media executive with a passion for building and leading teams to produce engaging products, content, and entertainment experiences. Proven track record in developing successful businesses around innovative ideas and a strong creative vision. Diverse media background includes digital, television, and print experience ranging from startups to large media companies.
   </p>
-  
+
   <p>
     Past experience:
   </p>

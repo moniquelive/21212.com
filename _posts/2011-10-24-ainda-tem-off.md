@@ -49,12 +49,12 @@ startup-logo:
 startup-ciclo:
   - "-1"
 video-pitch:
-  - '<iframe src="http://player.vimeo.com/video/38881787?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>'
+  - '<iframe src="{{ site.url }}http://player.vimeo.com/video/38881787?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>'
 startup-link:
   - ""
 startup-descricao:
   - Your one stop to securely buy or sell tickets online.
-image: /wp-content/uploads/2011/10/aindatem.png
+image: /assets/wp-content/uploads/2011/10/aindatem.png
 categories:
   - companies
 ---

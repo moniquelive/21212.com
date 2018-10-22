@@ -32,12 +32,12 @@ fb_status_messages:
     a:2:{i:0;a:2:{s:7:"message";s:147:"Posted to <a href="http://www.facebook.com/234458136577902/posts/400784743319276" target="_blank">21212 Digital Accelerator's Facebook Timeline</a>";s:5:"error";s:0:"";}i:1;a:2:{s:7:"message";s:337:"Failed posting to your Facebook Timeline. Error: {"message":"Object at URL 'http://local.21212.com/blog/21212-on-the-cover-of-veja-rio/' of type 'article' is invalid because it specifies multiple 'og:url' values: http://local.21212.com/blog/21212-on-the-cover-of-veja-rio/, http://local.21212.com/blog/21212-on-the-cover-of-veja-rio/.","type":"Exception"}";s:5:"error";s:1:"1";}}
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2012/07/vejario-212121.jpg
+image: /assets/wp-content/uploads/2012/07/vejario-212121.jpg
 categories:
   - Blog
   - com-thumb
 ---
-[<img class="alignnone size-full wp-image-3157 aligncenter" title="Veja-Rio" src="http://local.21212.com/wp-content/uploads/2012/07/cover.png" alt="" width="443" height="586" srcset="http://localhost:8080/wp-content/uploads/2012/07/cover.png 443w, http://localhost:8080/wp-content/uploads/2012/07/cover-226x300.png 226w" sizes="(max-width: 443px) 100vw, 443px" />](http://local.21212.com/wp-content/uploads/2012/07/cover.png)
+[<img class="alignnone size-full wp-image-3157 aligncenter" title="Veja-Rio" src="{{ site.url }}/assets/wp-content/uploads/2012/07/cover.png" alt="" width="443" height="586" srcset="{{ site.url }}/assets/wp-content/uploads/2012/07/cover.png 443w, {{ site.url }}/assets/wp-content/uploads/2012/07/cover-226x300.png 226w" sizes="(max-width: 443px) 100vw, 443px" />](http://local.21212.com/assets/wp-content/uploads/2012/07/cover.png)
 
 &nbsp;
 
@@ -47,13 +47,13 @@ The founders of <a title="21212" href="http://local.21212.com" target="_blank">2
 
 Pictured are <a title="Frederico Lacerda" href="http://local.21212.com/people/frederico-lacerda/" target="_blank">Frederico Lacerda</a>, <a title="Marcelo Sales" href="http://local.21212.com/people/marcelo-sales/" target="_blank">Marcelo Sales</a>, <a title="Rafael Duton" href="http://local.21212.com/people/rafael-duton/" target="_blank">Rafael Duton</a>.
 
-[<img class="size-full wp-image-3158 aligncenter" title="21212-Veja" src="http://local.21212.com/wp-content/uploads/2012/07/21212-Veja.png" alt="" width="449" height="410" srcset="http://localhost:8080/wp-content/uploads/2012/07/21212-Veja.png 449w, http://localhost:8080/wp-content/uploads/2012/07/21212-Veja-300x273.png 300w" sizes="(max-width: 449px) 100vw, 449px" />](http://local.21212.com/wp-content/uploads/2012/07/21212-Veja.png)
+[<img class="size-full wp-image-3158 aligncenter" title="21212-Veja" src="{{ site.url }}/assets/wp-content/uploads/2012/07/21212-Veja.png" alt="" width="449" height="410" srcset="{{ site.url }}/assets/wp-content/uploads/2012/07/21212-Veja.png 449w, {{ site.url }}/assets/wp-content/uploads/2012/07/21212-Veja-300x273.png 300w" sizes="(max-width: 449px) 100vw, 449px" />](http://local.21212.com/assets/wp-content/uploads/2012/07/21212-Veja.png)
 
 &nbsp;
 
 Pictured are Gabriel Santos and Rafael Kaufmann.
 
-[<img class="size-full wp-image-3159 aligncenter" title="ResolveAi-Veja" src="http://local.21212.com/wp-content/uploads/2012/07/ResolveAi-Veja.png" alt="" width="473" height="360" srcset="http://localhost:8080/wp-content/uploads/2012/07/ResolveAi-Veja.png 473w, http://localhost:8080/wp-content/uploads/2012/07/ResolveAi-Veja-300x228.png 300w" sizes="(max-width: 473px) 100vw, 473px" />](http://local.21212.com/wp-content/uploads/2012/07/ResolveAi-Veja.png)
+[<img class="size-full wp-image-3159 aligncenter" title="ResolveAi-Veja" src="{{ site.url }}/assets/wp-content/uploads/2012/07/ResolveAi-Veja.png" alt="" width="473" height="360" srcset="{{ site.url }}/assets/wp-content/uploads/2012/07/ResolveAi-Veja.png 473w, {{ site.url }}/assets/wp-content/uploads/2012/07/ResolveAi-Veja-300x228.png 300w" sizes="(max-width: 473px) 100vw, 473px" />](http://local.21212.com/assets/wp-content/uploads/2012/07/ResolveAi-Veja.png)
 
 &nbsp;
 

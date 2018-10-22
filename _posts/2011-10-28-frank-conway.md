@@ -26,7 +26,7 @@ company:
   - Sling Media
 startup:
   - ""
-image: /wp-content/uploads/2011/10/frank_conway-e1318959565824.jpeg
+image: /assets/wp-content/uploads/2011/10/frank_conway-e1318959565824.jpeg
 categories:
   - people
 ---

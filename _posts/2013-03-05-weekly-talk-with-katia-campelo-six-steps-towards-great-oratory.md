@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/03/katiacampelo21212thumb.jpg
+image: /assets/wp-content/uploads/2013/03/katiacampelo21212thumb.jpg
 categories:
   - Blog
   - com-thumb
@@ -22,21 +22,21 @@ categories:
 </p>
 
 <p style="text-align: left;">
-  <b id="internal-source-marker_0.7858372027985752"><br /> <a href="http://local.21212.com/wp-content/uploads/2013/03/katiacampelo21212.jpg"><img class="size-full wp-image-5558 aligncenter" alt="katiacampelo21212" src="http://local.21212.com/wp-content/uploads/2013/03/katiacampelo21212.jpg" width="540" height="300" srcset="http://localhost:8080/wp-content/uploads/2013/03/katiacampelo21212.jpg 540w, http://localhost:8080/wp-content/uploads/2013/03/katiacampelo21212-300x166.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a><br /> </b>
+  <b id="internal-source-marker_0.7858372027985752"><br /> <a href="http://local.21212.com/assets/wp-content/uploads/2013/03/katiacampelo21212.jpg"><img class="size-full wp-image-5558 aligncenter" alt="katiacampelo21212" src="{{ site.url }}/assets/wp-content/uploads/2013/03/katiacampelo21212.jpg" width="540" height="300" srcset="{{ site.url }}/assets/wp-content/uploads/2013/03/katiacampelo21212.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/03/katiacampelo21212-300x166.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a><br /> </b>
 </p>
 
 <b id="internal-source-marker_0.7858372027985752">1- Understand some basic communicative truths and your objective.</b>
 
 <b id="internal-source-marker_0.7858372027985752">-Humans are constantly judging one another.</b><em id="__mceDel"><b id="internal-source-marker_0.7858372027985752"><br /> </b></em> -Humans naturally feel a necessity to be accepted.
-  
+
 -Studies show that only 7% of how you communicate is based on the content.
-  
+
 -Communication is the act of bringing the sender closer to the receiver.
-  
+
 -Speaking in public does not just refer to formal situations; it happens every day.
-  
+
 -Communication is symbolic- Speech is full of symbols that we associate with experiences and memories.
-  
+
 -The more you listen to yourself speaking, the more power you will have over your words.
 
 2- Stop repetition of words

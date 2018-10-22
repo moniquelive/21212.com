@@ -13,7 +13,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/03/selectionprocess21212thumb.jpg
+image: /assets/wp-content/uploads/2013/03/selectionprocess21212thumb.jpg
 categories:
   - Blog
   - com-thumb
@@ -25,8 +25,8 @@ _<b id="internal-source-marker_0.34190695150755346">This post was written by Mar
 But how are startups accepted into the program? What is 21212 really looking for? First, we need to clarify how the selection process works. Companies apply to the program on our website and, after an analysis of the applications, we select a small percentage for an interview with a 21212 team member. Below are some of the most important factors we take into account throughout the selection process.
 
 <div id="attachment_5600" style="width: 550px" class="wp-caption aligncenter">
-  <a href="http://local.21212.com/wp-content/uploads/2013/03/selectionprocess21212.jpg"><img aria-describedby="caption-attachment-5600" class="size-full wp-image-5600 " alt="selectionprocess21212" src="http://local.21212.com/wp-content/uploads/2013/03/selectionprocess21212.jpg" width="540" height="300" srcset="http://localhost:8080/wp-content/uploads/2013/03/selectionprocess21212.jpg 540w, http://localhost:8080/wp-content/uploads/2013/03/selectionprocess21212-300x166.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
-  
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/03/selectionprocess21212.jpg"><img aria-describedby="caption-attachment-5600" class="size-full wp-image-5600 " alt="selectionprocess21212" src="{{ site.url }}/assets/wp-content/uploads/2013/03/selectionprocess21212.jpg" width="540" height="300" srcset="{{ site.url }}/assets/wp-content/uploads/2013/03/selectionprocess21212.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/03/selectionprocess21212-300x166.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+
   <p id="caption-attachment-5600" class="wp-caption-text">
     21212 staff reading some new applications
   </p>

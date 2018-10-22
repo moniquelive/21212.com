@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/04/americassociety21212thumb.jpg
+image: /assets/wp-content/uploads/2013/04/americassociety21212thumb.jpg
 categories:
   - Blog
   - com-thumb
@@ -30,5 +30,5 @@ Online registration is now closed but you can still register, space permitting, 
 </p>
 
 <p dir="ltr" style="text-align: center;">
-  <a href="http://local.21212.com/wp-content/uploads/2013/04/RiodeJaneiroConf2013.jpg"><img class="size-full wp-image-5880 aligncenter" alt="RiodeJaneiroConf2013" src="http://local.21212.com/wp-content/uploads/2013/04/RiodeJaneiroConf2013.jpg" width="400" height="325" srcset="http://localhost:8080/wp-content/uploads/2013/04/RiodeJaneiroConf2013.jpg 400w, http://localhost:8080/wp-content/uploads/2013/04/RiodeJaneiroConf2013-300x243.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/04/RiodeJaneiroConf2013.jpg"><img class="size-full wp-image-5880 aligncenter" alt="RiodeJaneiroConf2013" src="{{ site.url }}/assets/wp-content/uploads/2013/04/RiodeJaneiroConf2013.jpg" width="400" height="325" srcset="{{ site.url }}/assets/wp-content/uploads/2013/04/RiodeJaneiroConf2013.jpg 400w, {{ site.url }}/assets/wp-content/uploads/2013/04/RiodeJaneiroConf2013-300x243.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></a>
 </p>

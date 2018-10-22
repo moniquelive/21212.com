@@ -22,7 +22,7 @@ company:
   - Brandship
 startup:
   - "812"
-image: /wp-content/uploads/2012/09/fernando.png
+image: /assets/wp-content/uploads/2012/09/fernando.png
 categories:
   - people
 ---

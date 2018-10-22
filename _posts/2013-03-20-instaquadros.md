@@ -22,7 +22,7 @@ startup-link:
   - http://www.instaquadros.com
 startup-descricao:
   - Turning digital photos into real-life art products.
-image: /wp-content/uploads/2013/03/instaquadros-logo.png
+image: /assets/wp-content/uploads/2013/03/instaquadros-logo.png
 categories:
   - companies
 ---

@@ -20,7 +20,7 @@ company:
   - Instaquadros
 startup:
   - "5663"
-image: /wp-content/uploads/2013/03/allan.jpg
+image: /assets/wp-content/uploads/2013/03/allan.jpg
 categories:
   - people
 ---

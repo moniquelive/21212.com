@@ -16,7 +16,7 @@ partners_url:
   - http://www.siteblindado.com.br
 is_premium:
   - 'false'
-image: /wp-content/uploads/2013/02/siteblindadologo-160x160.png
+image: /assets/wp-content/uploads/2013/02/siteblindadologo-160x160.png
 categories:
   - partners
 ---

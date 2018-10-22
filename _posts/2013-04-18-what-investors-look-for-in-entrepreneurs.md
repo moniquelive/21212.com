@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/04/exame21212thumb.jpg
+image: /assets/wp-content/uploads/2013/04/exame21212thumb.jpg
 categories:
   - Blog
   - com-thumb
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p dir="ltr" style="text-align: center;">
-  <a href="http://local.21212.com/wp-content/uploads/2013/04/exame21212.jpg"><img class="size-full wp-image-5920 aligncenter" alt="exame21212" src="http://local.21212.com/wp-content/uploads/2013/04/exame21212.jpg" width="500" height="300" srcset="http://localhost:8080/wp-content/uploads/2013/04/exame21212.jpg 500w, http://localhost:8080/wp-content/uploads/2013/04/exame21212-300x180.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/04/exame21212.jpg"><img class="size-full wp-image-5920 aligncenter" alt="exame21212" src="{{ site.url }}/assets/wp-content/uploads/2013/04/exame21212.jpg" width="500" height="300" srcset="{{ site.url }}/assets/wp-content/uploads/2013/04/exame21212.jpg 500w, {{ site.url }}/assets/wp-content/uploads/2013/04/exame21212-300x180.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
 </p>
 
 <p style="text-align: center;">

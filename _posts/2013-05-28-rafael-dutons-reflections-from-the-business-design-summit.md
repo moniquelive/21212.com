@@ -14,13 +14,13 @@ fv_video_img:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2013/05/BDS-rafaeldutonthumb.jpg
+image: /assets/wp-content/uploads/2013/05/BDS-rafaeldutonthumb.jpg
 categories:
   - Blog
   - com-thumb
 ---
 <p style="text-align: center;">
-  <a href="http://local.21212.com/wp-content/uploads/2013/05/183543_415792481818801_20946409_n.png"><img class="wp-image-6119 aligncenter" alt="183543_415792481818801_20946409_n" src="http://local.21212.com/wp-content/uploads/2013/05/183543_415792481818801_20946409_n.png" width="476" height="176" srcset="http://localhost:8080/wp-content/uploads/2013/05/183543_415792481818801_20946409_n.png 850w, http://localhost:8080/wp-content/uploads/2013/05/183543_415792481818801_20946409_n-300x111.png 300w" sizes="(max-width: 476px) 100vw, 476px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/05/183543_415792481818801_20946409_n.png"><img class="wp-image-6119 aligncenter" alt="183543_415792481818801_20946409_n" src="{{ site.url }}/assets/wp-content/uploads/2013/05/183543_415792481818801_20946409_n.png" width="476" height="176" srcset="{{ site.url }}/assets/wp-content/uploads/2013/05/183543_415792481818801_20946409_n.png 850w, {{ site.url }}/assets/wp-content/uploads/2013/05/183543_415792481818801_20946409_n-300x111.png 300w" sizes="(max-width: 476px) 100vw, 476px" /></a>
 </p>
 
 This April, 21212 partner [Rafael Duton](http://local.21212.com/people/rafael-duton/) attended [Business Design Summit](http://www.businessdesignsummit.com/) in Berlin, an event hosting a range of panels and discussions focused on Entrepreneurship with guest speakers like Alex Osterwalder, Steve Blank, Mark Johnson and Henry Chesbrough. Below is a text he wrote to share his thoughts and experiences:

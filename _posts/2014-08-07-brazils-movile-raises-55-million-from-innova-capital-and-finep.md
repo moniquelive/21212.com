@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2014/08/Movile-Logo-Completo-Magenta-Preto__1_.jpg
+image: /assets/wp-content/uploads/2014/08/Movile-Logo-Completo-Magenta-Preto__1_.jpg
 categories:
   - Blog
   - com-thumb
@@ -23,4 +23,4 @@ Read more about the deal below!
 
 <a title="TechCrunch_Movile" href="http://migre.me/kUtgk" target="_blank">&#8220;Brazil’s Movile Raises $55 Million To Bring Universal Delivery Services To Latin America&#8221; (via TechCrunch)</a>
 
-<a href="http://techcrunch.com/2014/08/07/brazils-movile-raises-55-million-to-bring-universal-delivery-services-to-latin-america/" target="_blank"><img class="aligncenter wp-image-7444 size-full" src="http://local.21212.com/wp-content/uploads/2014/08/Screen_Shot_2014-08-07_at_6_10_15_PM.jpg" alt="Screen_Shot_2014-08-07_at_6_10_15_PM" width="540" height="333" srcset="http://localhost:8080/wp-content/uploads/2014/08/Screen_Shot_2014-08-07_at_6_10_15_PM.jpg 540w, http://localhost:8080/wp-content/uploads/2014/08/Screen_Shot_2014-08-07_at_6_10_15_PM-300x185.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+<a href="http://techcrunch.com/2014/08/07/brazils-movile-raises-55-million-to-bring-universal-delivery-services-to-latin-america/" target="_blank"><img class="aligncenter wp-image-7444 size-full" src="{{ site.url }}/assets/wp-content/uploads/2014/08/Screen_Shot_2014-08-07_at_6_10_15_PM.jpg" alt="Screen_Shot_2014-08-07_at_6_10_15_PM" width="540" height="333" srcset="{{ site.url }}/assets/wp-content/uploads/2014/08/Screen_Shot_2014-08-07_at_6_10_15_PM.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2014/08/Screen_Shot_2014-08-07_at_6_10_15_PM-300x185.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>

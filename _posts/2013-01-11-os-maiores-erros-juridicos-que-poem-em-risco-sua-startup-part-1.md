@@ -13,13 +13,13 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/01/Lawyers.jpg
+image: /assets/wp-content/uploads/2013/01/Lawyers.jpg
 categories:
   - Blog
   - com-thumb
 ---
 <p dir="ltr" style="text-align: center;">
-  <a href="http://local.21212.com/wp-content/uploads/2013/01/Lawyers.jpg"><img class="aligncenter  wp-image-4984" alt="Lawyers" src="http://local.21212.com/wp-content/uploads/2013/01/Lawyers.jpg" width="570" height="379" srcset="http://localhost:8080/wp-content/uploads/2013/01/Lawyers.jpg 849w, http://localhost:8080/wp-content/uploads/2013/01/Lawyers-300x199.jpg 300w" sizes="(max-width: 570px) 100vw, 570px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/01/Lawyers.jpg"><img class="aligncenter  wp-image-4984" alt="Lawyers" src="{{ site.url }}/assets/wp-content/uploads/2013/01/Lawyers.jpg" width="570" height="379" srcset="{{ site.url }}/assets/wp-content/uploads/2013/01/Lawyers.jpg 849w, {{ site.url }}/assets/wp-content/uploads/2013/01/Lawyers-300x199.jpg 300w" sizes="(max-width: 570px) 100vw, 570px" /></a>
 </p>
 
 <p dir="ltr">

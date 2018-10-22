@@ -17,14 +17,14 @@ fv_video_img:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2012/11/tv-globo.jpg
+image: /assets/wp-content/uploads/2012/11/tv-globo.jpg
 categories:
   - Blog
   - com-thumb
 ---
 To help show off Brazil’s rapid development in the area of entrepreneurship, RJTV came to our office to hear more about us and our great entrepreneurs!
 
-<img class="aligncenter size-full wp-image-4300" title="TV Globo - RJTV" src="http://local.21212.com/wp-content/uploads/2012/11/reporter-globo.jpg" alt="" width="540" height="400" srcset="http://localhost:8080/wp-content/uploads/2012/11/reporter-globo.jpg 540w, http://localhost:8080/wp-content/uploads/2012/11/reporter-globo-300x222.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
+<img class="aligncenter size-full wp-image-4300" title="TV Globo - RJTV" src="{{ site.url }}/assets/wp-content/uploads/2012/11/reporter-globo.jpg" alt="" width="540" height="400" srcset="{{ site.url }}/assets/wp-content/uploads/2012/11/reporter-globo.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2012/11/reporter-globo-300x222.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
 
 Bidcorp recently graduated from the second 21212 acceleration program and proudly talks about the more than 60 million reais in assets available for sale on their platform. The attribute much of their success to their experiences and mentorship during the 21212 acceleration program. But first, they had to pass through a highly competitive selection process in order to be part of the gallery of incredible entrepreneurs.
 

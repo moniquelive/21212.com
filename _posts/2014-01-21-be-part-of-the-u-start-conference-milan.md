@@ -12,7 +12,7 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2014/01/U-start2.jpg
+image: /assets/wp-content/uploads/2014/01/U-start2.jpg
 categories:
   - Blog
   - sem-thumb
@@ -22,8 +22,8 @@ categories:
 </p>
 
 <div id="attachment_7066" style="width: 550px" class="wp-caption aligncenter">
-  <img aria-describedby="caption-attachment-7066" class="size-full wp-image-7066" alt="bloom2" src="http://local.21212.com/wp-content/uploads/2014/01/bloom2.jpg" width="540" height="405" srcset="http://localhost:8080/wp-content/uploads/2014/01/bloom2.jpg 540w, http://localhost:8080/wp-content/uploads/2014/01/bloom2-300x225.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
-  
+  <img aria-describedby="caption-attachment-7066" class="size-full wp-image-7066" alt="bloom2" src="{{ site.url }}/assets/wp-content/uploads/2014/01/bloom2.jpg" width="540" height="405" srcset="{{ site.url }}/assets/wp-content/uploads/2014/01/bloom2.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2014/01/bloom2-300x225.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
+
   <p id="caption-attachment-7066" class="wp-caption-text">
     Marcelo Sales, from 21212, and Sebastian Perez, from Aentropico, at Bloom Conference 2013
   </p>
@@ -37,4 +37,4 @@ categories:
   If you’re an entrepreneur, don’t miss your chance to enter the competition! <a href="https://conferencebrazil.u-start.biz/">Apply here</a> before January 24th, and give your company the opportunity to expand abroad by getting the attention of international investors’ and opening doors to new partnerships around the world.
 </p>
 
- [<img class="aligncenter size-full wp-image-7064" alt="ustartMilan2" src="http://local.21212.com/wp-content/uploads/2014/01/ustartMilan2.png" width="540" height="540" srcset="http://localhost:8080/wp-content/uploads/2014/01/ustartMilan2.png 540w, http://localhost:8080/wp-content/uploads/2014/01/ustartMilan2-150x150.png 150w, http://localhost:8080/wp-content/uploads/2014/01/ustartMilan2-300x300.png 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/wp-content/uploads/2014/01/ustartMilan2.png)
+ [<img class="aligncenter size-full wp-image-7064" alt="ustartMilan2" src="{{ site.url }}/assets/wp-content/uploads/2014/01/ustartMilan2.png" width="540" height="540" srcset="{{ site.url }}/assets/wp-content/uploads/2014/01/ustartMilan2.png 540w, {{ site.url }}/assets/wp-content/uploads/2014/01/ustartMilan2-150x150.png 150w, {{ site.url }}/assets/wp-content/uploads/2014/01/ustartMilan2-300x300.png 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/assets/wp-content/uploads/2014/01/ustartMilan2.png)

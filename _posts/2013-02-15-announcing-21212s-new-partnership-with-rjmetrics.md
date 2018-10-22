@@ -14,7 +14,7 @@ fv_video_img:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2013/02/thumb.jpg
+image: /assets/wp-content/uploads/2013/02/thumb.jpg
 categories:
   - Blog
   - com-thumb
@@ -24,7 +24,7 @@ tags:
   - RJMetrics
 ---
 <p style="text-align: center;">
-  <a href="http://local.21212.com/wp-content/uploads/2013/02/image.png"><img class="size-medium wp-image-5459 aligncenter" alt="RJMetrics21212partnership" src="http://local.21212.com/wp-content/uploads/2013/02/image-300x93.png" width="300" height="93" srcset="http://localhost:8080/wp-content/uploads/2013/02/image-300x93.png 300w, http://localhost:8080/wp-content/uploads/2013/02/image-1024x318.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/02/image.png"><img class="size-medium wp-image-5459 aligncenter" alt="RJMetrics21212partnership" src="{{ site.url }}/assets/wp-content/uploads/2013/02/image-300x93.png" width="300" height="93" srcset="{{ site.url }}/assets/wp-content/uploads/2013/02/image-300x93.png 300w, {{ site.url }}/assets/wp-content/uploads/2013/02/image-1024x318.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 <b id="internal-source-marker_0.7378009269014001">After completing our first two acceleration programs, and now in our third, we have come to realize the importance of data analysis in the entrepreneurial process. Starting a business is all about asking, and answering, a growing list of questions. What do my customers want from me? How much are they willing to pay? Where can I find them?</b>

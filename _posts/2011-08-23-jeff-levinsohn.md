@@ -28,7 +28,7 @@ company:
   - 21212 Digital Accelerator
 startup:
   - "809"
-image: /wp-content/uploads/2013/01/Jeff.jpg
+image: /assets/wp-content/uploads/2013/01/Jeff.jpg
 categories:
   - people
 ---

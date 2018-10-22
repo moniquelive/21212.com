@@ -12,13 +12,13 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/05/zoonythumb.jpg
+image: /assets/wp-content/uploads/2013/05/zoonythumb.jpg
 categories:
   - Blog
   - com-thumb
 ---
 <p dir="ltr" style="text-align: center;">
-  <a href="http://zoony.co/"><img class="size-full wp-image-6031 aligncenter" alt="Zoony1" src="http://local.21212.com/wp-content/uploads/2013/05/Zoony1.png" width="444" height="145" srcset="http://localhost:8080/wp-content/uploads/2013/05/Zoony1.png 444w, http://localhost:8080/wp-content/uploads/2013/05/Zoony1-300x97.png 300w" sizes="(max-width: 444px) 100vw, 444px" /></a>
+  <a href="http://zoony.co/"><img class="size-full wp-image-6031 aligncenter" alt="Zoony1" src="{{ site.url }}/assets/wp-content/uploads/2013/05/Zoony1.png" width="444" height="145" srcset="{{ site.url }}/assets/wp-content/uploads/2013/05/Zoony1.png 444w, {{ site.url }}/assets/wp-content/uploads/2013/05/Zoony1-300x97.png 300w" sizes="(max-width: 444px) 100vw, 444px" /></a>
 </p>
 
 <p dir="ltr">
@@ -34,5 +34,5 @@ Companies are also having an increasingly difficult time finding qualified candi
 Follow [this link](http://zoony.co) to check out their platform:  <a href="http://zoony.co/" target="_blank">http://zoony.co</a>
 
 <p style="text-align: center;">
-  <a href="http://local.21212.com/wp-content/uploads/2013/05/Zoony2.png"><img class="wp-image-6032 aligncenter" alt="Zoony2" src="http://local.21212.com/wp-content/uploads/2013/05/Zoony2-1024x676.png" width="531" height="351" srcset="http://localhost:8080/wp-content/uploads/2013/05/Zoony2-1024x676.png 1024w, http://localhost:8080/wp-content/uploads/2013/05/Zoony2-300x198.png 300w, http://localhost:8080/wp-content/uploads/2013/05/Zoony2.png 1349w" sizes="(max-width: 531px) 100vw, 531px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/05/Zoony2.png"><img class="wp-image-6032 aligncenter" alt="Zoony2" src="{{ site.url }}/assets/wp-content/uploads/2013/05/Zoony2-1024x676.png" width="531" height="351" srcset="{{ site.url }}/assets/wp-content/uploads/2013/05/Zoony2-1024x676.png 1024w, {{ site.url }}/assets/wp-content/uploads/2013/05/Zoony2-300x198.png 300w, {{ site.url }}/assets/wp-content/uploads/2013/05/Zoony2.png 1349w" sizes="(max-width: 531px) 100vw, 531px" /></a>
 </p>

@@ -17,12 +17,12 @@ fv_video_img:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2012/08/TNW-Latin-America.jpeg
+image: /assets/wp-content/uploads/2012/08/TNW-Latin-America.jpeg
 categories:
   - Blog
   - com-thumb
 ---
-[<img class="alignnone size-full wp-image-3420" title="logo" src="http://local.21212.com/wp-content/uploads/2012/08/logo.jpg" alt="" width="520" height="248" srcset="http://localhost:8080/wp-content/uploads/2012/08/logo.jpg 520w, http://localhost:8080/wp-content/uploads/2012/08/logo-300x143.jpg 300w" sizes="(max-width: 520px) 100vw, 520px" />](http://local.21212.com/wp-content/uploads/2012/08/logo.jpg)
+[<img class="alignnone size-full wp-image-3420" title="logo" src="{{ site.url }}/assets/wp-content/uploads/2012/08/logo.jpg" alt="" width="520" height="248" srcset="{{ site.url }}/assets/wp-content/uploads/2012/08/logo.jpg 520w, {{ site.url }}/assets/wp-content/uploads/2012/08/logo-300x143.jpg 300w" sizes="(max-width: 520px) 100vw, 520px" />](http://local.21212.com/assets/wp-content/uploads/2012/08/logo.jpg)
 
 The Next Web&#8217;s [TNW Latin America Conference](http://thenextweb.com/conference/latinamerica) starts today in São Paulo.  The conference is an opportunity to bring together the tech leaders and investors from around the world to connect with the growing startup scene here in Latin America.  The conference will feature panels and keynotes as well as startup demo tables and the finals of the TNW Startup Battle.  21212 will be represented by three members, including two of our founders, to see the keynotes, panels, startup demos, and [The Startup Battle](http://thenextweb.com/conference/latinamerica/startupbattle).
 

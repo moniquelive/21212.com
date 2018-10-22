@@ -12,13 +12,13 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/04/thumb-2.jpg
+image: /assets/wp-content/uploads/2013/04/thumb-2.jpg
 categories:
   - Blog
   - com-thumb
 ---
 <p dir="ltr">
-  <a href="http://local.21212.com/wp-content/uploads/2013/04/06982226700.jpg"><img class=" wp-image-5971 alignright" alt="0,,69822267,00" src="http://local.21212.com/wp-content/uploads/2013/04/06982226700.jpg" width="216" height="151" srcset="http://localhost:8080/wp-content/uploads/2013/04/06982226700.jpg 400w, http://localhost:8080/wp-content/uploads/2013/04/06982226700-300x210.jpg 300w" sizes="(max-width: 216px) 100vw, 216px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/04/06982226700.jpg"><img class=" wp-image-5971 alignright" alt="0,,69822267,00" src="{{ site.url }}/assets/wp-content/uploads/2013/04/06982226700.jpg" width="216" height="151" srcset="{{ site.url }}/assets/wp-content/uploads/2013/04/06982226700.jpg 400w, {{ site.url }}/assets/wp-content/uploads/2013/04/06982226700-300x210.jpg 300w" sizes="(max-width: 216px) 100vw, 216px" /></a>
 </p>
 
 <p dir="ltr">
@@ -53,7 +53,7 @@ If you want to “win with conversation” allow yourself to enter the universe 
 
 **** ****
 
-<img class="size-full wp-image-5970 alignleft" alt="KatiaCampelo-e1319993804581" src="http://local.21212.com/wp-content/uploads/2013/04/KatiaCampelo-e1319993804581.jpg" width="250" height="250" srcset="http://localhost:8080/wp-content/uploads/2013/04/KatiaCampelo-e1319993804581.jpg 250w, http://localhost:8080/wp-content/uploads/2013/04/KatiaCampelo-e1319993804581-150x150.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />
+<img class="size-full wp-image-5970 alignleft" alt="KatiaCampelo-e1319993804581" src="{{ site.url }}/assets/wp-content/uploads/2013/04/KatiaCampelo-e1319993804581.jpg" width="250" height="250" srcset="{{ site.url }}/assets/wp-content/uploads/2013/04/KatiaCampelo-e1319993804581.jpg 250w, {{ site.url }}/assets/wp-content/uploads/2013/04/KatiaCampelo-e1319993804581-150x150.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />
 
 Avoid elaborate or cold speech
 

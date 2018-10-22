@@ -12,13 +12,13 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/08/brazil-150x150.png
+image: /assets/wp-content/uploads/2013/08/brazil-150x150.png
 categories:
   - Blog
   - com-thumb
 ---
 <p style="text-align: center;">
-  <img class="size-full wp-image-6572 aligncenter" alt="TNWBSA" src="http://local.21212.com/wp-content/uploads/2013/08/Screen-Shot-2013-08-07-at-7.26.11-PM-e1375915046507.png" width="540" height="183" />
+  <img class="size-full wp-image-6572 aligncenter" alt="TNWBSA" src="{{ site.url }}/assets/wp-content/uploads/2013/08/Screen-Shot-2013-08-07-at-7.26.11-PM-e1375915046507.png" width="540" height="183" />
 </p>
 
 <p style="text-align: center; font-size: 10px;">
@@ -33,4 +33,4 @@ We would also like to congratulate all of the winners, which include one of our 
 
 &nbsp;
 
-<img class="aligncenter size-full wp-image-6577" alt="Results" src="http://local.21212.com/wp-content/uploads/2013/08/1097805_168564709996776_540853797_o-e1375915835441.png" width="540" height="894" />
+<img class="aligncenter size-full wp-image-6577" alt="Results" src="{{ site.url }}/assets/wp-content/uploads/2013/08/1097805_168564709996776_540853797_o-e1375915835441.png" width="540" height="894" />

@@ -12,13 +12,13 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/09/ciao-1.png
+image: /assets/wp-content/uploads/2013/09/ciao-1.png
 categories:
   - Blog
   - com-thumb
 ---
 <p dir="ltr">
-  <a href="http://local.21212.com/wp-content/uploads/2013/09/Ciao1.jpg"><img class="aligncenter size-full wp-image-6690" alt="Ciao1" src="http://local.21212.com/wp-content/uploads/2013/09/Ciao1.jpg" width="540" height="150" srcset="http://localhost:8080/wp-content/uploads/2013/09/Ciao1.jpg 540w, http://localhost:8080/wp-content/uploads/2013/09/Ciao1-300x83.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/09/Ciao1.jpg"><img class="aligncenter size-full wp-image-6690" alt="Ciao1" src="{{ site.url }}/assets/wp-content/uploads/2013/09/Ciao1.jpg" width="540" height="150" srcset="{{ site.url }}/assets/wp-content/uploads/2013/09/Ciao1.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/09/Ciao1-300x83.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
 </p>
 
 <p dir="ltr">

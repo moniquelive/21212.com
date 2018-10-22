@@ -12,13 +12,13 @@ fv_video_id:
   - ""
 fv_video_img:
   - ""
-image: /wp-content/uploads/2013/07/RMHthumb.jpg
+image: /assets/wp-content/uploads/2013/07/RMHthumb.jpg
 categories:
   - Blog
   - com-thumb
 ---
 <p style="text-align: center;">
-  <a href="http://local.21212.com/wp-content/uploads/2013/07/969741_267034306769194_1848500798_n.png"><img class=" wp-image-6482 aligncenter" alt="969741_267034306769194_1848500798_n" src="http://local.21212.com/wp-content/uploads/2013/07/969741_267034306769194_1848500798_n.png" width="538" height="218" srcset="http://localhost:8080/wp-content/uploads/2013/07/969741_267034306769194_1848500798_n.png 960w, http://localhost:8080/wp-content/uploads/2013/07/969741_267034306769194_1848500798_n-300x121.png 300w" sizes="(max-width: 538px) 100vw, 538px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/07/969741_267034306769194_1848500798_n.png"><img class=" wp-image-6482 aligncenter" alt="969741_267034306769194_1848500798_n" src="{{ site.url }}/assets/wp-content/uploads/2013/07/969741_267034306769194_1848500798_n.png" width="538" height="218" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/969741_267034306769194_1848500798_n.png 960w, {{ site.url }}/assets/wp-content/uploads/2013/07/969741_267034306769194_1848500798_n-300x121.png 300w" sizes="(max-width: 538px) 100vw, 538px" /></a>
 </p>
 
 On August 17th and 18th, the Rio Mobile Hackathon event will take place here at our 21212 office in Botafogo!
@@ -34,5 +34,5 @@ You can sign up to attend at the [event site](http://www.riomobilehackathon.com
 See you there!
 
 <p style="text-align: center;">
-  <a href="http://local.21212.com/wp-content/uploads/2013/07/RioMobileHackathon-Banner.png"><img class=" wp-image-6477 aligncenter" alt="RioMobileHackathon-Banner" src="http://local.21212.com/wp-content/uploads/2013/07/RioMobileHackathon-Banner-724x1024.png" width="507" height="717" srcset="http://localhost:8080/wp-content/uploads/2013/07/RioMobileHackathon-Banner-724x1024.png 724w, http://localhost:8080/wp-content/uploads/2013/07/RioMobileHackathon-Banner-212x300.png 212w, http://localhost:8080/wp-content/uploads/2013/07/RioMobileHackathon-Banner.png 827w" sizes="(max-width: 507px) 100vw, 507px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/07/RioMobileHackathon-Banner.png"><img class=" wp-image-6477 aligncenter" alt="RioMobileHackathon-Banner" src="{{ site.url }}/assets/wp-content/uploads/2013/07/RioMobileHackathon-Banner-724x1024.png" width="507" height="717" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/RioMobileHackathon-Banner-724x1024.png 724w, {{ site.url }}/assets/wp-content/uploads/2013/07/RioMobileHackathon-Banner-212x300.png 212w, {{ site.url }}/assets/wp-content/uploads/2013/07/RioMobileHackathon-Banner.png 827w" sizes="(max-width: 507px) 100vw, 507px" /></a>
 </p>

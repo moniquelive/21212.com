@@ -14,13 +14,13 @@ fv_video_img:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2013/02/10m_thumbs.jpg
+image: /assets/wp-content/uploads/2013/02/10m_thumbs.jpg
 categories:
   - Blog
   - com-thumb
 ---
 <p style="text-align: center;">
-  <a href="http://local.21212.com/wp-content/uploads/2013/02/21212NegociosCia.jpg"><img class="size-medium wp-image-5468 aligncenter" alt="Scanned Document" src="http://local.21212.com/wp-content/uploads/2013/02/21212NegociosCia-229x300.jpg" width="229" height="300" srcset="http://localhost:8080/wp-content/uploads/2013/02/21212NegociosCia-229x300.jpg 229w, http://localhost:8080/wp-content/uploads/2013/02/21212NegociosCia-784x1024.jpg 784w, http://localhost:8080/wp-content/uploads/2013/02/21212NegociosCia.jpg 1298w" sizes="(max-width: 229px) 100vw, 229px" /></a>
+  <a href="http://local.21212.com/assets/wp-content/uploads/2013/02/21212NegociosCia.jpg"><img class="size-medium wp-image-5468 aligncenter" alt="Scanned Document" src="{{ site.url }}/assets/wp-content/uploads/2013/02/21212NegociosCia-229x300.jpg" width="229" height="300" srcset="{{ site.url }}/assets/wp-content/uploads/2013/02/21212NegociosCia-229x300.jpg 229w, {{ site.url }}/assets/wp-content/uploads/2013/02/21212NegociosCia-784x1024.jpg 784w, {{ site.url }}/assets/wp-content/uploads/2013/02/21212NegociosCia.jpg 1298w" sizes="(max-width: 229px) 100vw, 229px" /></a>
 </p>
 
 <b id="internal-source-marker_0.16490997420623899">We are proud to officially announce the investment of R$ 10M into 21212 from DXA Investments. We entered 2013 with big plans to improve our program and offer even more entrepreneurs the opportunity to work together in building the best digital businesses in Brazil. The investment and partnership with DXA will help us realize those plans as we expand from 2 to 3 programs per year, work with a broader range of companies and expand our ability to help those companies grow quickly and finance their companies.</b>

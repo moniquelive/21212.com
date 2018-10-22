@@ -24,7 +24,7 @@ company:
   - Grupo42
 startup:
   - ""
-image: /wp-content/uploads/2012/04/MarcosTanaka-e1335553255810.jpg
+image: /assets/wp-content/uploads/2012/04/MarcosTanaka-e1335553255810.jpg
 categories:
   - people
 tags:

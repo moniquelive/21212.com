@@ -14,10 +14,10 @@ fv_video:
 fv_video_id:
   - "51927245"
 fv_video_img:
-  - http://local.21212.com/wp-content/plugins/featured-video/vimeo.jpg
+  - http://local.21212.com/assets/wp-content/plugins/featured-video/vimeo.jpg
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2012/11/video-21212-results.png
+image: /assets/wp-content/uploads/2012/11/video-21212-results.png
 categories:
   - Blog
   - com-thumb

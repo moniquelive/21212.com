@@ -14,7 +14,7 @@ fv_video_img:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2013/07/nearbytesthumb.jpg
+image: /assets/wp-content/uploads/2013/07/nearbytesthumb.jpg
 categories:
   - Blog
   - com-thumb
@@ -27,7 +27,7 @@ categories:
   The idea for NearBytes came about when Kinetics Mobile was developing a Trading Card Game for mobile devices. We needed a tool that would allow us to transfer small amounts of data between devices, without internet connection or Bluetooth’s pairing problems. We didn&#8217;t consider NFC, because the solution had to be already functioning on most devices already, including iOS devices. To solve this problem, we ended up developing a new technology: NearBytes.
 </p>
 
-[<img class=" wp-image-6442 alignleft" alt="nearbytes5" src="http://local.21212.com/wp-content/uploads/2013/07/nearbytes5.jpg" width="335" height="361" />](http://local.21212.com/wp-content/uploads/2013/07/nearbytes5.jpg)The technology we&#8217;ve developed allows the transfer of small amounts of data between different devices, without using an internet connection. The only required resources are speakers and a microphone. To send the information, NearBytes transforms the data into sound, then emits it. When the receiver&#8217;s device identifies the sound, NearByte&#8217;s technology transforms the audio into data. In short, NearBytes is a technology that allows the transfer of information between devices through the emission and reception of sound. The sound that contains data.
+[<img class=" wp-image-6442 alignleft" alt="nearbytes5" src="{{ site.url }}/assets/wp-content/uploads/2013/07/nearbytes5.jpg" width="335" height="361" />](http://local.21212.com/assets/wp-content/uploads/2013/07/nearbytes5.jpg)The technology we&#8217;ve developed allows the transfer of small amounts of data between different devices, without using an internet connection. The only required resources are speakers and a microphone. To send the information, NearBytes transforms the data into sound, then emits it. When the receiver&#8217;s device identifies the sound, NearByte&#8217;s technology transforms the audio into data. In short, NearBytes is a technology that allows the transfer of information between devices through the emission and reception of sound. The sound that contains data.
 
 NearBytes is starting up a new era of applications which are characterized by their ability to communicate by proximity. A wide range of applications can be developed using NearBytes: payment apps, ticketing, promotional apps and many games can be enhanced with NearBytes integration, and not just cards games.
 

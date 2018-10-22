@@ -16,7 +16,7 @@ fv_video_img:
   - ""
 transposh_can_translate:
   - 'true'
-image: /wp-content/uploads/2012/08/silicon-valley-sign-lg.jpeg
+image: /assets/wp-content/uploads/2012/08/silicon-valley-sign-lg.jpeg
 categories:
   - Blog
   - com-thumb
@@ -30,5 +30,5 @@ Five of our companies will be presenting: Bidcorp, EasyAula, Igluu, Queremos, an
 We&#8217;re excited to show the valley what the Latin American tech startup scene is all about!
 
 <p style="text-align: center;">
-   <a href="http://local.21212.com/wp-content/uploads/2012/08/newsletter1.jpeg"><img class="alignnone size-full wp-image-3345" title="newsletter" src="http://local.21212.com/wp-content/uploads/2012/08/newsletter1.jpeg" alt="" width="600" height="1245" srcset="http://localhost:8080/wp-content/uploads/2012/08/newsletter1.jpeg 600w, http://localhost:8080/wp-content/uploads/2012/08/newsletter1-144x300.jpeg 144w, http://localhost:8080/wp-content/uploads/2012/08/newsletter1-493x1024.jpeg 493w" sizes="(max-width: 600px) 100vw, 600px" /></a>
+   <a href="http://local.21212.com/assets/wp-content/uploads/2012/08/newsletter1.jpeg"><img class="alignnone size-full wp-image-3345" title="newsletter" src="{{ site.url }}/assets/wp-content/uploads/2012/08/newsletter1.jpeg" alt="" width="600" height="1245" srcset="{{ site.url }}/assets/wp-content/uploads/2012/08/newsletter1.jpeg 600w, {{ site.url }}/assets/wp-content/uploads/2012/08/newsletter1-144x300.jpeg 144w, {{ site.url }}/assets/wp-content/uploads/2012/08/newsletter1-493x1024.jpeg 493w" sizes="(max-width: 600px) 100vw, 600px" /></a>
 </p>
