@@ -1,1 +1,1 @@
-JEKYLL_ENV=production jekyll b
+JEKYLL_ENV=production bundle exec jekyll b
