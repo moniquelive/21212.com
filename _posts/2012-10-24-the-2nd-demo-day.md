@@ -4,7 +4,7 @@ title: The second 21212 Demo Day!
 date: 2012-10-24T10:42:00-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4192
+guid: http://21212.com/?p=4192
 permalink: /blog/the-2nd-demo-day/
 fb_social_plugin_settings_box_comments:
   - default
@@ -39,7 +39,7 @@ The keynotes from Adriana Cisneros (<a title="Cisneros Group" href="http://cisne
 
 <strong style="font-weight: bold;">The Second Class of 21212</strong>
 
-To catch some of the highlights from the event check out the press coverage from <a title="G1" href="http://g1.globo.com/tecnologia/startup/platb/2012/10/19/aceleradora-21-212-apresenta-sua-2a-turma-de-startups-no-rio/" target="_blank">G1 / Globo.com</a>, <a title="O Globo" href="http://local.21212.com/assets/wp-content/uploads/2012/10/21212-Pedro-Doria.pdf" target="_blank">O Globo</a> and <a title="The Next Web" href="http://thenextweb.com/la/2012/10/19/21212-raises-us5-million-for-its-brazilian-american-startup-accelerator-announces-fund/" target="_blank">The Next Web</a>. New stories and press about the event are available <a title="Press" href="http://local.21212.com/press" target="_blank">here</a>.
+To catch some of the highlights from the event check out the press coverage from <a title="G1" href="http://g1.globo.com/tecnologia/startup/platb/2012/10/19/aceleradora-21-212-apresenta-sua-2a-turma-de-startups-no-rio/" target="_blank">G1 / Globo.com</a>, <a title="O Globo" href="http://21212.com/assets/wp-content/uploads/2012/10/21212-Pedro-Doria.pdf" target="_blank">O Globo</a> and <a title="The Next Web" href="http://thenextweb.com/la/2012/10/19/21212-raises-us5-million-for-its-brazilian-american-startup-accelerator-announces-fund/" target="_blank">The Next Web</a>. New stories and press about the event are available <a title="Press" href="http://21212.com/press" target="_blank">here</a>.
 
 Here are the companies:
 
@@ -71,7 +71,7 @@ Here are the companies:
 
 <strong style="font-weight: bold;">Program 3 begins in January 2013</strong>
 
-****Applications for our 3rd Acceleration Program are open and we will continue to accept applications year round, utilizing the **new model we announced during Demo Day (more information to come in this blog)**. The next program **officially starts in January**, so there is still time to apply! If you have a digital startup with proven traction that fits our selection criteria, <a title="Apply" href="http://local.21212.com/apply" target="_blank">click here and submit</a>!
+****Applications for our 3rd Acceleration Program are open and we will continue to accept applications year round, utilizing the **new model we announced during Demo Day (more information to come in this blog)**. The next program **officially starts in January**, so there is still time to apply! If you have a digital startup with proven traction that fits our selection criteria, <a title="Apply" href="http://21212.com/apply" target="_blank">click here and submit</a>!
 
 &nbsp;
 

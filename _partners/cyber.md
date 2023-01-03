@@ -1,5 +1,5 @@
 ---
-name: Leonardo (Cyber) Constantino
+name: Monique (Cyber) Oliveira
 role: Technology
 picture: /assets/images/Cyber.jpg
 stick: false
@@ -18,4 +18,4 @@ Past experience:
 * Founder of nTime Mobile Solutions – 2001
 * Founder of WapTotal – 2000
 
-Check [http://linkedin.com/in/leolive/](http://linkedin.com/in/leolive/) for more details
+Check [http://linkedin.com/in/moniquelive/](http://linkedin.com/in/moniquelive/) for more details

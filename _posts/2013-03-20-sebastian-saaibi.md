@@ -4,7 +4,7 @@ title: Sebastián Saaibi
 date: 2013-03-20T21:39:21-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5699
+guid: http://21212.com/?p=5699
 permalink: /people/sebastian-saaibi/
 fv_video:
   - Paste your YouTube or Vimeo url

@@ -4,7 +4,7 @@ title: 1º Encontro de Empreendedores
 date: 2011-07-28T15:04:48-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=453
+guid: http://21212.com/?p=453
 permalink: '/blog/1%c2%ba-encontro-de-empreendedores/'
 categories:
   - Blog

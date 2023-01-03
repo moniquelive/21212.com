@@ -5,7 +5,7 @@ date: 2012-10-17T12:20:05-03:00
 author: "21212"
 excerpt: 'We are proud to announce that Sebrae - Rio de Janeiro, huge supporters of the Brazilian entrepreneurship community,  a will be sponsoring 21212 Digital Accelerator’s Demo Day on Friday.'
 layout: post
-guid: http://local.21212.com/?p=4100
+guid: http://21212.com/?p=4100
 permalink: /blog/sebraerj-sponsoring-demo-day/
 fb_social_plugin_settings_box_comments:
   - default
@@ -22,7 +22,7 @@ categories:
   - Blog
   - com-thumb
 ---
-[<img class="alignnone size-full wp-image-4115" title="sebareBanner" src="{{ site.url }}/assets/wp-content/uploads/2012/10/sebareBanner.png" alt="" width="540" height="300" srcset="{{ site.url }}/assets/wp-content/uploads/2012/10/sebareBanner.png 540w, {{ site.url }}/assets/wp-content/uploads/2012/10/sebareBanner-300x166.png 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/assets/wp-content/uploads/2012/10/sebareBanner.png)
+[<img class="alignnone size-full wp-image-4115" title="sebareBanner" src="{{ site.url }}/assets/wp-content/uploads/2012/10/sebareBanner.png" alt="" width="540" height="300" srcset="{{ site.url }}/assets/wp-content/uploads/2012/10/sebareBanner.png 540w, {{ site.url }}/assets/wp-content/uploads/2012/10/sebareBanner-300x166.png 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://21212.com/assets/wp-content/uploads/2012/10/sebareBanner.png)
 
 We are proud to announce that Sebrae &#8211; Rio de Janeiro, huge supporters of the Brazilian entrepreneurship community,  a will be sponsoring 21212 Digital Accelerator’s Demo Day on Friday.
 

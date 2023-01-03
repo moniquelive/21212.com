@@ -4,7 +4,7 @@ title: The Selection Process for the Third Program at 21212 is in its Final Phas
 date: 2012-09-12T16:01:21-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=3666
+guid: http://21212.com/?p=3666
 permalink: /blog/the-selection-process-for-the-third-program-at-21212-is-in-its-final-phase/
 fb_social_plugin_settings_box_comments:
   - default
@@ -22,7 +22,7 @@ categories:
   - com-thumb
 ---
 <p dir="ltr">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2012/09/selectionImg.png"><img class="alignnone size-full wp-image-3695" title="selectionImg" src="{{ site.url }}/assets/wp-content/uploads/2012/09/selectionImg.png" alt="" width="540" height="350" srcset="{{ site.url }}/assets/wp-content/uploads/2012/09/selectionImg.png 540w, {{ site.url }}/assets/wp-content/uploads/2012/09/selectionImg-300x194.png 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2012/09/selectionImg.png"><img class="alignnone size-full wp-image-3695" title="selectionImg" src="{{ site.url }}/assets/wp-content/uploads/2012/09/selectionImg.png" alt="" width="540" height="350" srcset="{{ site.url }}/assets/wp-content/uploads/2012/09/selectionImg.png 540w, {{ site.url }}/assets/wp-content/uploads/2012/09/selectionImg-300x194.png 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
 </p>
 
 <p dir="ltr">
@@ -60,7 +60,7 @@ categories:
 ****
 
 <p dir="ltr">
-  <span style="text-decoration: underline;">Strongest Candidates</span>: Startups in this stage will get the best results from our process.  Look at the cases of <a href="http://local.21212.com/companies/vitalcred/" target="_blank">PagPop</a> e <a href="http://local.21212.com/companies/queremos/" target="_blank">Queremos</a>.
+  <span style="text-decoration: underline;">Strongest Candidates</span>: Startups in this stage will get the best results from our process.  Look at the cases of <a href="http://21212.com/companies/vitalcred/" target="_blank">PagPop</a> e <a href="http://21212.com/companies/queremos/" target="_blank">Queremos</a>.
 </p>
 
 . Generating revenue:  Many startups generate revenue up to a certan plateau, but don’t know how to break through .  Having  reached this first plateau of revenue generation will allow you to use the acceleration process in the most productive and aggressive way
@@ -73,7 +73,7 @@ categories:
 
 **
 
-Get ready to experience lightning fast growth! <a href="http://local.21212.com/apply/" target="_blank">Apply Here</a>.**
+Get ready to experience lightning fast growth! <a href="http://21212.com/apply/" target="_blank">Apply Here</a>.**
 
 &nbsp;
 

@@ -4,7 +4,7 @@ title: eStoks ganha concurso Brasil 3.0 e vai ao Canadá!
 date: 2013-12-06T19:41:41-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6996
+guid: http://21212.com/?p=6996
 permalink: /blog/estoks-ganha-concurso-brasil-3-0-e-vai-ao-canada/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -26,7 +26,7 @@ A empresa venceu o concurso [Brasil 3.0](http://www.br30.org.br/), uma conferên
 A empresa canadense  [Zighra](http://www.zighra.com/) também venceu o concurso e, junto à eStoks, garantiu o seu lugar no próximo evento Brasil-Canadá 3.0, que será no Canadá, em 2014.
 
 <div id="attachment_6997" style="width: 550px" class="wp-caption aligncenter">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/12/brasil3.0certo.jpg"><img aria-describedby="caption-attachment-6997" class="size-full wp-image-6997" alt="brasil3.0certo" src="{{ site.url }}/assets/wp-content/uploads/2013/12/brasil3.0certo.jpg" width="540" height="360" srcset="{{ site.url }}/assets/wp-content/uploads/2013/12/brasil3.0certo.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/12/brasil3.0certo-300x200.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/12/brasil3.0certo.jpg"><img aria-describedby="caption-attachment-6997" class="size-full wp-image-6997" alt="brasil3.0certo" src="{{ site.url }}/assets/wp-content/uploads/2013/12/brasil3.0certo.jpg" width="540" height="360" srcset="{{ site.url }}/assets/wp-content/uploads/2013/12/brasil3.0certo.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/12/brasil3.0certo-300x200.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
 
   <p id="caption-attachment-6997" class="wp-caption-text">
     Deepak Dutt, CTO da Zighra e Arthur Rozenblit, CEO da eStoks.

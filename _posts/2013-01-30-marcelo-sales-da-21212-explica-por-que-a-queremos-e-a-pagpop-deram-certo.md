@@ -4,7 +4,7 @@ title: 'Marcelo Sales, da 21212, explica: Por que a Queremos e a PagPop deram ce
 date: 2013-01-30T20:08:43-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5387
+guid: http://21212.com/?p=5387
 permalink: /press/marcelo-sales-da-21212-explica-por-que-a-queremos-e-a-pagpop-deram-certo/
 fv_video:
   - Paste your YouTube or Vimeo url

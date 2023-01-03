@@ -8,7 +8,7 @@ excerpt: |
 
   Now we would like to introduce to you two other great companies: Bidcorp and Site Sustentavel.
 layout: post
-guid: http://local.21212.com/?p=4423
+guid: http://21212.com/?p=4423
 permalink: /blog/21212-second-demo-day-now-introducing-bidcorp-site-sustentavel/
 fv_video:
   - Paste your YouTube or Vimeo url

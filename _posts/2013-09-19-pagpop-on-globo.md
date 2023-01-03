@@ -4,7 +4,7 @@ title: PagPop on Globo
 date: 2013-09-19T17:47:06-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6695
+guid: http://21212.com/?p=6695
 permalink: /blog/pagpop-on-globo/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p dir="ltr">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/09/pagpop.jpg"><img class="aligncenter size-full wp-image-6696" alt="pagpop" src="{{ site.url }}/assets/wp-content/uploads/2013/09/pagpop.jpg" width="540" height="350" srcset="{{ site.url }}/assets/wp-content/uploads/2013/09/pagpop.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/09/pagpop-300x194.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/09/pagpop.jpg"><img class="aligncenter size-full wp-image-6696" alt="pagpop" src="{{ site.url }}/assets/wp-content/uploads/2013/09/pagpop.jpg" width="540" height="350" srcset="{{ site.url }}/assets/wp-content/uploads/2013/09/pagpop.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/09/pagpop-300x194.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
 </p>
 
 Pagpop’s founder, Marcio Campos, explained how he came up with the idea of one of the easiest and most practical ways of digital payment: an app that enable payments by credit card through a device attached to the cellphone. The idea came up during an appoitment with a patient. Formelly a surgeon dentist, Campos wanted to make his patients lives easier by creating a way of payment that could eliminate the main problem that used to happen when people paid by check: the payment defaults.

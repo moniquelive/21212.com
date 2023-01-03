@@ -4,7 +4,7 @@ title: Zeropaper agora também é mobile
 date: 2014-07-27T19:08:15-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=7427
+guid: http://21212.com/?p=7427
 permalink: /blog/zeropaper-agora-tambem-e-mobile/
 fv_video:
   - Paste your YouTube or Vimeo url

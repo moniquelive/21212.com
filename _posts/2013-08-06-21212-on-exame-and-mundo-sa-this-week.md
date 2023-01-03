@@ -4,7 +4,7 @@ title: 21212 on Exame and Mundo S/A this week
 date: 2013-08-06T18:11:12-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6558
+guid: http://21212.com/?p=6558
 permalink: /blog/21212-on-exame-and-mundo-sa-this-week/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -30,7 +30,7 @@ Take a look and read (or watch) about 21212, its startups and the entrepreneurs 
 </p>
 
 <p style="text-align: center;">
-  <a title="Revista Exame" href="http://local.21212.com/assets/wp-content/uploads/2013/08/Exame_070813_Os_Anjos_dos_Negocios.pdf" target="_blank">Os Anjos dos Negócios &#8211; Revista Exame</a>
+  <a title="Revista Exame" href="http://21212.com/assets/wp-content/uploads/2013/08/Exame_070813_Os_Anjos_dos_Negocios.pdf" target="_blank">Os Anjos dos Negócios &#8211; Revista Exame</a>
 </p>
 
-[<img class="aligncenter size-full wp-image-6559" alt="EXAME_BLOG" src="{{ site.url }}/assets/wp-content/uploads/2013/08/EXAME_BLOG.jpg" width="382" height="524" srcset="{{ site.url }}/assets/wp-content/uploads/2013/08/EXAME_BLOG.jpg 382w, {{ site.url }}/assets/wp-content/uploads/2013/08/EXAME_BLOG-218x300.jpg 218w" sizes="(max-width: 382px) 100vw, 382px" />](http://local.21212.com/assets/wp-content/uploads/2013/08/Exame_070813_Os_Anjos_dos_Negocios.pdf)
+[<img class="aligncenter size-full wp-image-6559" alt="EXAME_BLOG" src="{{ site.url }}/assets/wp-content/uploads/2013/08/EXAME_BLOG.jpg" width="382" height="524" srcset="{{ site.url }}/assets/wp-content/uploads/2013/08/EXAME_BLOG.jpg 382w, {{ site.url }}/assets/wp-content/uploads/2013/08/EXAME_BLOG-218x300.jpg 218w" sizes="(max-width: 382px) 100vw, 382px" />](http://21212.com/assets/wp-content/uploads/2013/08/Exame_070813_Os_Anjos_dos_Negocios.pdf)

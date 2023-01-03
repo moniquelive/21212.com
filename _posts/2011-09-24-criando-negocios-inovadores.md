@@ -4,7 +4,7 @@ title: Criando Negócios Inovadores
 date: 2011-09-24T13:06:05-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=678
+guid: http://21212.com/?p=678
 permalink: /blog/criando-negocios-inovadores/
 transposh_can_translate:
   - 'true'

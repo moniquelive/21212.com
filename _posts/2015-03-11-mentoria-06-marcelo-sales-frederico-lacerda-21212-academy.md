@@ -4,7 +4,7 @@ title: MENTORIA 21212 ACADEMY
 date: 2015-03-11T19:23:13-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=7649
+guid: http://21212.com/?p=7649
 permalink: /blog/mentoria-06-marcelo-sales-frederico-lacerda-21212-academy/
 fv_video:
   - Paste your YouTube or Vimeo url

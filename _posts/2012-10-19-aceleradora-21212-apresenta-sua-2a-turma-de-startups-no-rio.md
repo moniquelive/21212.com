@@ -4,7 +4,7 @@ title: Aceleradora 21212 apresenta sua 2ª turma de startups no Rio
 date: 2012-10-19T11:54:31-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4171
+guid: http://21212.com/?p=4171
 permalink: /press/aceleradora-21212-apresenta-sua-2a-turma-de-startups-no-rio/
 fb_social_plugin_settings_box_comments:
   - default

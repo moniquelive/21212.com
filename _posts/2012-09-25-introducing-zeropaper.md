@@ -5,7 +5,7 @@ date: 2012-09-25T14:52:27-03:00
 author: "21212"
 excerpt: "ZeroPaper, currently in our accelerator, is a a free financial management tool for small businesses who don't effectively control their finances.  They launched their open beta just over a week ago and are growing their user base quickly.  Below, CEO André Macedo gives us a few words about their time at 21212 and their product."
 layout: post
-guid: http://local.21212.com/?p=3918
+guid: http://21212.com/?p=3918
 permalink: /blog/introducing-zeropaper/
 fb_social_plugin_settings_box_comments:
   - default
@@ -22,9 +22,9 @@ categories:
   - Blog
   - com-thumb
 ---
-[ZeroPaper](http://zeropaper.com.br), currently in our accelerator, is a free financial management tool for small businesses who don&#8217;t effectively control their finances.  They launched their open beta just over a week ago and are growing their user base quickly.  Below, [CEO André Macedo](http://local.21212.com/companies/zero-paper/) gives us a few words about his team&#8217;s experience at 21212 and their product.  Check it out at [zeropaper.com.br](http://zeropaper.com.br).
+[ZeroPaper](http://zeropaper.com.br), currently in our accelerator, is a free financial management tool for small businesses who don&#8217;t effectively control their finances.  They launched their open beta just over a week ago and are growing their user base quickly.  Below, [CEO André Macedo](http://21212.com/companies/zero-paper/) gives us a few words about his team&#8217;s experience at 21212 and their product.  Check it out at [zeropaper.com.br](http://zeropaper.com.br).
 
-[<img class="aligncenter size-full wp-image-3937" title="logo-zeropaper-wide" src="{{ site.url }}/assets/wp-content/uploads/2012/09/logo-zeropaper-wide.png" alt="" width="540" height="180" srcset="{{ site.url }}/assets/wp-content/uploads/2012/09/logo-zeropaper-wide.png 540w, {{ site.url }}/assets/wp-content/uploads/2012/09/logo-zeropaper-wide-300x100.png 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/assets/wp-content/uploads/2012/09/logo-zeropaper-wide.png)
+[<img class="aligncenter size-full wp-image-3937" title="logo-zeropaper-wide" src="{{ site.url }}/assets/wp-content/uploads/2012/09/logo-zeropaper-wide.png" alt="" width="540" height="180" srcset="{{ site.url }}/assets/wp-content/uploads/2012/09/logo-zeropaper-wide.png 540w, {{ site.url }}/assets/wp-content/uploads/2012/09/logo-zeropaper-wide-300x100.png 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://21212.com/assets/wp-content/uploads/2012/09/logo-zeropaper-wide.png)
 
 <span style="color: #808080;">Tell us a bit about your time at 21212 up to now</span>
 

@@ -5,7 +5,7 @@ date: 2012-01-13T19:00:04-03:00
 author: "21212"
 excerpt: Brandship went to Santa Marta Community in Botafogo to have lunch today and wants to help a local entrepreneur to use digital media.
 layout: post
-guid: http://local.21212.com/?p=1133
+guid: http://21212.com/?p=1133
 permalink: /blog/brandship-accelerating-in-santa-marta-community/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -22,7 +22,7 @@ categories:
 ---
 <img class="aligncenter size-full wp-image-1140" src="{{ site.url }}/assets/wp-content/uploads/2012/01/brandship.jpg" alt="" width="540" height="327" srcset="{{ site.url }}/assets/wp-content/uploads/2012/01/brandship.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2012/01/brandship-300x181.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />
 
-[Brandship](http://local.21212.com/companies/brandship/ "Brandship") went to Santa Marta Community in Botafogo to have lunch today and wants to help a local entrepreneur to use digital media.
+[Brandship](http://21212.com/companies/brandship/ "Brandship") went to Santa Marta Community in Botafogo to have lunch today and wants to help a local entrepreneur to use digital media.
 
 <!--more ..I want to read more about that!-->
 

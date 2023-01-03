@@ -4,7 +4,7 @@ title: Empresa de dedica a ajudar na formação de novos negócios no Rio
 date: 2012-11-14T12:34:42-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4323
+guid: http://21212.com/?p=4323
 permalink: /press/empresa-de-dedica-a-ajudar-na-formacao-de-novos-negocios-no-rio/
 fv_video_img:
   - ""

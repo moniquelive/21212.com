@@ -4,7 +4,7 @@ title: IBM PATROCINA O 21212 DEMO DAY
 date: 2014-11-21T19:18:45-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=7562
+guid: http://21212.com/?p=7562
 permalink: /blog/ibm-patrocina-o-demo-day-2014/
 fv_video:
   - Paste your YouTube or Vimeo url

@@ -4,7 +4,7 @@ title: Announcing 21212’s New Partnership with RJMetrics!
 date: 2013-02-15T12:25:59-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5458
+guid: http://21212.com/?p=5458
 permalink: /blog/announcing-21212s-new-partnership-with-rjmetrics/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -24,7 +24,7 @@ tags:
   - RJMetrics
 ---
 <p style="text-align: center;">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/02/image.png"><img class="size-medium wp-image-5459 aligncenter" alt="RJMetrics21212partnership" src="{{ site.url }}/assets/wp-content/uploads/2013/02/image-300x93.png" width="300" height="93" srcset="{{ site.url }}/assets/wp-content/uploads/2013/02/image-300x93.png 300w, {{ site.url }}/assets/wp-content/uploads/2013/02/image-1024x318.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/02/image.png"><img class="size-medium wp-image-5459 aligncenter" alt="RJMetrics21212partnership" src="{{ site.url }}/assets/wp-content/uploads/2013/02/image-300x93.png" width="300" height="93" srcset="{{ site.url }}/assets/wp-content/uploads/2013/02/image-300x93.png 300w, {{ site.url }}/assets/wp-content/uploads/2013/02/image-1024x318.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 <b id="internal-source-marker_0.7378009269014001">After completing our first two acceleration programs, and now in our third, we have come to realize the importance of data analysis in the entrepreneurial process. Starting a business is all about asking, and answering, a growing list of questions. What do my customers want from me? How much are they willing to pay? Where can I find them?</b>

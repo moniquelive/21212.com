@@ -4,7 +4,7 @@ title: No Rio, empreendedor tecnológico em busca de dólares
 date: 2012-03-17T08:00:38-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1550
+guid: http://21212.com/?p=1550
 permalink: /press/no-rio-empreendedor-tecnologico-em-busca-de-dolares/
 fv_video:
   - Paste your YouTube or Vimeo url

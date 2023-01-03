@@ -4,7 +4,7 @@ title: 'Rafael Duton&#8217;s Reflections from the Business Design Summit'
 date: 2013-05-28T17:02:15-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6116
+guid: http://21212.com/?p=6116
 permalink: /blog/rafael-dutons-reflections-from-the-business-design-summit/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -20,10 +20,10 @@ categories:
   - com-thumb
 ---
 <p style="text-align: center;">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/05/183543_415792481818801_20946409_n.png"><img class="wp-image-6119 aligncenter" alt="183543_415792481818801_20946409_n" src="{{ site.url }}/assets/wp-content/uploads/2013/05/183543_415792481818801_20946409_n.png" width="476" height="176" srcset="{{ site.url }}/assets/wp-content/uploads/2013/05/183543_415792481818801_20946409_n.png 850w, {{ site.url }}/assets/wp-content/uploads/2013/05/183543_415792481818801_20946409_n-300x111.png 300w" sizes="(max-width: 476px) 100vw, 476px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/05/183543_415792481818801_20946409_n.png"><img class="wp-image-6119 aligncenter" alt="183543_415792481818801_20946409_n" src="{{ site.url }}/assets/wp-content/uploads/2013/05/183543_415792481818801_20946409_n.png" width="476" height="176" srcset="{{ site.url }}/assets/wp-content/uploads/2013/05/183543_415792481818801_20946409_n.png 850w, {{ site.url }}/assets/wp-content/uploads/2013/05/183543_415792481818801_20946409_n-300x111.png 300w" sizes="(max-width: 476px) 100vw, 476px" /></a>
 </p>
 
-This April, 21212 partner [Rafael Duton](http://local.21212.com/people/rafael-duton/) attended [Business Design Summit](http://www.businessdesignsummit.com/) in Berlin, an event hosting a range of panels and discussions focused on Entrepreneurship with guest speakers like Alex Osterwalder, Steve Blank, Mark Johnson and Henry Chesbrough. Below is a text he wrote to share his thoughts and experiences:
+This April, 21212 partner [Rafael Duton](http://21212.com/people/rafael-duton/) attended [Business Design Summit](http://www.businessdesignsummit.com/) in Berlin, an event hosting a range of panels and discussions focused on Entrepreneurship with guest speakers like Alex Osterwalder, Steve Blank, Mark Johnson and Henry Chesbrough. Below is a text he wrote to share his thoughts and experiences:
 
 Os maiores pensadores do mundo em inovação e modelagem de negócios se reuniram em Berlim para compartilhar aprendizados e apresentar diversas novidades na implementação de ferramentas para criação de negócios inovadores.
 

@@ -4,7 +4,7 @@ title: PagPop Receives Investment from Intel Capital!
 date: 2012-10-03T15:27:39-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4002
+guid: http://21212.com/?p=4002
 permalink: /blog/pagpop-receives-investment-from-intel-capital/
 fb_social_plugin_settings_box_comments:
   - default
@@ -23,7 +23,7 @@ categories:
 ---
 <div>
   <p>
-    <a href="http://local.21212.com/assets/wp-content/uploads/2012/10/postBanner1.png"><img class="alignnone size-full wp-image-4009" title="postBanner" src="{{ site.url }}/assets/wp-content/uploads/2012/10/postBanner1.png" alt="" width="540" height="350" srcset="{{ site.url }}/assets/wp-content/uploads/2012/10/postBanner1.png 540w, {{ site.url }}/assets/wp-content/uploads/2012/10/postBanner1-300x194.png 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+    <a href="http://21212.com/assets/wp-content/uploads/2012/10/postBanner1.png"><img class="alignnone size-full wp-image-4009" title="postBanner" src="{{ site.url }}/assets/wp-content/uploads/2012/10/postBanner1.png" alt="" width="540" height="350" srcset="{{ site.url }}/assets/wp-content/uploads/2012/10/postBanner1.png 540w, {{ site.url }}/assets/wp-content/uploads/2012/10/postBanner1-300x194.png 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
   </p>
 
   <p>
@@ -47,7 +47,7 @@ categories:
   </p>
 
   <p>
-    &#8211; <a title="Intel Capital investe em dez novatas; uma no Brasil  © 2000 – 2012. Todos os direitos reservados ao Valor Econômico S.A. . Verifique nossos Termos de Uso em http://www.valor.com.br/termos-de-uso. Este material não pode ser publicado, reescrito, redistribuído ou transmitido por broadcast sem autorização do Valor Econômico.   Leia mais em:  http://www.valor.com.br/empresas/2853062/intel-capital-investe-em-dez-novatas-uma-no-brasil#ixzz28GgJvyPN" href="http://local.21212.com/assets/wp-content/uploads/2012/10/Pagpop-Intel.jpg" target="_blank">Valor Econômico: Intel Capital investe em dez novatas; uma no Brasil</a>
+    &#8211; <a title="Intel Capital investe em dez novatas; uma no Brasil  © 2000 – 2012. Todos os direitos reservados ao Valor Econômico S.A. . Verifique nossos Termos de Uso em http://www.valor.com.br/termos-de-uso. Este material não pode ser publicado, reescrito, redistribuído ou transmitido por broadcast sem autorização do Valor Econômico.   Leia mais em:  http://www.valor.com.br/empresas/2853062/intel-capital-investe-em-dez-novatas-uma-no-brasil#ixzz28GgJvyPN" href="http://21212.com/assets/wp-content/uploads/2012/10/Pagpop-Intel.jpg" target="_blank">Valor Econômico: Intel Capital investe em dez novatas; uma no Brasil</a>
   </p>
 
   <p>

@@ -4,7 +4,7 @@ title: 'Nova parceria: iugu e 21212 de braços abertos para as startups'
 date: 2014-09-05T17:23:46-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=7504
+guid: http://21212.com/?p=7504
 permalink: /blog/nova-parceria-iugu-e-21212-de-bracos-abertos-para-as-startups/
 fv_video:
   - Paste your YouTube or Vimeo url

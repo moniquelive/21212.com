@@ -4,7 +4,7 @@ title: Rodin Spielmann
 date: 2012-11-19T18:42:46-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4318
+guid: http://21212.com/?p=4318
 permalink: /people/rodin-spielmann/
 fv_video:
   - Paste your YouTube or Vimeo url

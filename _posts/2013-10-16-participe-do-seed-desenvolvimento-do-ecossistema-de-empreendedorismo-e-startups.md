@@ -4,7 +4,7 @@ title: 'Participe do SEED &#8211; Desenvolvimento do ecossistema de Empreendedor
 date: 2013-10-16T17:03:19-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6793
+guid: http://21212.com/?p=6793
 permalink: /blog/participe-do-seed-desenvolvimento-do-ecossistema-de-empreendedorismo-e-startups/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -29,4 +29,4 @@ Esta é uma grande oportunidade para pessoas que têm uma grande ideia, mas não
 
 <b id="docs-internal-guid-350e3274-c2d7-9b68-3a89-0dde8d52c1ee"><br /> Para mais informações, acesse: <a href="http://www.seed.mg.gov.br">http://www.seed.mg.gov.br</a></b>
 
-[<img class="aligncenter size-full wp-image-6794" alt="emkt-portugues" src="{{ site.url }}/assets/wp-content/uploads/2013/10/emkt-portugues.jpg" width="600" height="1285" srcset="{{ site.url }}/assets/wp-content/uploads/2013/10/emkt-portugues.jpg 600w, {{ site.url }}/assets/wp-content/uploads/2013/10/emkt-portugues-140x300.jpg 140w, {{ site.url }}/assets/wp-content/uploads/2013/10/emkt-portugues-478x1024.jpg 478w" sizes="(max-width: 600px) 100vw, 600px" />](http://local.21212.com/assets/wp-content/uploads/2013/10/emkt-portugues.jpg)
+[<img class="aligncenter size-full wp-image-6794" alt="emkt-portugues" src="{{ site.url }}/assets/wp-content/uploads/2013/10/emkt-portugues.jpg" width="600" height="1285" srcset="{{ site.url }}/assets/wp-content/uploads/2013/10/emkt-portugues.jpg 600w, {{ site.url }}/assets/wp-content/uploads/2013/10/emkt-portugues-140x300.jpg 140w, {{ site.url }}/assets/wp-content/uploads/2013/10/emkt-portugues-478x1024.jpg 478w" sizes="(max-width: 600px) 100vw, 600px" />](http://21212.com/assets/wp-content/uploads/2013/10/emkt-portugues.jpg)

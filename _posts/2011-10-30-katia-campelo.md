@@ -4,7 +4,7 @@ title: Kátia Campelo
 date: 2011-10-30T14:57:08-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=912
+guid: http://21212.com/?p=912
 permalink: /people/katia-campelo/
 cargo:
   - Mentor

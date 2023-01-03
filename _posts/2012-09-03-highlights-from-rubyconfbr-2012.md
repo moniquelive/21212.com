@@ -5,7 +5,7 @@ date: 2012-09-03T15:12:04-03:00
 author: "21212"
 excerpt: We’ve just had an awesome time in São Paulo attending the 5th RubyConfBR event. It was the first time we have been and we really enjoyed it!
 layout: post
-guid: http://local.21212.com/?p=3482
+guid: http://21212.com/?p=3482
 permalink: /blog/highlights-from-rubyconfbr-2012/
 fb_social_plugin_settings_box_comments:
   - default

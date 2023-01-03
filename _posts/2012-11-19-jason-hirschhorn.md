@@ -4,7 +4,7 @@ title: Jason Hirschhorn
 date: 2012-11-19T13:35:01-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4291
+guid: http://21212.com/?p=4291
 permalink: /people/jason-hirschhorn/
 fb_social_plugin_settings_box_comments:
   - default

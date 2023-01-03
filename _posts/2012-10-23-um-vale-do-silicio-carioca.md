@@ -4,7 +4,7 @@ title: Um Vale do Silício carioca
 date: 2012-10-23T17:19:53-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4188
+guid: http://21212.com/?p=4188
 permalink: /press/um-vale-do-silicio-carioca/
 fb_social_plugin_settings_box_comments:
   - default
@@ -19,7 +19,7 @@ data-publicacao:
 tit-publicacao:
   - Um Vale do Silício carioca
 link-publicacao:
-  - http://local.21212.com/assets/wp-content/uploads/2012/10/21212-Pedro-Doria.pdf
+  - http://21212.com/assets/wp-content/uploads/2012/10/21212-Pedro-Doria.pdf
 nome-veiculo:
   - 'O Globo / Pedro Doria, Digital & Mídia'
 transposh_can_translate:

@@ -4,7 +4,7 @@ title: 'Caetano D&#8217;araujo'
 date: 2013-03-20T21:59:51-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5755
+guid: http://21212.com/?p=5755
 permalink: /people/caetano-daraujo/
 fv_video:
   - Paste your YouTube or Vimeo url

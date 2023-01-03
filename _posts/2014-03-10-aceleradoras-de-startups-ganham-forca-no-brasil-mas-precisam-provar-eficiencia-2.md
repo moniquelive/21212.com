@@ -4,7 +4,7 @@ title: Aceleradoras de startups ganham força no Brasil, mas precisam provar efi
 date: 2014-03-10T12:38:52-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=7267
+guid: http://21212.com/?p=7267
 permalink: /press/aceleradoras-de-startups-ganham-forca-no-brasil-mas-precisam-provar-eficiencia-2/
 fv_video:
   - Paste your YouTube or Vimeo url

@@ -4,7 +4,7 @@ title: SEBRAE/RJ sponsoring the next Demo Day!
 date: 2013-09-30T20:11:11-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6727
+guid: http://21212.com/?p=6727
 permalink: /blog/sebraerj-sponsoring-the-next-demo-day/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -18,7 +18,7 @@ categories:
   - com-thumb
 ---
 <p dir="ltr">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2012/10/sebareBanner.png"><img class="aligncenter size-full wp-image-4115" alt="sebareBanner" src="{{ site.url }}/assets/wp-content/uploads/2012/10/sebareBanner.png" width="540" height="300" srcset="{{ site.url }}/assets/wp-content/uploads/2012/10/sebareBanner.png 540w, {{ site.url }}/assets/wp-content/uploads/2012/10/sebareBanner-300x166.png 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2012/10/sebareBanner.png"><img class="aligncenter size-full wp-image-4115" alt="sebareBanner" src="{{ site.url }}/assets/wp-content/uploads/2012/10/sebareBanner.png" width="540" height="300" srcset="{{ site.url }}/assets/wp-content/uploads/2012/10/sebareBanner.png 540w, {{ site.url }}/assets/wp-content/uploads/2012/10/sebareBanner-300x166.png 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
 </p>
 
 <p dir="ltr">

@@ -4,7 +4,7 @@ title: What Investors look for in Entrepreneurs
 date: 2013-04-18T16:44:07-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5896
+guid: http://21212.com/?p=5896
 permalink: /blog/what-investors-look-for-in-entrepreneurs/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p dir="ltr" style="text-align: center;">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/04/exame21212.jpg"><img class="size-full wp-image-5920 aligncenter" alt="exame21212" src="{{ site.url }}/assets/wp-content/uploads/2013/04/exame21212.jpg" width="500" height="300" srcset="{{ site.url }}/assets/wp-content/uploads/2013/04/exame21212.jpg 500w, {{ site.url }}/assets/wp-content/uploads/2013/04/exame21212-300x180.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/04/exame21212.jpg"><img class="size-full wp-image-5920 aligncenter" alt="exame21212" src="{{ site.url }}/assets/wp-content/uploads/2013/04/exame21212.jpg" width="500" height="300" srcset="{{ site.url }}/assets/wp-content/uploads/2013/04/exame21212.jpg 500w, {{ site.url }}/assets/wp-content/uploads/2013/04/exame21212-300x180.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
 </p>
 
 <p style="text-align: center;">

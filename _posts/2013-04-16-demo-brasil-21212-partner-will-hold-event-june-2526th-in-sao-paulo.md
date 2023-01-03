@@ -4,7 +4,7 @@ title: DEMO Brasil, 21212 partner, will hold event June 25/26th in São Paulo!
 date: 2013-04-16T15:41:32-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5890
+guid: http://21212.com/?p=5890
 permalink: /blog/demo-brasil-21212-partner-will-hold-event-june-2526th-in-sao-paulo/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -18,7 +18,7 @@ categories:
   - com-thumb
 ---
 <p dir="ltr" style="text-align: center;">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/04/main-3.jpg"><img class="size-full wp-image-5892 aligncenter" alt="main (3)" src="{{ site.url }}/assets/wp-content/uploads/2013/04/main-3.jpg" width="540" height="272" srcset="{{ site.url }}/assets/wp-content/uploads/2013/04/main-3.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/04/main-3-300x151.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/04/main-3.jpg"><img class="size-full wp-image-5892 aligncenter" alt="main (3)" src="{{ site.url }}/assets/wp-content/uploads/2013/04/main-3.jpg" width="540" height="272" srcset="{{ site.url }}/assets/wp-content/uploads/2013/04/main-3.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/04/main-3-300x151.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
 </p>
 
 <p dir="ltr">

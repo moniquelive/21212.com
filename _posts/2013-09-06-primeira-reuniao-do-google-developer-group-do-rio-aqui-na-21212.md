@@ -4,7 +4,7 @@ title: Primeira reunião do Google Developer Group do Rio, aqui, na 21212!
 date: 2013-09-06T16:00:38-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6656
+guid: http://21212.com/?p=6656
 permalink: /blog/primeira-reuniao-do-google-developer-group-do-rio-aqui-na-21212/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <div id="attachment_6661" style="width: 550px" class="wp-caption aligncenter">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/09/gdgfotocerta.jpg"><img aria-describedby="caption-attachment-6661" class="size-full wp-image-6661" alt="gdgfotocerta" src="{{ site.url }}/assets/wp-content/uploads/2013/09/gdgfotocerta.jpg" width="540" height="400" srcset="{{ site.url }}/assets/wp-content/uploads/2013/09/gdgfotocerta.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/09/gdgfotocerta-300x222.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/09/gdgfotocerta.jpg"><img aria-describedby="caption-attachment-6661" class="size-full wp-image-6661" alt="gdgfotocerta" src="{{ site.url }}/assets/wp-content/uploads/2013/09/gdgfotocerta.jpg" width="540" height="400" srcset="{{ site.url }}/assets/wp-content/uploads/2013/09/gdgfotocerta.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/09/gdgfotocerta-300x222.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
 
   <p id="caption-attachment-6661" class="wp-caption-text">
     É aqui, no nosso escritório, que o primeiro encontro do GDG carioca vai acontecer!

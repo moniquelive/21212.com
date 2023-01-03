@@ -4,7 +4,7 @@ title: 21212 selected as an accelerator of Start-up Brasil!
 date: 2013-02-28T17:14:21-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5532
+guid: http://21212.com/?p=5532
 permalink: /blog/21212-selected-as-an-accelerator-of-start-up-brazil/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -30,7 +30,7 @@ We are proud to announce that we have just been chosen as one of the  accelerat
 The most difficult part was figuring out how to summarize all the hard work done at 21212 in the past two years&#8230;
 
 <div id="attachment_5536" style="width: 550px" class="wp-caption aligncenter">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/02/startupbr21212.jpg"><img aria-describedby="caption-attachment-5536" class="size-full wp-image-5536" alt="21212 Startup Brasil proposal " src="{{ site.url }}/assets/wp-content/uploads/2013/02/startupbr21212.jpg" width="540" height="360" srcset="{{ site.url }}/assets/wp-content/uploads/2013/02/startupbr21212.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/02/startupbr21212-300x200.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/02/startupbr21212.jpg"><img aria-describedby="caption-attachment-5536" class="size-full wp-image-5536" alt="21212 Startup Brasil proposal " src="{{ site.url }}/assets/wp-content/uploads/2013/02/startupbr21212.jpg" width="540" height="360" srcset="{{ site.url }}/assets/wp-content/uploads/2013/02/startupbr21212.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/02/startupbr21212-300x200.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
 
   <p id="caption-attachment-5536" class="wp-caption-text">
     21212 Startup Brasil proposal

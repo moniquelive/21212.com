@@ -4,7 +4,7 @@ title: Faltam 8 dias para o fim das inscrições do programa de aceleração da 
 date: 2013-11-11T19:10:03-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6937
+guid: http://21212.com/?p=6937
 permalink: /blog/faltam-8-dias-para-o-fim-das-inscricoes-do-programa-de-aceleracao-da-21212/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p dir="ltr">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/11/hangouts_blog_PT.jpg"><img class="aligncenter size-full wp-image-6938" alt="hangouts_blog_PT" src="{{ site.url }}/assets/wp-content/uploads/2013/11/hangouts_blog_PT.jpg" width="584" height="336" srcset="{{ site.url }}/assets/wp-content/uploads/2013/11/hangouts_blog_PT.jpg 584w, {{ site.url }}/assets/wp-content/uploads/2013/11/hangouts_blog_PT-300x172.jpg 300w" sizes="(max-width: 584px) 100vw, 584px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/11/hangouts_blog_PT.jpg"><img class="aligncenter size-full wp-image-6938" alt="hangouts_blog_PT" src="{{ site.url }}/assets/wp-content/uploads/2013/11/hangouts_blog_PT.jpg" width="584" height="336" srcset="{{ site.url }}/assets/wp-content/uploads/2013/11/hangouts_blog_PT.jpg 584w, {{ site.url }}/assets/wp-content/uploads/2013/11/hangouts_blog_PT-300x172.jpg 300w" sizes="(max-width: 584px) 100vw, 584px" /></a>
 </p>
 
 <p dir="ltr">

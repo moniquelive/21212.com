@@ -4,7 +4,7 @@ title: CONHEÇA OS PARCEIROS DO 21212 DEMO DAY
 date: 2014-11-27T16:49:46-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=7576
+guid: http://21212.com/?p=7576
 permalink: /blog/conheca-os-parceiros-do-21212-demo-day/
 fv_video:
   - Paste your YouTube or Vimeo url

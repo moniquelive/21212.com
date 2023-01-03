@@ -4,7 +4,7 @@ title: Mike Hennessey
 date: 2012-04-26T23:50:13-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1880
+guid: http://21212.com/?p=1880
 permalink: /people/mike-hennessey/
 cargo:
   - Mentor

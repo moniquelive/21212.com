@@ -4,7 +4,7 @@ title: Code School
 date: 2013-02-01T14:29:08-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5332
+guid: http://21212.com/?p=5332
 permalink: /partners/code-school/
 fv_video:
   - Paste your YouTube or Vimeo url

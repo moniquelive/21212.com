@@ -4,7 +4,7 @@ title: Uma boa ideia à procura de sócios
 date: 2012-03-29T14:37:52-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1737
+guid: http://21212.com/?p=1737
 permalink: /press/uma-boa-ideia-a-procura-de-socios/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -17,7 +17,7 @@ data-publicacao:
 tit-publicacao:
   - Uma boa ideia à procura de sócios
 link-publicacao:
-  - http://local.21212.com/assets/wp-content/uploads/2012/03/Uma-boa-ideia-à-procura-de-sócios.pdf
+  - http://21212.com/assets/wp-content/uploads/2012/03/Uma-boa-ideia-à-procura-de-sócios.pdf
 nome-veiculo:
   - Valor Econômico
 transposh_can_translate:

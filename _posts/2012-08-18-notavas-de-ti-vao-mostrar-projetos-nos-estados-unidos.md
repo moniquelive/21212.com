@@ -4,7 +4,7 @@ title: Notavas de TI v��o mostrar projetos nos Estados Unidos
 date: 2012-08-18T13:33:22-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=3376
+guid: http://21212.com/?p=3376
 permalink: /press/notavas-de-ti-vao-mostrar-projetos-nos-estados-unidos/
 fb_social_plugin_settings_box_comments:
   - default

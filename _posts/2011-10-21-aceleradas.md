@@ -4,7 +4,7 @@ title: Aceleradas
 date: 2011-10-21T10:00:38-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1505
+guid: http://21212.com/?p=1505
 permalink: /press/aceleradas/
 fv_video:
   - Paste your YouTube or Vimeo url

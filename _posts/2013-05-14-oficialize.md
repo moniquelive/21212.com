@@ -4,7 +4,7 @@ title: Oficialize
 date: 2013-05-14T15:58:24-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6081
+guid: http://21212.com/?p=6081
 permalink: /companies/oficialize/
 fv_video:
   - Paste your YouTube or Vimeo url

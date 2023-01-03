@@ -4,7 +4,7 @@ title: Aentrópico will present at BLOOM in Milan!
 date: 2013-04-29T16:34:23-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5949
+guid: http://21212.com/?p=5949
 permalink: /blog/aentropico-will-present-at-bloom-in-milan/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -28,7 +28,7 @@ categories:
 </p>
 
 <p dir="ltr">
-  <a href="http://local.21212.com/people/marcelo-sales/">Marcelo Sales</a>, one of the international keynote speakers, will speak in the “Brazilian Panel” and in the “Hottest Worldwide Accelerators Panel.” He will be representing 21212 and sharing his views on the rapid growth of the Brazilian Startup Ecosystem.
+  <a href="http://21212.com/people/marcelo-sales/">Marcelo Sales</a>, one of the international keynote speakers, will speak in the “Brazilian Panel” and in the “Hottest Worldwide Accelerators Panel.” He will be representing 21212 and sharing his views on the rapid growth of the Brazilian Startup Ecosystem.
 </p>
 
 Sebastián Saaibi has been selected to present [Aentrópico](http://www.aentropi.co/), a startup focused on Big Data that is currently being accelerated by 21212. He will also represent Brazil at BLOOM and participate in the Brazilian Panel along with Buzztore from Intentio, Baby.com (https://www.baby.com.br/), and Captalis (http://www.captalis.com/).
@@ -80,7 +80,7 @@ We spoke with Sebastian to hear some of his thoughts about Aentrópico and his p
 We&#8217;re offering concrete answers to particular business concerns for business managers of medium or large businesses. Nowadays, if managers want to solve specific problems, they must buy an expensive software license, hire a team of analysts and host a powerful IT infrastructure. On top of that, these analysts will take between 3-6 months tackling a particular problem. At Aentrópico we eliminate the need of an expensive IT infrastructure and analytics team by bringing implementation times from months to weeks and increasing usability so that people without a strong mathematical/technical background can have access to sophisticated algorithms and get predictive insight to make informed data-driven decisions.
 
 <div id="attachment_5956" style="width: 199px" class="wp-caption alignleft">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/04/aentropicosebastian.jpg"><img aria-describedby="caption-attachment-5956" class="wp-image-5956 " alt="aentropicosebastian" src="{{ site.url }}/assets/wp-content/uploads/2013/04/aentropicosebastian.jpg" width="189" height="347" srcset="{{ site.url }}/assets/wp-content/uploads/2013/04/aentropicosebastian.jpg 300w, {{ site.url }}/assets/wp-content/uploads/2013/04/aentropicosebastian-163x300.jpg 163w" sizes="(max-width: 189px) 100vw, 189px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/04/aentropicosebastian.jpg"><img aria-describedby="caption-attachment-5956" class="wp-image-5956 " alt="aentropicosebastian" src="{{ site.url }}/assets/wp-content/uploads/2013/04/aentropicosebastian.jpg" width="189" height="347" srcset="{{ site.url }}/assets/wp-content/uploads/2013/04/aentropicosebastian.jpg 300w, {{ site.url }}/assets/wp-content/uploads/2013/04/aentropicosebastian-163x300.jpg 163w" sizes="(max-width: 189px) 100vw, 189px" /></a>
 
   <p id="caption-attachment-5956" class="wp-caption-text">
     Sebastián Saaibi pitching at GEC 2013 in Rio

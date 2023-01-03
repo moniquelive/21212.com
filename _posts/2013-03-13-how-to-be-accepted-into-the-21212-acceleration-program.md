@@ -5,7 +5,7 @@ date: 2013-03-13T15:41:09-03:00
 author: "21212"
 excerpt: 21212 is always looking for hot new startups. Our selection process is open year-round and startups can start the acceleration program as soon as they are chosen. If you are an entrepreneur motivated to be the biggest and best in your sector, come apply to 21212.
 layout: post
-guid: http://local.21212.com/?p=5596
+guid: http://21212.com/?p=5596
 permalink: /blog/how-to-be-accepted-into-the-21212-acceleration-program/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -25,7 +25,7 @@ _<b id="internal-source-marker_0.34190695150755346">This post was written by Mar
 But how are startups accepted into the program? What is 21212 really looking for? First, we need to clarify how the selection process works. Companies apply to the program on our website and, after an analysis of the applications, we select a small percentage for an interview with a 21212 team member. Below are some of the most important factors we take into account throughout the selection process.
 
 <div id="attachment_5600" style="width: 550px" class="wp-caption aligncenter">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/03/selectionprocess21212.jpg"><img aria-describedby="caption-attachment-5600" class="size-full wp-image-5600 " alt="selectionprocess21212" src="{{ site.url }}/assets/wp-content/uploads/2013/03/selectionprocess21212.jpg" width="540" height="300" srcset="{{ site.url }}/assets/wp-content/uploads/2013/03/selectionprocess21212.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/03/selectionprocess21212-300x166.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/03/selectionprocess21212.jpg"><img aria-describedby="caption-attachment-5600" class="size-full wp-image-5600 " alt="selectionprocess21212" src="{{ site.url }}/assets/wp-content/uploads/2013/03/selectionprocess21212.jpg" width="540" height="300" srcset="{{ site.url }}/assets/wp-content/uploads/2013/03/selectionprocess21212.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/03/selectionprocess21212-300x166.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
 
   <p id="caption-attachment-5600" class="wp-caption-text">
     21212 staff reading some new applications
@@ -54,4 +54,4 @@ We look for startups that, in addition to having a great idea, understand the op
 
 If you have an idea but don&#8217;t know how to start your business, consider taking a look at some books that guide our acceleration program [Lean Startup](http://theleanstartup.com/), [Business Model Generation](http://www.businessmodelgeneration.com/canvas/) e o [Startup Owner\`s Manual](http://www.inc.com/steve-blank/the-startup-owners-manual-excerpts-introduction.html).
 
-For any other questions regarding our acceleration program, you can read [about](http://local.21212.com/about/) us on our website. If you are ready for the acceleration program, feel free to [apply](http://local.21212.com/apply)! We look forward to hearing from you!
+For any other questions regarding our acceleration program, you can read [about](http://21212.com/about/) us on our website. If you are ready for the acceleration program, feel free to [apply](http://21212.com/apply)! We look forward to hearing from you!

@@ -4,7 +4,7 @@ title: ZeroPaper Receives Investment from TOTVS Ventures!
 date: 2013-07-03T13:48:08-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6333
+guid: http://21212.com/?p=6333
 permalink: /blog/zeropaper-receives-investment-from-totvs-ventures/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -20,7 +20,7 @@ categories:
   - com-thumb
 ---
 <div>
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/07/logo-zeropaper-wide.png"><img class="size-medium wp-image-6336 aligncenter" alt="logo-zeropaper-wide" src="{{ site.url }}/assets/wp-content/uploads/2013/07/logo-zeropaper-wide-300x100.png" width="300" height="100" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/logo-zeropaper-wide-300x100.png 300w, {{ site.url }}/assets/wp-content/uploads/2013/07/logo-zeropaper-wide.png 540w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/07/logo-zeropaper-wide.png"><img class="size-medium wp-image-6336 aligncenter" alt="logo-zeropaper-wide" src="{{ site.url }}/assets/wp-content/uploads/2013/07/logo-zeropaper-wide-300x100.png" width="300" height="100" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/logo-zeropaper-wide-300x100.png 300w, {{ site.url }}/assets/wp-content/uploads/2013/07/logo-zeropaper-wide.png 540w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </div>
 
 <div>

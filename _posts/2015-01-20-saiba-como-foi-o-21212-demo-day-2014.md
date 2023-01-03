@@ -4,7 +4,7 @@ title: Saiba como foi o 21212 Demo Day 2014
 date: 2015-01-20T08:58:29-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=7604
+guid: http://21212.com/?p=7604
 permalink: /blog/saiba-como-foi-o-21212-demo-day-2014/
 fv_video:
   - Paste your YouTube or Vimeo url

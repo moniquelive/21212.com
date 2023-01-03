@@ -4,7 +4,7 @@ title: Jeff Levinsohn
 date: 2011-08-23T21:12:18-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=611
+guid: http://21212.com/?p=611
 permalink: /people/jeff-levinsohn/
 fb_social_plugin_settings_box_comments:
   - default

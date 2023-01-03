@@ -4,7 +4,7 @@ title: Start-Up Brasil announces the projects selected for its first acceleratio
 date: 2013-07-29T18:53:14-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6511
+guid: http://21212.com/?p=6511
 permalink: /blog/start-up-brasil-announces-the-projects-selected-for-its-first-acceleration-program/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -31,7 +31,7 @@ A 21212 parabeniza todas as startups selecionadas por seus excelentes projetos e
 
 Por estar com um programa de aceleração em andamento e seu principal evento, o Demo Day, já marcado para 03/Outubro/2013, no Rio de Janeiro, a 21212 optou por receber apenas 3 startups nesta chamada, deixando assim mais vagas para a segunda rodada do Start-Up Brasil que se inicia já nos próximos meses.
 
-Cabe ressaltar, ainda, que o perfil de empresas buscadas pela 21212 é bastante específico, o que resultou em um grande número de startups que a escolheram como aceleradora porém não tinham o perfil correspondente. A 21212 procura startups digitais que possuam um time, e não apenas um empreendedor, que já tenham algum faturamento, e não apenas uma ideia, e que atuem nas áreas de negócio já divulgadas em http://local.21212.com, como meios de pagamento, educação, comércio eletrônico, big data, entre outras.
+Cabe ressaltar, ainda, que o perfil de empresas buscadas pela 21212 é bastante específico, o que resultou em um grande número de startups que a escolheram como aceleradora porém não tinham o perfil correspondente. A 21212 procura startups digitais que possuam um time, e não apenas um empreendedor, que já tenham algum faturamento, e não apenas uma ideia, e que atuem nas áreas de negócio já divulgadas em http://21212.com, como meios de pagamento, educação, comércio eletrônico, big data, entre outras.
 
 O processo seletivo da 21212 para novas startups já está aberto. As inscrições que serão priorizadas para este ano se encerram no dia 19 de Agosto. Isto porque, conforme já divulgado, o processo de busca de startups para aceleração ocorre durante todo o ano.
 

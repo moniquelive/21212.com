@@ -4,7 +4,7 @@ title: SEED divulga lista de startups selecionadas para aceleração
 date: 2013-11-14T17:59:51-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6949
+guid: http://21212.com/?p=6949
 permalink: /blog/seed-divulga-lista-de-startups-selecionadas-para-aceleracao/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p dir="ltr">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/11/seed4sim.png"><img class="aligncenter size-full wp-image-6953" alt="seed4sim" src="{{ site.url }}/assets/wp-content/uploads/2013/11/seed4sim.png" width="540" height="540" srcset="{{ site.url }}/assets/wp-content/uploads/2013/11/seed4sim.png 540w, {{ site.url }}/assets/wp-content/uploads/2013/11/seed4sim-150x150.png 150w, {{ site.url }}/assets/wp-content/uploads/2013/11/seed4sim-300x300.png 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/11/seed4sim.png"><img class="aligncenter size-full wp-image-6953" alt="seed4sim" src="{{ site.url }}/assets/wp-content/uploads/2013/11/seed4sim.png" width="540" height="540" srcset="{{ site.url }}/assets/wp-content/uploads/2013/11/seed4sim.png 540w, {{ site.url }}/assets/wp-content/uploads/2013/11/seed4sim-150x150.png 150w, {{ site.url }}/assets/wp-content/uploads/2013/11/seed4sim-300x300.png 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
 </p>
 
 <p dir="ltr">

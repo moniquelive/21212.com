@@ -4,7 +4,7 @@ title: Donato Ramos
 date: 2011-10-17T13:57:18-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=720
+guid: http://21212.com/?p=720
 permalink: /people/donato-ramos/
 sharing_disabled:
   - "1"

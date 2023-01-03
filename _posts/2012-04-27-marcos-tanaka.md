@@ -4,7 +4,7 @@ title: Marcos Tanaka
 date: 2012-04-27T16:01:15-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1889
+guid: http://21212.com/?p=1889
 permalink: /people/marcos-tanaka/
 team-photo:
   - "1890"

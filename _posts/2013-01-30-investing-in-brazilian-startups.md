@@ -5,7 +5,7 @@ date: 2013-01-30T16:33:13-03:00
 author: "21212"
 excerpt: This guest post was written by Eliot Brockner. Eliot is a former 21212 intern who is currently pursuing his MBA at Columbia Business School.
 layout: post
-guid: http://local.21212.com/?p=5262
+guid: http://21212.com/?p=5262
 permalink: /blog/investing-in-brazilian-startups/
 fv_video:
   - Paste your YouTube or Vimeo url

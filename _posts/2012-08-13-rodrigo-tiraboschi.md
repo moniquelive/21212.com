@@ -4,7 +4,7 @@ title: Rodrigo Tiraboschi
 date: 2012-08-13T19:36:27-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=3287
+guid: http://21212.com/?p=3287
 permalink: /people/rodrigo-tiraboschi/
 fb_social_plugin_settings_box_comments:
   - default

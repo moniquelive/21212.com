@@ -4,7 +4,7 @@ title: 'Brazil’s Startup Industry: Impressions, Insights &#038; Lessons from I
 date: 2012-05-08T17:15:39-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1937
+guid: http://21212.com/?p=1937
 permalink: /press/brazils-startup-industry-impressions-insights-lessons-from-israel-part-i-2/
 fv_video:
   - Paste your YouTube or Vimeo url

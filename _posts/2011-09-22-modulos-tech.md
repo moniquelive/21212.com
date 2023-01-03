@@ -4,7 +4,7 @@ title: 'Módulos Tech: Web Analytics, Mailchimp, Newsletters'
 date: 2011-09-22T20:34:35-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=656
+guid: http://21212.com/?p=656
 permalink: /blog/modulos-tech/
 transposh_can_translate:
   - 'true'

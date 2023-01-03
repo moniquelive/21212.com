@@ -4,7 +4,7 @@ title: 1º Encontro Ruby on Rio na 21212
 date: 2011-10-26T00:30:38-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=856
+guid: http://21212.com/?p=856
 permalink: /blog/1encontro-rubyonrio/
 transposh_can_translate:
   - 'true'
@@ -26,7 +26,7 @@ Neste último final de semana, aconteceu o **1º Encontro <a title="Ruby on Rio"
 
 Rolou muito bate papo, hack&#8217;n no <a title="Startrack" href="https://github.com/rubyonrio/startrack" target="_blank">startrack</a> &#8211; ferramenta de task tracking que a galera do Ruby on Rio está desenvolvendo para estudos &#8211; e muitas risadas.
 
-A partir de agora, a galera vai se encontrar todos os meses na 21212. Se você gosta de Ruby ou quer aprender, sinta-se convidado e <a title="Contato" href="http://local.21212.com/contact/" target="_blank">entre em contato</a> conosco para ser avisado.
+A partir de agora, a galera vai se encontrar todos os meses na 21212. Se você gosta de Ruby ou quer aprender, sinta-se convidado e <a title="Contato" href="http://21212.com/contact/" target="_blank">entre em contato</a> conosco para ser avisado.
 
 &nbsp;
 
@@ -46,7 +46,7 @@ Participantes do 1º Encontro:
 
 &#8211; Hugo Roque
 
-&#8211; Leonardo Cyber
+&#8211; Monique Cyber
 
 &#8211; Luan Marques
 

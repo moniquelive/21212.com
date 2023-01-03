@@ -4,7 +4,7 @@ title: Robert Eisenbach
 date: 2013-05-06T20:19:29-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6051
+guid: http://21212.com/?p=6051
 permalink: /people/robert-eisenbach/
 fv_video:
   - Paste your YouTube or Vimeo url

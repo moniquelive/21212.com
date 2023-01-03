@@ -5,7 +5,7 @@ date: 2012-09-24T11:24:04-03:00
 author: "21212"
 excerpt: "We are proud to share that Google will be sponsoring 21212 Digital Accelerator's Demo Day on October 19th."
 layout: post
-guid: http://local.21212.com/?p=3875
+guid: http://21212.com/?p=3875
 permalink: /blog/announcing-google-as-our-newest-sponsor/
 fb_social_plugin_settings_box_comments:
   - default

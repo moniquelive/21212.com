@@ -4,7 +4,7 @@ title: Guilherme Horn
 date: 2012-09-24T14:11:47-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=3899
+guid: http://21212.com/?p=3899
 permalink: /people/guilherme-horn/
 fb_social_plugin_settings_box_comments:
   - default

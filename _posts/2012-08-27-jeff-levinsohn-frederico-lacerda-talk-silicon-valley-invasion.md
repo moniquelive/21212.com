@@ -4,7 +4,7 @@ title: 'Jeff Levinsohn &#038; Frederico Lacerda Talk Silicon Valley Invasion'
 date: 2012-08-27T22:53:41-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=3458
+guid: http://21212.com/?p=3458
 permalink: /press/jeff-levinsohn-frederico-lacerda-talk-silicon-valley-invasion/
 fb_social_plugin_settings_box_comments:
   - default

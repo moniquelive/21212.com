@@ -4,7 +4,7 @@ title: How does the 21212 Acceleration Program work?
 date: 2012-09-17T19:09:21-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=3818
+guid: http://21212.com/?p=3818
 permalink: /videos/how-does-the-21212-acceleration-program-work-3/
 fb_social_plugin_settings_box_comments:
   - default

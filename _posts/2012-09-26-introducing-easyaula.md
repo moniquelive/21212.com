@@ -5,7 +5,7 @@ date: 2012-09-26T17:31:13-03:00
 author: "21212"
 excerpt: 'Easyaula is an online platform that allows anyone to teach a class.  Here are a few thoughts from the CEO, Diego Alvarez about the company and his experience.'
 layout: post
-guid: http://local.21212.com/?p=3947
+guid: http://21212.com/?p=3947
 permalink: /blog/introducing-easyaula/
 fb_social_plugin_settings_box_comments:
   - default
@@ -24,7 +24,7 @@ categories:
 ---
 <div>
   <p>
-    <a href="http://local.21212.com/assets/wp-content/uploads/2012/09/easyaulaPost.png"><img class="alignnone size-full wp-image-3966" title="easyaulaPost" src="{{ site.url }}/assets/wp-content/uploads/2012/09/easyaulaPost.png" alt="" width="540" height="350" srcset="{{ site.url }}/assets/wp-content/uploads/2012/09/easyaulaPost.png 540w, {{ site.url }}/assets/wp-content/uploads/2012/09/easyaulaPost-300x194.png 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+    <a href="http://21212.com/assets/wp-content/uploads/2012/09/easyaulaPost.png"><img class="alignnone size-full wp-image-3966" title="easyaulaPost" src="{{ site.url }}/assets/wp-content/uploads/2012/09/easyaulaPost.png" alt="" width="540" height="350" srcset="{{ site.url }}/assets/wp-content/uploads/2012/09/easyaulaPost.png 540w, {{ site.url }}/assets/wp-content/uploads/2012/09/easyaulaPost-300x194.png 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
   </p>
 
   <p>
@@ -32,7 +32,7 @@ categories:
   </p>
 
   <p>
-    <a href="http://easyaula.com.br">Easyaula</a> is an online platform that allows anyone to teach a class.  It is part of the wave that is transforming education and supplementing what we learn in school and reminding us that we should never stop learning.  Here are a few thoughts from the CEO, <a href="http://local.21212.com/companies/easyaula/">Diego Alvarez </a>about the company and his experience.
+    <a href="http://easyaula.com.br">Easyaula</a> is an online platform that allows anyone to teach a class.  It is part of the wave that is transforming education and supplementing what we learn in school and reminding us that we should never stop learning.  Here are a few thoughts from the CEO, <a href="http://21212.com/companies/easyaula/">Diego Alvarez </a>about the company and his experience.
   </p>
 </div>
 

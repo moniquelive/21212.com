@@ -4,7 +4,7 @@ title: Fundo binacional tem R$ 100 mi para bancar startups
 date: 2012-11-08T12:33:58-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4263
+guid: http://21212.com/?p=4263
 permalink: /press/fundo-binacional-tem-r-100-mi-para-bancar-startups/
 fb_social_plugin_settings_box_comments:
   - default

@@ -4,7 +4,7 @@ title: Fabio Seixas
 date: 2011-07-26T23:18:51-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=416
+guid: http://21212.com/?p=416
 permalink: /people/fabio-seixas/
 sharing_disabled:
   - "1"

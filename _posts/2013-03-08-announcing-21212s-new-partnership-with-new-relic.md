@@ -4,7 +4,7 @@ title: Announcing 21212’s New Partnership with New Relic!
 date: 2013-03-08T10:18:31-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5574
+guid: http://21212.com/?p=5574
 permalink: /blog/announcing-21212s-new-partnership-with-new-relic/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -18,7 +18,7 @@ categories:
   - com-thumb
 ---
 <p style="text-align: center;">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/03/main.jpg"><img class=" wp-image-5583 aligncenter" alt="main" src="{{ site.url }}/assets/wp-content/uploads/2013/03/main.jpg" width="432" height="240" srcset="{{ site.url }}/assets/wp-content/uploads/2013/03/main.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/03/main-300x166.jpg 300w" sizes="(max-width: 432px) 100vw, 432px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/03/main.jpg"><img class=" wp-image-5583 aligncenter" alt="main" src="{{ site.url }}/assets/wp-content/uploads/2013/03/main.jpg" width="432" height="240" srcset="{{ site.url }}/assets/wp-content/uploads/2013/03/main.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/03/main-300x166.jpg 300w" sizes="(max-width: 432px) 100vw, 432px" /></a>
 </p>
 
 21212 has just partnered with [New Relic](http://newrelic.com/), an SaaS application performance management company from San Francisco, California. New Relic lets you monitor, troubleshoot and scale a web app, keeping it from slowing down with the increase of visitors. They make it easy by showing the most important performance data for your app in real time. Arley Moura, of 21212’s start-up [ZeroPaper](https://www.zeropaper.com.br/), has been using New Relic and told us a little about how it has helped them out:

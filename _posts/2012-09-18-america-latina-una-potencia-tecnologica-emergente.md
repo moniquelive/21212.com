@@ -4,7 +4,7 @@ title: América Latina, una potencia tecnológica emergente
 date: 2012-09-18T15:30:14-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=3866
+guid: http://21212.com/?p=3866
 permalink: /press/america-latina-una-potencia-tecnologica-emergente/
 fb_social_plugin_settings_box_comments:
   - default

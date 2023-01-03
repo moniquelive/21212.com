@@ -4,7 +4,6 @@ title: Marcelo Sales
 date: 2011-06-26T19:09:09-03:00
 author: "21212"
 layout: post
-guid: http://oci.cyberleo.com.br/?p=93
 permalink: /people/marcelo-sales/
 sharing_disabled:
   - "1"

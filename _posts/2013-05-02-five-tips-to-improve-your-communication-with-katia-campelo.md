@@ -4,7 +4,7 @@ title: Five tips to improve your communication with Kátia Campelo
 date: 2013-05-02T12:26:01-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5967
+guid: http://21212.com/?p=5967
 permalink: /blog/five-tips-to-improve-your-communication-with-katia-campelo/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -18,11 +18,11 @@ categories:
   - com-thumb
 ---
 <p dir="ltr">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/04/06982226700.jpg"><img class=" wp-image-5971 alignright" alt="0,,69822267,00" src="{{ site.url }}/assets/wp-content/uploads/2013/04/06982226700.jpg" width="216" height="151" srcset="{{ site.url }}/assets/wp-content/uploads/2013/04/06982226700.jpg 400w, {{ site.url }}/assets/wp-content/uploads/2013/04/06982226700-300x210.jpg 300w" sizes="(max-width: 216px) 100vw, 216px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/04/06982226700.jpg"><img class=" wp-image-5971 alignright" alt="0,,69822267,00" src="{{ site.url }}/assets/wp-content/uploads/2013/04/06982226700.jpg" width="216" height="151" srcset="{{ site.url }}/assets/wp-content/uploads/2013/04/06982226700.jpg 400w, {{ site.url }}/assets/wp-content/uploads/2013/04/06982226700-300x210.jpg 300w" sizes="(max-width: 216px) 100vw, 216px" /></a>
 </p>
 
 <p dir="ltr">
-  Our 21212 mentor, <a href="http://local.21212.com/people/katia-campelo/">Kátia Campelo</a>, who is a specialist in effective communication and the founder of <a href="http://www.katiacampelo.com.br/">Espaço de Oratória Kátia Campelo</a> recently shared some useful tips for the Revista PEGN for entrepreneurs to successfully present themselves to investors. Below is an English version of the article, <a href="http://revistapegn.globo.com/Revista/Common/0,,EMI336335-17180,00-DICAS+PARA+MELHORAR+SUA+COMUNICACAO.html?id=303719&tit=Lista+tem+5+dicas+para+melhorar+a+sua+comunica%C3%A7%C3%A3o&cat=trabalho-e-dinheiro&url=http://revistapegn.globo.com/Revista/Common/0,,EMI336335-17180,00-DICAS+PARA+MELHORAR+SUA+COMUNICACAO.html">click here</a> for the Portuguese version.
+  Our 21212 mentor, <a href="http://21212.com/people/katia-campelo/">Kátia Campelo</a>, who is a specialist in effective communication and the founder of <a href="http://www.katiacampelo.com.br/">Espaço de Oratória Kátia Campelo</a> recently shared some useful tips for the Revista PEGN for entrepreneurs to successfully present themselves to investors. Below is an English version of the article, <a href="http://revistapegn.globo.com/Revista/Common/0,,EMI336335-17180,00-DICAS+PARA+MELHORAR+SUA+COMUNICACAO.html?id=303719&tit=Lista+tem+5+dicas+para+melhorar+a+sua+comunica%C3%A7%C3%A3o&cat=trabalho-e-dinheiro&url=http://revistapegn.globo.com/Revista/Common/0,,EMI336335-17180,00-DICAS+PARA+MELHORAR+SUA+COMUNICACAO.html">click here</a> for the Portuguese version.
 </p>
 
 &nbsp;

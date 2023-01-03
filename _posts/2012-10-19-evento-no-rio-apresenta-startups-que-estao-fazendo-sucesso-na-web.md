@@ -4,7 +4,7 @@ title: Evento no Rio apresenta startups que estão fazendo sucesso na web
 date: 2012-10-19T17:13:22-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4186
+guid: http://21212.com/?p=4186
 permalink: /press/evento-no-rio-apresenta-startups-que-estao-fazendo-sucesso-na-web/
 fb_social_plugin_settings_box_comments:
   - default

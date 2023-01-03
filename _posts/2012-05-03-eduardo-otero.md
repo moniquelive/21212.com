@@ -4,7 +4,7 @@ title: Eduardo Otero
 date: 2012-05-03T11:03:04-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1892
+guid: http://21212.com/?p=1892
 permalink: /people/eduardo-otero/
 cargo:
   - Mentor

@@ -4,7 +4,7 @@ title: 21212 partners with Shopify!
 date: 2013-07-29T13:43:10-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6500
+guid: http://21212.com/?p=6500
 permalink: /blog/21212-partners-with-shopify/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -18,7 +18,7 @@ categories:
   - com-thumb
 ---
 <p style="text-align: center;">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/07/shopify2.jpg"><img class="size-full wp-image-6503 aligncenter" alt="shopify2" src="{{ site.url }}/assets/wp-content/uploads/2013/07/shopify2.jpg" width="460" height="401" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/shopify2.jpg 460w, {{ site.url }}/assets/wp-content/uploads/2013/07/shopify2-300x261.jpg 300w" sizes="(max-width: 460px) 100vw, 460px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/07/shopify2.jpg"><img class="size-full wp-image-6503 aligncenter" alt="shopify2" src="{{ site.url }}/assets/wp-content/uploads/2013/07/shopify2.jpg" width="460" height="401" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/shopify2.jpg 460w, {{ site.url }}/assets/wp-content/uploads/2013/07/shopify2-300x261.jpg 300w" sizes="(max-width: 460px) 100vw, 460px" /></a>
 </p>
 
 <p dir="ltr">

@@ -5,7 +5,7 @@ date: 2011-10-27T22:25:48-03:00
 author: "21212"
 excerpt: Se você ainda está na faculdade, gosta de empreendedorismo, tem bons conhecimentos de design digital e é diferenciado no que faz, veja a nossa proposta indecente.
 layout: post
-guid: http://local.21212.com/?p=875
+guid: http://21212.com/?p=875
 permalink: /blog/vagas-design/
 fv_video:
   - Paste your YouTube or Vimeo url

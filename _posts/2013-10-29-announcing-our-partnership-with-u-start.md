@@ -4,7 +4,7 @@ title: Announcing our partnership with U-Start!
 date: 2013-10-29T15:01:19-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6850
+guid: http://21212.com/?p=6850
 permalink: /blog/announcing-our-partnership-with-u-start/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -18,7 +18,7 @@ categories:
   - com-thumb
 ---
 <p dir="ltr">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/10/U-Start-Logo-2.jpg"><img class="aligncenter size-full wp-image-6857" alt="U-Start-Logo-2" src="{{ site.url }}/assets/wp-content/uploads/2013/10/U-Start-Logo-2.jpg" width="488" height="282" srcset="{{ site.url }}/assets/wp-content/uploads/2013/10/U-Start-Logo-2.jpg 488w, {{ site.url }}/assets/wp-content/uploads/2013/10/U-Start-Logo-2-300x173.jpg 300w" sizes="(max-width: 488px) 100vw, 488px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/10/U-Start-Logo-2.jpg"><img class="aligncenter size-full wp-image-6857" alt="U-Start-Logo-2" src="{{ site.url }}/assets/wp-content/uploads/2013/10/U-Start-Logo-2.jpg" width="488" height="282" srcset="{{ site.url }}/assets/wp-content/uploads/2013/10/U-Start-Logo-2.jpg 488w, {{ site.url }}/assets/wp-content/uploads/2013/10/U-Start-Logo-2-300x173.jpg 300w" sizes="(max-width: 488px) 100vw, 488px" /></a>
 </p>
 
 <p dir="ltr">

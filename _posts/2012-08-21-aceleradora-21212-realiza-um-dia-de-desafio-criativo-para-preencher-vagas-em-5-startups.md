@@ -4,7 +4,7 @@ title: Aceleradora 21212 realiza um dia de Desafio Criativo para preencher vagas
 date: 2012-08-21T11:16:00-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=3845
+guid: http://21212.com/?p=3845
 permalink: /press/aceleradora-21212-realiza-um-dia-de-desafio-criativo-para-preencher-vagas-em-5-startups/
 fb_social_plugin_settings_box_comments:
   - default

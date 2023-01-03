@@ -4,7 +4,7 @@ title: Investidores anjo ajudam pequenas empresas com dinheiro e conselhos
 date: 2012-10-09T10:45:04-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4054
+guid: http://21212.com/?p=4054
 permalink: /press/investidores-anjo-ajudam-pequenas-empresas-com-dinheiro-e-conselhos/
 fb_social_plugin_settings_box_comments:
   - default

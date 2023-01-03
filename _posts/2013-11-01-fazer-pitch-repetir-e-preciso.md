@@ -4,7 +4,7 @@ title: 'Fazer pitch: repetir é preciso'
 date: 2013-11-01T15:33:43-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6882
+guid: http://21212.com/?p=6882
 permalink: /blog/fazer-pitch-repetir-e-preciso/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <div id="attachment_6883" style="width: 413px" class="wp-caption aligncenter">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/11/fbpostsNEW-selectioncampaign-09.png"><img aria-describedby="caption-attachment-6883" class="size-full wp-image-6883" alt="fbpostsNEW-selectioncampaign-09" src="{{ site.url }}/assets/wp-content/uploads/2013/11/fbpostsNEW-selectioncampaign-09.png" width="403" height="403" srcset="{{ site.url }}/assets/wp-content/uploads/2013/11/fbpostsNEW-selectioncampaign-09.png 403w, {{ site.url }}/assets/wp-content/uploads/2013/11/fbpostsNEW-selectioncampaign-09-150x150.png 150w, {{ site.url }}/assets/wp-content/uploads/2013/11/fbpostsNEW-selectioncampaign-09-300x300.png 300w" sizes="(max-width: 403px) 100vw, 403px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/11/fbpostsNEW-selectioncampaign-09.png"><img aria-describedby="caption-attachment-6883" class="size-full wp-image-6883" alt="fbpostsNEW-selectioncampaign-09" src="{{ site.url }}/assets/wp-content/uploads/2013/11/fbpostsNEW-selectioncampaign-09.png" width="403" height="403" srcset="{{ site.url }}/assets/wp-content/uploads/2013/11/fbpostsNEW-selectioncampaign-09.png 403w, {{ site.url }}/assets/wp-content/uploads/2013/11/fbpostsNEW-selectioncampaign-09-150x150.png 150w, {{ site.url }}/assets/wp-content/uploads/2013/11/fbpostsNEW-selectioncampaign-09-300x300.png 300w" sizes="(max-width: 403px) 100vw, 403px" /></a>
 
   <p id="caption-attachment-6883" class="wp-caption-text">
     Ricardo Moraes, co-fundador do Memed, no Demo Day 2013

@@ -4,7 +4,7 @@ title: Gustavo Loureiro
 date: 2011-08-23T20:48:53-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=600
+guid: http://21212.com/?p=600
 permalink: /people/gustavo-loureiro/
 sharing_disabled:
   - "1"

@@ -4,7 +4,7 @@ title: Cesar Ozaki
 date: 2012-05-03T12:08:44-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1899
+guid: http://21212.com/?p=1899
 permalink: /people/cesar-ozaki/
 cargo:
   - Mentor

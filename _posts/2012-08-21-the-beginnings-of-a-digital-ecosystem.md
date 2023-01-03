@@ -5,7 +5,7 @@ date: 2012-08-21T17:00:43-03:00
 author: "21212"
 excerpt: "Visiting Salvador to work as a mentor and judge in the first edition of a Startup Weekend in the city wasn't exactly the way I imagined returning to Salvador. But besides tourism, having been limited to the bars and a group of dressed up Star Wars fans, the experience was far beyond what I expected!"
 layout: post
-guid: http://local.21212.com/?p=3378
+guid: http://21212.com/?p=3378
 permalink: /blog/the-beginnings-of-a-digital-ecosystem/
 fb_social_plugin_settings_box_comments:
   - default
@@ -24,7 +24,7 @@ categories:
 ---
 Visiting Salvador to work as a mentor and judge in the first edition of a Startup Weekend in the city wasn&#8217;t exactly the way I imagined returning to Salvador.
 
-[<img class="aligncenter size-full wp-image-3408" title="fotos_01" src="{{ site.url }}/assets/wp-content/uploads/2012/08/fotos_01.jpg" alt="" width="520" height="353" srcset="{{ site.url }}/assets/wp-content/uploads/2012/08/fotos_01.jpg 520w, {{ site.url }}/assets/wp-content/uploads/2012/08/fotos_01-300x203.jpg 300w" sizes="(max-width: 520px) 100vw, 520px" />](http://local.21212.com/assets/wp-content/uploads/2012/08/fotos_01.jpg)
+[<img class="aligncenter size-full wp-image-3408" title="fotos_01" src="{{ site.url }}/assets/wp-content/uploads/2012/08/fotos_01.jpg" alt="" width="520" height="353" srcset="{{ site.url }}/assets/wp-content/uploads/2012/08/fotos_01.jpg 520w, {{ site.url }}/assets/wp-content/uploads/2012/08/fotos_01-300x203.jpg 300w" sizes="(max-width: 520px) 100vw, 520px" />](http://21212.com/assets/wp-content/uploads/2012/08/fotos_01.jpg)
 
 <p style="text-align: center;">
   <em>The view at lunchtime</em>
@@ -33,7 +33,7 @@ Visiting Salvador to work as a mentor and judge in the first edition of a Startu
 But besides tourism, having been limited to the bars and a group of dressed up Star Wars fans, the experience was far beyond what I expected!
 
 <p style="text-align: center;">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2012/08/fotos_02.jpg"><img class="aligncenter size-full wp-image-3409" title="Starwars" src="{{ site.url }}/assets/wp-content/uploads/2012/08/fotos_02.jpg" alt="" width="520" height="353" srcset="{{ site.url }}/assets/wp-content/uploads/2012/08/fotos_02.jpg 520w, {{ site.url }}/assets/wp-content/uploads/2012/08/fotos_02-300x203.jpg 300w" sizes="(max-width: 520px) 100vw, 520px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2012/08/fotos_02.jpg"><img class="aligncenter size-full wp-image-3409" title="Starwars" src="{{ site.url }}/assets/wp-content/uploads/2012/08/fotos_02.jpg" alt="" width="520" height="353" srcset="{{ site.url }}/assets/wp-content/uploads/2012/08/fotos_02.jpg 520w, {{ site.url }}/assets/wp-content/uploads/2012/08/fotos_02-300x203.jpg 300w" sizes="(max-width: 520px) 100vw, 520px" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -44,7 +44,7 @@ The 54-hour event began with an auditorium packed with at least 80 people: the e
 
 On Saturday, the primary objectives were to create the business model canvas, validate the hypotheses with real clients and begin creating the prototype.  Sunday was reserved for increasing the traction and preparing the pitch.  This schedule was for those who separated the days.  As with many entrepreneurs, some turned to the night to continue working.
 
-[<img class="aligncenter size-full wp-image-3410" title="54 Hours" src="{{ site.url }}/assets/wp-content/uploads/2012/08/fotos_03.jpg" alt="" width="520" height="353" srcset="{{ site.url }}/assets/wp-content/uploads/2012/08/fotos_03.jpg 520w, {{ site.url }}/assets/wp-content/uploads/2012/08/fotos_03-300x203.jpg 300w" sizes="(max-width: 520px) 100vw, 520px" />](http://local.21212.com/assets/wp-content/uploads/2012/08/fotos_03.jpg)
+[<img class="aligncenter size-full wp-image-3410" title="54 Hours" src="{{ site.url }}/assets/wp-content/uploads/2012/08/fotos_03.jpg" alt="" width="520" height="353" srcset="{{ site.url }}/assets/wp-content/uploads/2012/08/fotos_03.jpg 520w, {{ site.url }}/assets/wp-content/uploads/2012/08/fotos_03-300x203.jpg 300w" sizes="(max-width: 520px) 100vw, 520px" />](http://21212.com/assets/wp-content/uploads/2012/08/fotos_03.jpg)
 
 <p style="text-align: center;">
    <em style="text-align: center;"> 54 hours of <em>continuous </em>learning and working</em>
@@ -62,7 +62,7 @@ It is always exciting to participate in the beginning stages of an entrepreneuri
 
 The other new startups: GameFit, IdealPass, HelpMark, Oceano Indico and Baladai.
 
-[<img class="aligncenter size-full wp-image-3411" title="Criandinha" src="{{ site.url }}/assets/wp-content/uploads/2012/08/fotos_04.jpg" alt="" width="520" height="353" srcset="{{ site.url }}/assets/wp-content/uploads/2012/08/fotos_04.jpg 520w, {{ site.url }}/assets/wp-content/uploads/2012/08/fotos_04-300x203.jpg 300w" sizes="(max-width: 520px) 100vw, 520px" />](http://local.21212.com/assets/wp-content/uploads/2012/08/fotos_04.jpg)
+[<img class="aligncenter size-full wp-image-3411" title="Criandinha" src="{{ site.url }}/assets/wp-content/uploads/2012/08/fotos_04.jpg" alt="" width="520" height="353" srcset="{{ site.url }}/assets/wp-content/uploads/2012/08/fotos_04.jpg 520w, {{ site.url }}/assets/wp-content/uploads/2012/08/fotos_04-300x203.jpg 300w" sizes="(max-width: 520px) 100vw, 520px" />](http://21212.com/assets/wp-content/uploads/2012/08/fotos_04.jpg)
 
 <div style="text-align: center;">
   <em>The winning team, Cirandinha</em>

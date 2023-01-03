@@ -4,7 +4,7 @@ title: RJMetrics
 date: 2011-06-04T12:54:42-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5303
+guid: http://21212.com/?p=5303
 permalink: /partners/rjmetrics/
 fv_video:
   - Paste your YouTube or Vimeo url

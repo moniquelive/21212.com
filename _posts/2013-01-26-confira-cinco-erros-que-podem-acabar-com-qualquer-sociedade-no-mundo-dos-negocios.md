@@ -4,7 +4,7 @@ title: Confira cinco erros que podem acabar com qualquer sociedade no mundo dos 
 date: 2013-01-26T11:28:21-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5293
+guid: http://21212.com/?p=5293
 permalink: /press/confira-cinco-erros-que-podem-acabar-com-qualquer-sociedade-no-mundo-dos-negocios/
 fv_video:
   - Paste your YouTube or Vimeo url

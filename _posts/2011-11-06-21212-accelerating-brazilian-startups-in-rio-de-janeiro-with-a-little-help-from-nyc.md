@@ -4,7 +4,7 @@ title: 21212, accelerating Brazilian startups in Rio de Janeiro with a little he
 date: 2011-11-06T20:15:54-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1508
+guid: http://21212.com/?p=1508
 permalink: /press/21212-accelerating-brazilian-startups-in-rio-de-janeiro-with-a-little-help-from-nyc/
 fv_video:
   - Paste your YouTube or Vimeo url

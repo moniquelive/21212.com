@@ -4,7 +4,7 @@ title: Renato Monteiro
 date: 2012-06-11T16:36:51-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1945
+guid: http://21212.com/?p=1945
 permalink: /people/renato-monteiro/
 cargo:
   - Designer

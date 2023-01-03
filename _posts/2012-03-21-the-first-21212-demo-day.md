@@ -5,7 +5,7 @@ date: 2012-03-21T18:26:35-03:00
 author: "21212"
 excerpt: On March 16th the first 21212 Demo Day took place at Rio’s Jockey Club and we have been overwhelmed by all of the positive feedback!
 layout: post
-guid: http://local.21212.com/?p=1445
+guid: http://21212.com/?p=1445
 permalink: /blog/the-first-21212-demo-day/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -64,7 +64,7 @@ The first graduates of our program:
 
 ● **<a title="Simpply" href="http://www.simpply.com.br" target="_blank">Simpply</a>**: Simplifying direct sales, empowering resellers
 
-● **<a title="Brandship" href="http://local.21212.com/companies/brandship/" target="_blank">Brandship</a>** and **<a title="Helpin" href="http://www.helpin.com.br/in/" target="_blank">Helpin</a>** are also part of the first program, but didn&#8217;t take part of our First Demo Day
+● **<a title="Brandship" href="http://21212.com/companies/brandship/" target="_blank">Brandship</a>** and **<a title="Helpin" href="http://www.helpin.com.br/in/" target="_blank">Helpin</a>** are also part of the first program, but didn&#8217;t take part of our First Demo Day
 
 We are excited to announce that <a title="Pagpop" href="http://www.pagpop.com.br" target="_blank">PagPop</a> received ‘Best Presentation’ by <a title="Silicon Valley Bank" href="http://www.svb.com" target="_blank">Silicon Valley Bank (SVB)</a> and will be awarded a trip to Silicon Valley for meetings with investment funds and large companies in the digital space!
 
@@ -103,6 +103,6 @@ If you are interested to be a sponsor supporting our next Demo Day, please **<a 
 
 &nbsp;
 
-Make sure to keep visiting our <a title="21212" href="http://local.21212.com" target="_blank">website</a> and Blog to stay up to date with the latest information!  Follow us on <a title="Twitter" href="https://twitter.com/#!/21212com" target="_blank">Twitter</a>!  For  Demo Day news and updates: **<a title="#21212dd" href="https://twitter.com/#!/search/%2321212dd" target="_blank">#21212dd</a>**.
+Make sure to keep visiting our <a title="21212" href="http://21212.com" target="_blank">website</a> and Blog to stay up to date with the latest information!  Follow us on <a title="Twitter" href="https://twitter.com/#!/21212com" target="_blank">Twitter</a>!  For  Demo Day news and updates: **<a title="#21212dd" href="https://twitter.com/#!/search/%2321212dd" target="_blank">#21212dd</a>**.
 
 **21212 Team**

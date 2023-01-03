@@ -4,7 +4,7 @@ title: Announcing our new partnership with LoginRadius!
 date: 2013-06-14T16:25:23-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6156
+guid: http://21212.com/?p=6156
 permalink: /blog/announcing-our-new-partnership-with-loginradius/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p dir="ltr" style="text-align: center;">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/06/loginraiusmain.jpg"><img class=" wp-image-6201 aligncenter" alt="loginraiusmain" src="{{ site.url }}/assets/wp-content/uploads/2013/06/loginraiusmain-1024x335.jpg" width="574" height="187" srcset="{{ site.url }}/assets/wp-content/uploads/2013/06/loginraiusmain-1024x335.jpg 1024w, {{ site.url }}/assets/wp-content/uploads/2013/06/loginraiusmain-300x98.jpg 300w" sizes="(max-width: 574px) 100vw, 574px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/06/loginraiusmain.jpg"><img class=" wp-image-6201 aligncenter" alt="loginraiusmain" src="{{ site.url }}/assets/wp-content/uploads/2013/06/loginraiusmain-1024x335.jpg" width="574" height="187" srcset="{{ site.url }}/assets/wp-content/uploads/2013/06/loginraiusmain-1024x335.jpg 1024w, {{ site.url }}/assets/wp-content/uploads/2013/06/loginraiusmain-300x98.jpg 300w" sizes="(max-width: 574px) 100vw, 574px" /></a>
 </p>
 
 LoginRadius has integrated over 20 different social media networks, allowing clients to login to websites through their social media accounts. According to LoginRadius, 54% of users leave a website if they are asked to fill out a registration form. Enabling logins through social media not only reduces this percentage, but also increases the time users spend on a website and decreases spammers.

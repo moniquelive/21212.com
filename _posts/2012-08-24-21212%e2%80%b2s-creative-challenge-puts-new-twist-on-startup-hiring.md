@@ -4,7 +4,7 @@ title: 21212′s Creative Challenge Puts New Twist on Startup Hiring
 date: 2012-08-24T17:44:39-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=3446
+guid: http://21212.com/?p=3446
 permalink: '/press/21212%e2%80%b2s-creative-challenge-puts-new-twist-on-startup-hiring/'
 fb_social_plugin_settings_box_comments:
   - default

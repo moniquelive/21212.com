@@ -4,7 +4,7 @@ title: 'Resumo &#8211; Introdução do Programa de Aceleração 21212'
 date: 2011-09-13T18:37:33-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=624
+guid: http://21212.com/?p=624
 permalink: /blog/resumo-introducao-do-programa-de-aceleracao-21212/
 transposh_can_translate:
   - 'true'

@@ -4,7 +4,7 @@ title: Check out the 21212 Investor Day in Rio
 date: 2014-07-18T17:04:18-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=7395
+guid: http://21212.com/?p=7395
 permalink: /blog/check-out-the-21212-investor-day-in-rio/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -77,7 +77,7 @@ We invite you to contact us about getting involved in 21212 in any of the follow
 
 &#8211; If you are interested in investing in our companies or 21212 Investment Circle, please contact investors@21212.com;
 
-&#8211; If you belive your company can get advantage of our acceleration program, please <a title="21212 Application" href="http://local.21212.com/apply" target="_blank">apply to our Acceleration Program</a>. Applications are open and we will continue to accept startup applications year round;
+&#8211; If you belive your company can get advantage of our acceleration program, please <a title="21212 Application" href="http://21212.com/apply" target="_blank">apply to our Acceleration Program</a>. Applications are open and we will continue to accept startup applications year round;
 
 &#8211; If you would like to sponsor our next Demo Day, please reach out to us at events@21212.com.
 

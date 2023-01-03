@@ -4,7 +4,7 @@ title: O que há por trás da 21212
 date: 2015-01-19T21:55:27-03:00
 author: Frederico Lacerda
 layout: post
-guid: http://local.21212.com/?p=7373
+guid: http://21212.com/?p=7373
 permalink: /blog/o-que-ha-por-tras-da-21212/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -20,7 +20,7 @@ categories:
 ---
 <a title="English version" href="https://translate.google.com/translate?sl=pt&tl=en&js=y&prev=_t&hl=pt-BR&ie=UTF-8&u=http%3A%2F%2F21212.com%2Fblog%2Fo-que-ha-por-tras-da-21212%2F&edit-text=" target="_blank">[click here to translate this post to English]</a>
 
-Sabemos que a maior parte das pessoas já conhece o conceito de aceleradora de startups e os benefícios atrelados ao mesmo (se você não sabe, <a title="About 21212" href="http://local.21212.com/about" target="_blank">clique aqui e aprenda mais</a>). Estamos muito satisfeitos com os resultados que alcançamos até hoje, como pode ser visto pelo reconhecimento do mercado (como o de “Melhor Aceleradora do Ano na América Latina”, pela The Next Web em 2013), da <a title="21212 Press" href="http://local.21212.com/press/" target="_blank">mídia</a>, ou das nossas próprias empresas de portfolio, que seguem crescendo e se consolidando na liderança em seus mercados. Mas como bons empreendedores, não estamos nunca satisfeitos e achamos que podemos ir muito mais longe. Por isso, gostaríamos de compartilhar um pouco daquilo que está por trás da 21212 que acreditamos ser realmente relevante.
+Sabemos que a maior parte das pessoas já conhece o conceito de aceleradora de startups e os benefícios atrelados ao mesmo (se você não sabe, <a title="About 21212" href="http://21212.com/about" target="_blank">clique aqui e aprenda mais</a>). Estamos muito satisfeitos com os resultados que alcançamos até hoje, como pode ser visto pelo reconhecimento do mercado (como o de “Melhor Aceleradora do Ano na América Latina”, pela The Next Web em 2013), da <a title="21212 Press" href="http://21212.com/press/" target="_blank">mídia</a>, ou das nossas próprias empresas de portfolio, que seguem crescendo e se consolidando na liderança em seus mercados. Mas como bons empreendedores, não estamos nunca satisfeitos e achamos que podemos ir muito mais longe. Por isso, gostaríamos de compartilhar um pouco daquilo que está por trás da 21212 que acreditamos ser realmente relevante.
 
 <div id="attachment_7376" style="width: 550px" class="wp-caption aligncenter">
   <img aria-describedby="caption-attachment-7376" class="wp-image-7376 size-full" src="{{ site.url }}/assets/wp-content/uploads/2014/07/1275352_663369603686751_175477686_o-1-e1405436408732.jpg" alt="1275352_663369603686751_175477686_o (1)" width="540" height="286" />
@@ -52,7 +52,7 @@ Acreditamos fortemente que uma das principais qualidades que uma equipe de uma a
 
 Em adição ao track record, um outro fator importante dos fundadores é o expertise operacional &#8211; o quanto possuímos de experiência com a execução de negócios no Brasil e fora, nas diferentes áreas que fazem a diferença para acelerar negócios digitais. Além da experiência óbvia dos empreendedores acima em seus próprios negócios, exemplos importantes na 21212 são os dos sócios-fundadores Frederico Lacerda (foco: gestão e seleção), com a experiência internacional com consultoria estratégica na Accenture, incluindo a realização de Fusões & Aquisições, e Jeff Levinsohn (foco: fundraising), advogado americano com muita experiência em fundraising no Vale do Silício (na Gunderson Dettmer) e em business development em startups latino-americanas (como a Vostu). A 21212 também possui sócios-investidores, que apesar de não serem 100% dedicados às startups, atuam como mentores e conectores, adicionando, portanto, muito valor com suas experiências em diferentes mercados, inclusive de Venture Capital e Private Equity.
 
-A 21212 também conta com a experiência de um time senior que trabalha full time junto às startups, com Addison Sears-Collins (foco: Financeiro), Antonio Amaral (foco: fundraising e portfolio management), Luciana Vicente (foco: programa e product development), Luigi Pizzichemi (foco: business development) e Natalie Witte (foco: jurídico), além de estagiários brasileiros e internacionais que se envolvem em atividades corporativas da 21212 ou trabalham junto ao time senior no apoio às startups. Conheça o rostinho de todos nós em http://local.21212.com/people/.
+A 21212 também conta com a experiência de um time senior que trabalha full time junto às startups, com Addison Sears-Collins (foco: Financeiro), Antonio Amaral (foco: fundraising e portfolio management), Luciana Vicente (foco: programa e product development), Luigi Pizzichemi (foco: business development) e Natalie Witte (foco: jurídico), além de estagiários brasileiros e internacionais que se envolvem em atividades corporativas da 21212 ou trabalham junto ao time senior no apoio às startups. Conheça o rostinho de todos nós em http://21212.com/people/.
 
 &nbsp;
 
@@ -100,6 +100,6 @@ Se sua startup atende a todos estes itens, as chances de obtermos grandes result
 
 MAIS SOBRE A 21212
 
-Bom, quem quiser ler mais sobre a 21212 pode acompanhar os nossos canais nas redes sociais (Facebook, Twitter, Linkedin e Google+), acessar a biblioteca de vídeos publicados e assistir às sessões de Hangout (<a title="21212_Hangout1" href="https://www.youtube.com/watch?v=qtUWC-Y4NXk" target="_blank">21212+Startup Brasil</a> e <a title="Bate-Papo com Startups 21212" href="https://www.youtube.com/watch?v=z_D5pdwn2I8" target="_blank">21212+Cases de Aceleração</a>). Caso você acredite que deve trabalhar com a 21212, não perca tempo e se inscreva logo no <a title="Processo Seletivo" href="http://local.21212.com/apply" target="_blank">nosso processo seletivo</a>. Estamos ansiosos também para conhece-lo!
+Bom, quem quiser ler mais sobre a 21212 pode acompanhar os nossos canais nas redes sociais (Facebook, Twitter, Linkedin e Google+), acessar a biblioteca de vídeos publicados e assistir às sessões de Hangout (<a title="21212_Hangout1" href="https://www.youtube.com/watch?v=qtUWC-Y4NXk" target="_blank">21212+Startup Brasil</a> e <a title="Bate-Papo com Startups 21212" href="https://www.youtube.com/watch?v=z_D5pdwn2I8" target="_blank">21212+Cases de Aceleração</a>). Caso você acredite que deve trabalhar com a 21212, não perca tempo e se inscreva logo no <a title="Processo Seletivo" href="http://21212.com/apply" target="_blank">nosso processo seletivo</a>. Estamos ansiosos também para conhece-lo!
 
 &nbsp;

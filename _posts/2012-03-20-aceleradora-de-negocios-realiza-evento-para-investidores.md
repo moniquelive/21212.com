@@ -4,7 +4,7 @@ title: Aceleradora de negócios realiza evento para investidores
 date: 2012-03-20T12:00:32-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1556
+guid: http://21212.com/?p=1556
 permalink: /press/aceleradora-de-negocios-realiza-evento-para-investidores/
 fv_video:
   - Paste your YouTube or Vimeo url

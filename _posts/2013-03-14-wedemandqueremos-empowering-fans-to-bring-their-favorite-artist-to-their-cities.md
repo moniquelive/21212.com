@@ -4,7 +4,7 @@ title: 'WeDemand!/Queremos! &#8212; Empowering fans to bring their favorite arti
 date: 2013-03-14T17:18:11-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5608
+guid: http://21212.com/?p=5608
 permalink: /blog/wedemandqueremos-empowering-fans-to-bring-their-favorite-artist-to-their-cities/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -20,7 +20,7 @@ categories:
   - com-thumb
 ---
 <div id="attachment_5617" style="width: 522px" class="wp-caption aligncenter">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/03/6977196777_6bb879835e_z.jpg"><img aria-describedby="caption-attachment-5617" class=" wp-image-5617 " alt="6977196777_6bb879835e_z" src="{{ site.url }}/assets/wp-content/uploads/2013/03/6977196777_6bb879835e_z.jpg" width="512" height="340" srcset="{{ site.url }}/assets/wp-content/uploads/2013/03/6977196777_6bb879835e_z.jpg 640w, {{ site.url }}/assets/wp-content/uploads/2013/03/6977196777_6bb879835e_z-300x199.jpg 300w" sizes="(max-width: 512px) 100vw, 512px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/03/6977196777_6bb879835e_z.jpg"><img aria-describedby="caption-attachment-5617" class=" wp-image-5617 " alt="6977196777_6bb879835e_z" src="{{ site.url }}/assets/wp-content/uploads/2013/03/6977196777_6bb879835e_z.jpg" width="512" height="340" srcset="{{ site.url }}/assets/wp-content/uploads/2013/03/6977196777_6bb879835e_z.jpg 640w, {{ site.url }}/assets/wp-content/uploads/2013/03/6977196777_6bb879835e_z-300x199.jpg 300w" sizes="(max-width: 512px) 100vw, 512px" /></a>
 
   <p id="caption-attachment-5617" class="wp-caption-text">
     Fans at a Mayer Hawthorne concert
@@ -30,7 +30,7 @@ categories:
 A few years ago, it was hard to see international, independent bands touring in Rio. A group of friends who shared a passion for music saw this problem and set out to fix it. They formed [Queremos!](http://www.queremos.com.br/) and participated in 21212’s second acceleration program. Two and a half years after their launch, we are blown away with their success. They have brought bands like Two Door Cinema Club, Feist, Miike Snow and LCD Soundsystem to Brazil, empowering fans and elevating the independent music industry.
 
 <div id="attachment_5613" style="width: 216px" class="wp-caption alignleft">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/03/6962690185_c8aa381716_c.jpg"><img aria-describedby="caption-attachment-5613" class="wp-image-5613     " alt="Miami Horror performing in Brazil " src="{{ site.url }}/assets/wp-content/uploads/2013/03/6962690185_c8aa381716_c.jpg" width="206" height="311" srcset="{{ site.url }}/assets/wp-content/uploads/2013/03/6962690185_c8aa381716_c.jpg 531w, {{ site.url }}/assets/wp-content/uploads/2013/03/6962690185_c8aa381716_c-199x300.jpg 199w" sizes="(max-width: 206px) 100vw, 206px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/03/6962690185_c8aa381716_c.jpg"><img aria-describedby="caption-attachment-5613" class="wp-image-5613     " alt="Miami Horror performing in Brazil " src="{{ site.url }}/assets/wp-content/uploads/2013/03/6962690185_c8aa381716_c.jpg" width="206" height="311" srcset="{{ site.url }}/assets/wp-content/uploads/2013/03/6962690185_c8aa381716_c.jpg 531w, {{ site.url }}/assets/wp-content/uploads/2013/03/6962690185_c8aa381716_c-199x300.jpg 199w" sizes="(max-width: 206px) 100vw, 206px" /></a>
 
   <p id="caption-attachment-5613" class="wp-caption-text">
     Miami Horror performing in Brazil

@@ -4,7 +4,7 @@ title: SurveyMonkey
 date: 2011-12-04T14:00:33-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=3111
+guid: http://21212.com/?p=3111
 permalink: /partners/surveymonkey/
 fv_video:
   - Paste your YouTube or Vimeo url

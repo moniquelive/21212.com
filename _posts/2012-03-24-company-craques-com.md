@@ -4,7 +4,7 @@ title: Craques.com
 date: 2012-03-24T12:55:13-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1661
+guid: http://21212.com/?p=1661
 permalink: /investment/company-craques-com/
 bt-demoday-deck:
   - http://c12091704.r4.cf2.rackcdn.com/1-2012/Deck/Craques.ppsx

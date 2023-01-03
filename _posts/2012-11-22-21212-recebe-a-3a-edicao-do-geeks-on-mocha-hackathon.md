@@ -5,7 +5,7 @@ date: 2012-11-22T13:01:49-03:00
 author: "21212"
 excerpt: A maratona de programação traz 40 hackers com o objetivo de desenvolver games em 24 horas.
 layout: post
-guid: http://local.21212.com/?p=4359
+guid: http://21212.com/?p=4359
 permalink: /blog/21212-recebe-a-3a-edicao-do-geeks-on-mocha-hackathon/
 fv_video:
   - Paste your YouTube or Vimeo url

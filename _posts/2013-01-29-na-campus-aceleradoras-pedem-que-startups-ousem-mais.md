@@ -4,7 +4,7 @@ title: Na Campus, aceleradoras pedem que startups ousem mais
 date: 2013-01-29T20:05:08-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5383
+guid: http://21212.com/?p=5383
 permalink: /press/na-campus-aceleradoras-pedem-que-startups-ousem-mais/
 fv_video:
   - Paste your YouTube or Vimeo url

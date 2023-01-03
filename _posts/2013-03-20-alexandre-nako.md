@@ -4,7 +4,7 @@ title: Alexandre Nako
 date: 2013-03-20T22:03:41-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5767
+guid: http://21212.com/?p=5767
 permalink: /people/alexandre-nako/
 fv_video:
   - Paste your YouTube or Vimeo url

@@ -4,7 +4,7 @@ title: 'Módulo: Business Model Generation'
 date: 2011-09-21T18:22:34-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=640
+guid: http://21212.com/?p=640
 permalink: /blog/modulo-business-model-generation/
 transposh_can_translate:
   - 'true'

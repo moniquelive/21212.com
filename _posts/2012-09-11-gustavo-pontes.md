@@ -4,7 +4,7 @@ title: Gustavo Pontes
 date: 2012-09-11T15:12:18-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=3648
+guid: http://21212.com/?p=3648
 permalink: /people/gustavo-pontes/
 fb_social_plugin_settings_box_comments:
   - default

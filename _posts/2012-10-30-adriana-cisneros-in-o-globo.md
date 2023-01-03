@@ -4,7 +4,7 @@ title: Adriana Cisneros in O Globo
 date: 2012-10-30T16:19:22-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4249
+guid: http://21212.com/?p=4249
 permalink: /blog/adriana-cisneros-in-o-globo/
 fb_social_plugin_settings_box_comments:
   - default

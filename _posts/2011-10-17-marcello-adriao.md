@@ -4,7 +4,7 @@ title: Marcello Adrião
 date: 2011-10-17T14:37:03-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=728
+guid: http://21212.com/?p=728
 permalink: /people/marcello-adriao/
 sharing_disabled:
   - "1"

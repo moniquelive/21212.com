@@ -4,7 +4,7 @@ title: 'RJ: Empresas do setor digital se concentram no bairro de Botafogo'
 date: 2013-01-15T21:59:01-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5086
+guid: http://21212.com/?p=5086
 permalink: /press/rj-empresas-do-setor-digital-se-concentram-no-bairro-de-botafogo/
 fv_video:
   - Paste your YouTube or Vimeo url

@@ -5,7 +5,7 @@ date: 2012-11-19T18:17:25-03:00
 author: "21212"
 excerpt: To help show off Brazil’s rapid development in the area of entrepreneurship, RJTV came to our office to hear more about us and our great entrepreneurs!
 layout: post
-guid: http://local.21212.com/?p=4298
+guid: http://21212.com/?p=4298
 permalink: /blog/21212-on-globo-tv-during-the-global-entrepreneurship-week/
 fb_social_plugin_settings_box_comments:
   - default

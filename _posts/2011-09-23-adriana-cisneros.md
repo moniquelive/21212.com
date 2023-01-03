@@ -4,7 +4,7 @@ title: Adriana Cisneros
 date: 2011-09-23T00:14:46-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=669
+guid: http://21212.com/?p=669
 permalink: /people/adriana-cisneros/
 sharing_disabled:
   - "1"

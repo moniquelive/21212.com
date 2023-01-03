@@ -4,7 +4,7 @@ title: Aceleradas
 date: 2012-10-17T20:00:55-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4153
+guid: http://21212.com/?p=4153
 permalink: /press/aceleradas-2/
 fb_social_plugin_settings_box_comments:
   - default

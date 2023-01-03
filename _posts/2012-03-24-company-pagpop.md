@@ -4,7 +4,7 @@ title: Pagpop
 date: 2012-03-24T13:11:34-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1673
+guid: http://21212.com/?p=1673
 permalink: /investment/company-pagpop/
 video-pitch:
   - '<iframe src="{{ site.url }}http://player.vimeo.com/video/38884425?title=0&byline=0&portrait=0" width="620" height="349" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>'

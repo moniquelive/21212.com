@@ -4,7 +4,7 @@ title: ResolveAí
 date: 2012-03-24T13:26:33-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1679
+guid: http://21212.com/?p=1679
 permalink: /investment/company-resolveai/
 bt-company-summary:
   - http://dd.21212.com/assets/resolve_ai.pdf

@@ -5,7 +5,7 @@ date: 2011-11-21T16:31:00-03:00
 author: "21212"
 excerpt: We are so happy to introduce you to our new interns, who will be supporting our Acceleration Program with their creative and innovative minds!
 layout: post
-guid: http://local.21212.com/?p=974
+guid: http://21212.com/?p=974
 permalink: /blog/meet-our-new-interns/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -36,15 +36,15 @@ We are so happy to introduce you to our new interns, who will be supporting our 
 
 <img class="aligncenter" src="{{ site.url }}/assets/wp-content/uploads/2011/11/marcus.jpg" alt="" width="250" height="250" />
 
-**Marcus Ribeiro** is our new business intern. Read more about him [here](http://local.21212.com/team/marcus-ribeiro/ "Marcus Ribeiro").
+**Marcus Ribeiro** is our new business intern. Read more about him [here](http://21212.com/team/marcus-ribeiro/ "Marcus Ribeiro").
 
 <img class="aligncenter size-full wp-image-948" src="{{ site.url }}/assets/wp-content/uploads/2011/11/avatar.jpg" alt="" width="250" height="250" srcset="{{ site.url }}/assets/wp-content/uploads/2011/11/avatar.jpg 250w, {{ site.url }}/assets/wp-content/uploads/2011/11/avatar-150x150.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />
 
-**Rodrigo Martins** is our new design intern. Read more about him [here](http://local.21212.com/team/rodrigo-martins/ "Rodrigo Martins").
+**Rodrigo Martins** is our new design intern. Read more about him [here](http://21212.com/team/rodrigo-martins/ "Rodrigo Martins").
 
 <img class="aligncenter size-full wp-image-933" src="{{ site.url }}/assets/wp-content/uploads/2011/11/ana-silveira.jpg" alt="" width="250" height="250" srcset="{{ site.url }}/assets/wp-content/uploads/2011/11/ana-silveira.jpg 250w, {{ site.url }}/assets/wp-content/uploads/2011/11/ana-silveira-150x150.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />
 
-**Ana Silveira** is our new design intern. Read more about her [here](http://local.21212.com/team/ana-silveira/ "Ana Silveira").
+**Ana Silveira** is our new design intern. Read more about her [here](http://21212.com/team/ana-silveira/ "Ana Silveira").
 
 &nbsp;
 

@@ -4,7 +4,7 @@ title: A Successful 21212 Investor Day in São Paulo!
 date: 2013-07-02T15:51:59-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6237
+guid: http://21212.com/?p=6237
 permalink: /blog/a-successful-21212-investor-day-in-sao-paulo/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -20,7 +20,7 @@ categories:
   - com-thumb
 ---
 <p dir="ltr" style="text-align: center;">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/07/mainID.jpg"><img class="size-full wp-image-6287 aligncenter" alt="mainID" src="{{ site.url }}/assets/wp-content/uploads/2013/07/mainID.jpg" width="540" height="300" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/mainID.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/07/mainID-300x166.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/07/mainID.jpg"><img class="size-full wp-image-6287 aligncenter" alt="mainID" src="{{ site.url }}/assets/wp-content/uploads/2013/07/mainID.jpg" width="540" height="300" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/mainID.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/07/mainID-300x166.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
 </p>
 
 <p dir="ltr">
@@ -49,10 +49,10 @@ The event was held at Insper (Institution of Education and Research). It commenc
 
 Three of our 21212 founders, Benjamin White, Marcelo Sales and Frederico Lacerda, took the stage to welcome everyone and explain how our Investor Day is a critical moment for startups to gain exposure, hear new insight and discuss future funding possibilities. Following this, Natalie Witte gave an overview of the legal aspects of investing in startups, providing valuable information about convertible notes for investors looking to fund 21212 startups.
 
-[<img class="alignnone size-full wp-image-6307" alt="IDcollage" src="{{ site.url }}/assets/wp-content/uploads/2013/07/IDcollage.jpg" width="530" height="143" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/IDcollage.jpg 530w, {{ site.url }}/assets/wp-content/uploads/2013/07/IDcollage-300x80.jpg 300w" sizes="(max-width: 530px) 100vw, 530px" />](http://local.21212.com/assets/wp-content/uploads/2013/07/IDcollage.jpg)
+[<img class="alignnone size-full wp-image-6307" alt="IDcollage" src="{{ site.url }}/assets/wp-content/uploads/2013/07/IDcollage.jpg" width="530" height="143" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/IDcollage.jpg 530w, {{ site.url }}/assets/wp-content/uploads/2013/07/IDcollage-300x80.jpg 300w" sizes="(max-width: 530px) 100vw, 530px" />](http://21212.com/assets/wp-content/uploads/2013/07/IDcollage.jpg)
 
 <div id="attachment_6253" style="width: 180px" class="wp-caption alignright">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/06/J9H3503.jpg"><img aria-describedby="caption-attachment-6253" class="wp-image-6253  " alt="_J9H3503" src="{{ site.url }}/assets/wp-content/uploads/2013/06/J9H3503-300x200.jpg" width="170" height="113" srcset="{{ site.url }}/assets/wp-content/uploads/2013/06/J9H3503-300x200.jpg 300w, {{ site.url }}/assets/wp-content/uploads/2013/06/J9H3503.jpg 1024w" sizes="(max-width: 170px) 100vw, 170px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/06/J9H3503.jpg"><img aria-describedby="caption-attachment-6253" class="wp-image-6253  " alt="_J9H3503" src="{{ site.url }}/assets/wp-content/uploads/2013/06/J9H3503-300x200.jpg" width="170" height="113" srcset="{{ site.url }}/assets/wp-content/uploads/2013/06/J9H3503-300x200.jpg 300w, {{ site.url }}/assets/wp-content/uploads/2013/06/J9H3503.jpg 1024w" sizes="(max-width: 170px) 100vw, 170px" /></a>
 
   <p id="caption-attachment-6253" class="wp-caption-text">
     Arthur pitching for Estoks
@@ -64,11 +64,11 @@ Three of our 21212 founders, Benjamin White, Marcelo Sales and Frederico Lacerd
 </p>
 
 <p style="text-align: center;">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/07/sponsors-ID.jpg"><img class="wp-image-6315 aligncenter" alt="sponsors-ID" src="{{ site.url }}/assets/wp-content/uploads/2013/07/sponsors-ID-300x176.jpg" width="243" height="142" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/sponsors-ID-300x176.jpg 300w, {{ site.url }}/assets/wp-content/uploads/2013/07/sponsors-ID.jpg 510w" sizes="(max-width: 243px) 100vw, 243px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/07/sponsors-ID.jpg"><img class="wp-image-6315 aligncenter" alt="sponsors-ID" src="{{ site.url }}/assets/wp-content/uploads/2013/07/sponsors-ID-300x176.jpg" width="243" height="142" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/sponsors-ID-300x176.jpg 300w, {{ site.url }}/assets/wp-content/uploads/2013/07/sponsors-ID.jpg 510w" sizes="(max-width: 243px) 100vw, 243px" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/07/IDcollage2.jpg"><img class="size-full wp-image-6309 aligncenter" alt="IDcollage2" src="{{ site.url }}/assets/wp-content/uploads/2013/07/IDcollage2.jpg" width="530" height="143" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/IDcollage2.jpg 530w, {{ site.url }}/assets/wp-content/uploads/2013/07/IDcollage2-300x80.jpg 300w" sizes="(max-width: 530px) 100vw, 530px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/07/IDcollage2.jpg"><img class="size-full wp-image-6309 aligncenter" alt="IDcollage2" src="{{ site.url }}/assets/wp-content/uploads/2013/07/IDcollage2.jpg" width="530" height="143" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/IDcollage2.jpg 530w, {{ site.url }}/assets/wp-content/uploads/2013/07/IDcollage2-300x80.jpg 300w" sizes="(max-width: 530px) 100vw, 530px" /></a>
 </p>
 
 After the pitches, everyone gathered together in the reception to mingle and talk further. Thanks everyone who made it out and we look forward to seeing you at our Demo Day this October![

@@ -5,7 +5,7 @@ date: 2012-11-23T20:08:43-03:00
 author: "21212"
 excerpt: On October 19th 2012 we were very proud to host our second Demo Day! The energy was amazing and we had great presentations during the event.
 layout: post
-guid: http://local.21212.com/?p=4375
+guid: http://21212.com/?p=4375
 permalink: /blog/a-little-bit-of-our-second-demo-day-queremos-zeropaper/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -18,7 +18,7 @@ categories:
   - Blog
   - com-thumb
 ---
-On October 19th 2012 we were very proud to host [our second Demo Day](http://local.21212.com/blog/the-2nd-demo-day/)! The energy was amazing and we had great presentations during the event. Unfortunately, we could not open the event for everyone and we know that not everyone had the chance to watch it on Livestream.
+On October 19th 2012 we were very proud to host [our second Demo Day](http://21212.com/blog/the-2nd-demo-day/)! The energy was amazing and we had great presentations during the event. Unfortunately, we could not open the event for everyone and we know that not everyone had the chance to watch it on Livestream.
 
 For this reason, we want to share with you the videos of our companies pitching during the event.
 

@@ -4,7 +4,7 @@ title: Henrik Werdelin
 date: 2011-08-05T00:30:30-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=499
+guid: http://21212.com/?p=499
 permalink: /people/henrik-werdelin/
 sharing_disabled:
   - "1"

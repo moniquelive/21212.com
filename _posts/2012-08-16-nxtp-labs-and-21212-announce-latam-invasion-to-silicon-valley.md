@@ -4,7 +4,7 @@ title: NXTP Labs and 21212 Announce Latam Invasion to Silicon Valley
 date: 2012-08-16T12:24:50-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=3358
+guid: http://21212.com/?p=3358
 permalink: /press/nxtp-labs-and-21212-announce-latam-invasion-to-silicon-valley/
 fb_social_plugin_settings_box_comments:
   - default

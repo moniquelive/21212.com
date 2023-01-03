@@ -5,7 +5,7 @@ date: 2012-08-24T14:45:53-03:00
 author: "21212"
 excerpt: Startup World, the global competition to find the next Facebook or Google is coming to Rio De Janeiro this Sunday 26 August from 6 PM to 10 PM.
 layout: post
-guid: http://local.21212.com/?p=3423
+guid: http://21212.com/?p=3423
 permalink: /blog/startup-world-coming-to-rio-de-janeiro/
 fb_social_plugin_settings_box_comments:
   - default
@@ -30,7 +30,7 @@ The event is hosted by The Next Web&#8217;s [Hermione Way](https://twitter.com/h
 
 The Startup World initiative promotes entrepreneurship and startup culture globally and gives entrepreneurs the chance to pitch their startup forinternational media on The Next Web, which has about 8million readers worldwide.
 
-Partners for Startup World Rio are <a title="Peixe Urbano" href="http://www.peixeurbano.com.br/home/SobreNos" target="_blank">Peixe Urbano</a> and <a title="21212" href="http://local.21212.com/" target="_blank">21212 Digital Accelerator</a> and will be hosted by Peixe Urbano.
+Partners for Startup World Rio are <a title="Peixe Urbano" href="http://www.peixeurbano.com.br/home/SobreNos" target="_blank">Peixe Urbano</a> and <a title="21212" href="http://21212.com/" target="_blank">21212 Digital Accelerator</a> and will be hosted by Peixe Urbano.
 
 Some of the startups accelerated by 21212 are semi-finalists:  [WeGoOut](http://www.wegoout.com/), [PagPop](http://www.pagpop.com.br/), [Igluu](http://www.igluu.com.br/#!/home), [Zona Universitaria](http://www.zonauniversitaria.com.br/), and [ResolveAí](http://www.resolveai.com.br/).  Good luck to all of them!
 

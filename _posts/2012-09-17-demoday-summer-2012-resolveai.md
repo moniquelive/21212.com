@@ -4,7 +4,7 @@ title: 'DemoDay Summer 2012 &#8211; ResolveAi'
 date: 2012-09-17T19:17:48-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=3835
+guid: http://21212.com/?p=3835
 permalink: /videos/demoday-summer-2012-resolveai/
 fb_social_plugin_settings_box_comments:
   - default

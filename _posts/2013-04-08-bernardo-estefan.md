@@ -4,7 +4,7 @@ title: Bernardo Estefan
 date: 2013-04-08T18:30:21-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5846
+guid: http://21212.com/?p=5846
 permalink: /people/bernardo-estefan/
 fv_video:
   - Paste your YouTube or Vimeo url

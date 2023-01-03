@@ -4,7 +4,7 @@ title: Converse com a 21212 sobre o Start-Up Brasil!
 date: 2013-10-28T16:32:11-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6837
+guid: http://21212.com/?p=6837
 permalink: /blog/converse-com-a-21212-sobre-o-start-up-brasil/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -18,11 +18,11 @@ categories:
   - com-thumb
 ---
 <p dir="ltr">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/10/headernews-startbr-fb22222.jpg"><img class="aligncenter size-full wp-image-6839" alt="headernews-startbr-fb22222" src="{{ site.url }}/assets/wp-content/uploads/2013/10/headernews-startbr-fb22222.jpg" width="403" height="404" srcset="{{ site.url }}/assets/wp-content/uploads/2013/10/headernews-startbr-fb22222.jpg 403w, {{ site.url }}/assets/wp-content/uploads/2013/10/headernews-startbr-fb22222-150x150.jpg 150w, {{ site.url }}/assets/wp-content/uploads/2013/10/headernews-startbr-fb22222-300x300.jpg 300w" sizes="(max-width: 403px) 100vw, 403px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/10/headernews-startbr-fb22222.jpg"><img class="aligncenter size-full wp-image-6839" alt="headernews-startbr-fb22222" src="{{ site.url }}/assets/wp-content/uploads/2013/10/headernews-startbr-fb22222.jpg" width="403" height="404" srcset="{{ site.url }}/assets/wp-content/uploads/2013/10/headernews-startbr-fb22222.jpg 403w, {{ site.url }}/assets/wp-content/uploads/2013/10/headernews-startbr-fb22222-150x150.jpg 150w, {{ site.url }}/assets/wp-content/uploads/2013/10/headernews-startbr-fb22222-300x300.jpg 300w" sizes="(max-width: 403px) 100vw, 403px" /></a>
 </p>
 
 <p dir="ltr">
-  No dia 4 de Novembro, próxima segunda-feira, a <a href="http://local.21212.com/">21212</a> vai fazer uma conversa aberta via Hangout com os empreendedores interessados no programa de aceleração em conjunto com o <a href="http://startupbrasil.mcti.gov.br/">Start-Up Brasil</a>. Um dos fundadores da 21212, Rafael Duton, fará uma rápida apresentação e responderá dúvidas enviadas ao vivo pelos participantes.
+  No dia 4 de Novembro, próxima segunda-feira, a <a href="http://21212.com/">21212</a> vai fazer uma conversa aberta via Hangout com os empreendedores interessados no programa de aceleração em conjunto com o <a href="http://startupbrasil.mcti.gov.br/">Start-Up Brasil</a>. Um dos fundadores da 21212, Rafael Duton, fará uma rápida apresentação e responderá dúvidas enviadas ao vivo pelos participantes.
 </p>
 
 <p dir="ltr">

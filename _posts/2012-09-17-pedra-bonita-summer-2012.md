@@ -4,7 +4,7 @@ title: 'Pedra Bonita &#8211; Summer 2012'
 date: 2012-09-17T19:10:37-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=3820
+guid: http://21212.com/?p=3820
 permalink: /videos/pedra-bonita-summer-2012/
 fb_social_plugin_settings_box_comments:
   - default

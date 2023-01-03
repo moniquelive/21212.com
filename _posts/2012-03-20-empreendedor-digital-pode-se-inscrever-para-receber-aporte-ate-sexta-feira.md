@@ -4,7 +4,7 @@ title: Empreendedor digital pode se inscrever para receber aporte até sexta-fei
 date: 2012-03-20T08:52:15-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1568
+guid: http://21212.com/?p=1568
 permalink: /press/empreendedor-digital-pode-se-inscrever-para-receber-aporte-ate-sexta-feira/
 fv_video:
   - Paste your YouTube or Vimeo url

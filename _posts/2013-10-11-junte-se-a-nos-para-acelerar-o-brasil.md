@@ -4,7 +4,7 @@ title: Junte-se a nós para acelerar o Brasil!
 date: 2013-10-11T19:19:04-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6765
+guid: http://21212.com/?p=6765
 permalink: /blog/junte-se-a-nos-para-acelerar-o-brasil/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -18,7 +18,7 @@ categories:
   - com-thumb
 ---
 <p dir="ltr">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/10/post_an_2chamada_port.png"><img class="aligncenter size-full wp-image-6768" alt="post_an_2chamada_port" src="{{ site.url }}/assets/wp-content/uploads/2013/10/post_an_2chamada_port.png" width="584" height="336" srcset="{{ site.url }}/assets/wp-content/uploads/2013/10/post_an_2chamada_port.png 584w, {{ site.url }}/assets/wp-content/uploads/2013/10/post_an_2chamada_port-300x172.png 300w" sizes="(max-width: 584px) 100vw, 584px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/10/post_an_2chamada_port.png"><img class="aligncenter size-full wp-image-6768" alt="post_an_2chamada_port" src="{{ site.url }}/assets/wp-content/uploads/2013/10/post_an_2chamada_port.png" width="584" height="336" srcset="{{ site.url }}/assets/wp-content/uploads/2013/10/post_an_2chamada_port.png 584w, {{ site.url }}/assets/wp-content/uploads/2013/10/post_an_2chamada_port-300x172.png 300w" sizes="(max-width: 584px) 100vw, 584px" /></a>
 </p>
 
 <p dir="ltr">

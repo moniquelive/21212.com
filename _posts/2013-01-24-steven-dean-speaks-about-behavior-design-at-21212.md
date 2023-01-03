@@ -5,7 +5,7 @@ date: 2013-01-24T19:18:16-03:00
 author: "21212"
 excerpt: Steven Dean is a New York designer, consultant, educator and entrepreneur focused on consumer health and wellness innovation. For our Weekly Talk on January 16th, our team and entrepreneurs had the chance to hear a little bit about Steven’s amazing experience in behavior design.
 layout: post
-guid: http://local.21212.com/?p=5210
+guid: http://21212.com/?p=5210
 permalink: /blog/steven-dean-speaks-about-behavior-design-at-21212/
 fv_video:
   - Paste your YouTube or Vimeo url

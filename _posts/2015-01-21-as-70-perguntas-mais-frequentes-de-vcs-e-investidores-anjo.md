@@ -4,7 +4,7 @@ title: As 70 perguntas mais frequentes de VCs e Investidores-Anjo
 date: 2015-01-21T09:00:28-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=7595
+guid: http://21212.com/?p=7595
 permalink: /blog/as-70-perguntas-mais-frequentes-de-vcs-e-investidores-anjo/
 fv_video:
   - Paste your YouTube or Vimeo url

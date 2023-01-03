@@ -4,7 +4,7 @@ title: '90% Of Incubators And Accelerators Will Fail And That’s Just Fine For 
 date: 2012-10-14T19:06:32-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4089
+guid: http://21212.com/?p=4089
 permalink: /press/90-of-incubators-and-accelerators-will-fail-and-thats-just-fine-for-america-and-the-world/
 fb_social_plugin_settings_box_comments:
   - default

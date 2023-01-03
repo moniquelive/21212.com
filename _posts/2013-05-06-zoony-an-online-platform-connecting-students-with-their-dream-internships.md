@@ -4,7 +4,7 @@ title: 'Zoony &#8211; an online platform connecting students with their dream in
 date: 2013-05-06T17:30:42-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6019
+guid: http://21212.com/?p=6019
 permalink: /blog/zoony-an-online-platform-connecting-students-with-their-dream-internships/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -34,5 +34,5 @@ Companies are also having an increasingly difficult time finding qualified candi
 Follow [this link](http://zoony.co) to check out their platform:  <a href="http://zoony.co/" target="_blank">http://zoony.co</a>
 
 <p style="text-align: center;">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/05/Zoony2.png"><img class="wp-image-6032 aligncenter" alt="Zoony2" src="{{ site.url }}/assets/wp-content/uploads/2013/05/Zoony2-1024x676.png" width="531" height="351" srcset="{{ site.url }}/assets/wp-content/uploads/2013/05/Zoony2-1024x676.png 1024w, {{ site.url }}/assets/wp-content/uploads/2013/05/Zoony2-300x198.png 300w, {{ site.url }}/assets/wp-content/uploads/2013/05/Zoony2.png 1349w" sizes="(max-width: 531px) 100vw, 531px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/05/Zoony2.png"><img class="wp-image-6032 aligncenter" alt="Zoony2" src="{{ site.url }}/assets/wp-content/uploads/2013/05/Zoony2-1024x676.png" width="531" height="351" srcset="{{ site.url }}/assets/wp-content/uploads/2013/05/Zoony2-1024x676.png 1024w, {{ site.url }}/assets/wp-content/uploads/2013/05/Zoony2-300x198.png 300w, {{ site.url }}/assets/wp-content/uploads/2013/05/Zoony2.png 1349w" sizes="(max-width: 531px) 100vw, 531px" /></a>
 </p>

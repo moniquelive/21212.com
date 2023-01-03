@@ -4,7 +4,7 @@ title: Aentropico
 date: 2013-03-20T18:43:28-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5674
+guid: http://21212.com/?p=5674
 permalink: /companies/aentropico/
 fv_video:
   - Paste your YouTube or Vimeo url

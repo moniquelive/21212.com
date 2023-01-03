@@ -4,7 +4,7 @@ title: Conheça Pedro Luzardo, sócio do Banco Modal
 date: 2015-01-20T06:00:52-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=7519
+guid: http://21212.com/?p=7519
 permalink: /blog/conheca-pedro-luzardo-socio-do-banco-modal/
 fv_video:
   - Paste your YouTube or Vimeo url

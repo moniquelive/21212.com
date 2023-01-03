@@ -4,7 +4,7 @@ title: Não se deve empreender por dinheiro e deve-se estar pronto para trabalha
 date: 2012-10-16T20:05:07-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4155
+guid: http://21212.com/?p=4155
 permalink: /press/nao-se-deve-empreender-por-dinheiro-e-deve-se-estar-pronto-para-trabalhar-muito/
 fb_social_plugin_settings_box_comments:
   - default

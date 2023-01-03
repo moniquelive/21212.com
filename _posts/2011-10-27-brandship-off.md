@@ -4,7 +4,7 @@ title: Brandship
 date: 2011-10-27T23:25:24-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=812
+guid: http://21212.com/?p=812
 permalink: /companies/brandship-off/
 empreendedor_1:
   - "1105"

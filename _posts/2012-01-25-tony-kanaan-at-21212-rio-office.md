@@ -5,7 +5,7 @@ date: 2012-01-25T17:43:34-03:00
 author: "21212"
 excerpt: We had a very exciting afternoon here at the 21212 office in Rio de Janeiro! Tony Kanaan, world renown race car driver, came by to talk to our entrepreneurs about his career and experiences that brought him to where he is today, one of the top drivers in the world.
 layout: post
-guid: http://local.21212.com/?p=1294
+guid: http://21212.com/?p=1294
 permalink: /blog/tony-kanaan-at-21212-rio-office/
 fv_video:
   - Paste your YouTube or Vimeo url

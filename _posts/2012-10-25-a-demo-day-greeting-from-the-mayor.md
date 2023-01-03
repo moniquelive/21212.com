@@ -4,7 +4,7 @@ title: A Demo Day greeting from the Mayor
 date: 2012-10-25T17:26:46-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4243
+guid: http://21212.com/?p=4243
 permalink: /blog/a-demo-day-greeting-from-the-mayor/
 fb_social_plugin_settings_box_comments:
   - default
@@ -13,7 +13,7 @@ fv_video:
 fv_video_id:
   - "52159861"
 fv_video_img:
-  - http://local.21212.com/assets/wp-content/plugins/featured-video/vimeo.jpg
+  - http://21212.com/assets/wp-content/plugins/featured-video/vimeo.jpg
 transposh_can_translate:
   - 'true'
 image: /assets/wp-content/uploads/2012/10/EduardoPaesFeaturedImg.png

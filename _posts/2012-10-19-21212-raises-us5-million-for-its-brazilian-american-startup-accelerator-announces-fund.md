@@ -4,7 +4,7 @@ title: 21212 raises US$5 million for its Brazilian-American startup accelerator,
 date: 2012-10-19T11:56:21-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4173
+guid: http://21212.com/?p=4173
 permalink: /press/21212-raises-us5-million-for-its-brazilian-american-startup-accelerator-announces-fund/
 fb_social_plugin_settings_box_comments:
   - default

@@ -4,7 +4,7 @@ title: 'Marcelo Sales of 21212: “I want to see entrepreneurs who want to creat
 date: 2012-06-29T19:33:19-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=3495
+guid: http://21212.com/?p=3495
 permalink: /press/marcelo-sales-of-21212-i-want-to-see-entrepreneurs-who-want-to-create-a-10-billion-dollar-company/
 fb_social_plugin_settings_box_comments:
   - default

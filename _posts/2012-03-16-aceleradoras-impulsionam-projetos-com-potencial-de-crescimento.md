@@ -4,7 +4,7 @@ title: Aceleradoras impulsionam projetos com potencial de crescimento
 date: 2012-03-16T22:00:26-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1544
+guid: http://21212.com/?p=1544
 permalink: /press/aceleradoras-impulsionam-projetos-com-potencial-de-crescimento/
 fv_video:
   - Paste your YouTube or Vimeo url

@@ -4,7 +4,7 @@ title: Make no less than 20 times!
 date: 2011-07-14T16:16:36-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=329
+guid: http://21212.com/?p=329
 permalink: /blog/make-no-less-than-20-times/
 transposh_can_translate:
   - 'true'

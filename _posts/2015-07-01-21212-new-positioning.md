@@ -4,7 +4,7 @@ title: '21212 &#8211; New Positioning'
 date: 2015-07-01T10:35:57-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=7693
+guid: http://21212.com/?p=7693
 permalink: /blog/21212-new-positioning/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -19,7 +19,7 @@ categories:
   - Featured Post
 ---
 <p style="text-align: left;">
-  (<a href="http://local.21212.com/blog/pt/21212-novo-posicionamento/">leia este post em Português</a>)
+  (<a href="http://21212.com/blog/pt/21212-novo-posicionamento/">leia este post em Português</a>)
 </p>
 
 <img class="aligncenter wp-image-7696" src="{{ site.url }}/assets/wp-content/uploads/2015/07/capa_face_ou_news.png" alt="capa_face_ou_news" width="599" height="222" srcset="{{ site.url }}/assets/wp-content/uploads/2015/07/capa_face_ou_news.png 850w, {{ site.url }}/assets/wp-content/uploads/2015/07/capa_face_ou_news-300x111.png 300w" sizes="(max-width: 599px) 100vw, 599px" />

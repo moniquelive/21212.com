@@ -4,7 +4,7 @@ title: 'Aceleradoras e incubadoras: dois focos de atuação diferentes'
 date: 2013-02-05T20:34:45-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5397
+guid: http://21212.com/?p=5397
 permalink: /press/aceleradoras-e-incubadoras-dois-focos-de-atuacao-diferentes/
 fv_video:
   - Paste your YouTube or Vimeo url

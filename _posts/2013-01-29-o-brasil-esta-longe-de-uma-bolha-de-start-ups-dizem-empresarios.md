@@ -4,7 +4,7 @@ title: '&#8220;O Brasil está longe de uma bolha de start-ups&#8221;, dizem empr
 date: 2013-01-29T20:06:54-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5385
+guid: http://21212.com/?p=5385
 permalink: /press/o-brasil-esta-longe-de-uma-bolha-de-start-ups-dizem-empresarios/
 fv_video:
   - Paste your YouTube or Vimeo url

@@ -4,7 +4,7 @@ title: Cristiano Lanna
 date: 2013-03-20T22:02:55-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5764
+guid: http://21212.com/?p=5764
 permalink: /people/cristiano-lanna/
 fv_video:
   - Paste your YouTube or Vimeo url

@@ -4,7 +4,7 @@ title: Andre Korenblum
 date: 2013-03-20T22:02:13-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5761
+guid: http://21212.com/?p=5761
 permalink: /people/andre-korenblum/
 fv_video:
   - Paste your YouTube or Vimeo url

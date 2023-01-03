@@ -4,7 +4,7 @@ title: Craques.com
 date: 2011-10-27T23:27:35-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=822
+guid: http://21212.com/?p=822
 permalink: /companies/craques-com-off/
 sharing_disabled:
   - "1"

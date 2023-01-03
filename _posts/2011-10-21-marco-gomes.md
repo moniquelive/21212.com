@@ -4,7 +4,7 @@ title: Marco Gomes
 date: 2011-10-21T19:09:40-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=791
+guid: http://21212.com/?p=791
 permalink: /people/marco-gomes/
 sharing_disabled:
   - "1"

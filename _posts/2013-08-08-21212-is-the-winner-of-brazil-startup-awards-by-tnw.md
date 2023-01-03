@@ -4,7 +4,7 @@ title: 21212 is the winner of Brazil Startup Awards by TNW
 date: 2013-08-08T14:18:08-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6571
+guid: http://21212.com/?p=6571
 permalink: /blog/21212-is-the-winner-of-brazil-startup-awards-by-tnw/
 fv_video:
   - Paste your YouTube or Vimeo url

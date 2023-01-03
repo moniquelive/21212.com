@@ -5,7 +5,7 @@ date: 2011-12-14T16:42:37-03:00
 author: "21212"
 excerpt: 'Marcelo Sales é um empreendedor, e um nerd, e tem muito orgulho disso. O primeiro negócio dele foi vender suco de uva na rua, e foi aí que as conexões começaram a mover sua vida. '
 layout: post
-guid: http://local.21212.com/?p=1029
+guid: http://21212.com/?p=1029
 permalink: /blog/endeavor-day1-as-conexoes-que-movem-a-vida/
 fv_video:
   - Paste your YouTube or Vimeo url

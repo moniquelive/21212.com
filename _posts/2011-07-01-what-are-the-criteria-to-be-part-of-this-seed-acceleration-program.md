@@ -21,4 +21,4 @@ categories:
 tags:
   - before
 ---
-The criteria to take part in the <a href="http://local.21212.com/" target="_blank">21212.com</a> seed acceleration program are very simple: digital startups (both early-stage and already ongoing ones) that create scalable products that address markets such as e-commerce, social, entertainment or e-payment in Brazil. We prioritize entrepreneurs ahead of the business. Entrepreneurs are actually more important to us than any good idea, since we already have ideas that need talent to run.
+The criteria to take part in the <a href="http://21212.com/" target="_blank">21212.com</a> seed acceleration program are very simple: digital startups (both early-stage and already ongoing ones) that create scalable products that address markets such as e-commerce, social, entertainment or e-payment in Brazil. We prioritize entrepreneurs ahead of the business. Entrepreneurs are actually more important to us than any good idea, since we already have ideas that need talent to run.

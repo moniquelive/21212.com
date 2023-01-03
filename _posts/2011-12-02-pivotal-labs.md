@@ -4,7 +4,7 @@ title: Pivotal Tracker
 date: 2011-12-02T11:32:56-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4239
+guid: http://21212.com/?p=4239
 permalink: /partners/pivotal-labs/
 fb_social_plugin_settings_box_comments:
   - default

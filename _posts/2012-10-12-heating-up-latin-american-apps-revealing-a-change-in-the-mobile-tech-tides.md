@@ -4,7 +4,7 @@ title: 'Heating Up: Latin American Apps Revealing a Change in the Mobile Tech Ti
 date: 2012-10-12T19:07:20-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4092
+guid: http://21212.com/?p=4092
 permalink: /press/heating-up-latin-american-apps-revealing-a-change-in-the-mobile-tech-tides/
 fb_social_plugin_settings_box_comments:
   - default

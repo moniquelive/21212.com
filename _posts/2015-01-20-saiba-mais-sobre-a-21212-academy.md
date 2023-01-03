@@ -4,7 +4,7 @@ title: Saiba mais sobre a 21212 Academy
 date: 2015-01-20T10:21:49-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=7523
+guid: http://21212.com/?p=7523
 permalink: http://academy.21212.com/
 fv_video:
   - Paste your YouTube or Vimeo url

@@ -4,7 +4,7 @@ title: Modelo importado
 date: 2012-04-01T16:11:24-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1822
+guid: http://21212.com/?p=1822
 permalink: /press/modelo-importado/
 fv_video:
   - Paste your YouTube or Vimeo url

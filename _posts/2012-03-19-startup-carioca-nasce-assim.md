@@ -4,7 +4,7 @@ title: Startup carioca nasce assim
 date: 2012-03-19T08:00:33-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1560
+guid: http://21212.com/?p=1560
 permalink: /press/startup-carioca-nasce-assim/
 fv_video:
   - Paste your YouTube or Vimeo url

@@ -5,7 +5,7 @@ date: 2012-10-03T12:23:05-03:00
 author: "21212"
 excerpt: With Demo Day only 16 days away, we would like to introduce another one of our startups currently preparing to present Site Sustentavel.
 layout: post
-guid: http://local.21212.com/?p=3983
+guid: http://21212.com/?p=3983
 permalink: /blog/introducing-site-sustentavel/
 fb_social_plugin_settings_box_comments:
   - default
@@ -26,7 +26,7 @@ categories:
   <div>
     <div>
       <p>
-        <a href="http://local.21212.com/assets/wp-content/uploads/2012/10/postBanner.png"><img class="alignnone size-full wp-image-3992" title="postBanner" src="{{ site.url }}/assets/wp-content/uploads/2012/10/postBanner.png" alt="" width="540" height="200" srcset="{{ site.url }}/assets/wp-content/uploads/2012/10/postBanner.png 540w, {{ site.url }}/assets/wp-content/uploads/2012/10/postBanner-300x111.png 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+        <a href="http://21212.com/assets/wp-content/uploads/2012/10/postBanner.png"><img class="alignnone size-full wp-image-3992" title="postBanner" src="{{ site.url }}/assets/wp-content/uploads/2012/10/postBanner.png" alt="" width="540" height="200" srcset="{{ site.url }}/assets/wp-content/uploads/2012/10/postBanner.png 540w, {{ site.url }}/assets/wp-content/uploads/2012/10/postBanner-300x111.png 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
       </p>
     </div>
 

@@ -4,7 +4,7 @@ title: 'Workshops 21212: Como criar a Startup que o mercado quer?'
 date: 2014-08-22T11:08:43-03:00
 author: Frederico Lacerda
 layout: post
-guid: http://local.21212.com/?p=7484
+guid: http://21212.com/?p=7484
 permalink: /blog/workshops-21212-como-criar-a-startup-que-o-mercado-quer/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -27,7 +27,7 @@ Na próxima quinta-feira, dia 28/08, os nossos fundadores apresentarão conheci
 
 
 
-Haverá dois workshops no dia 28/08. O primeiro será apresentado por mim e terá como foco &#8220;como nós escolhemos em quem investimentos (o nosso tempo, dinheiro e suor)&#8221;. Vou apresentar os principais critérios que avaliamos durante o duro e longo processo de seleção de empresas da 21212, muitos deles também utilizados por outras aceleradoras e fundos de investimento. Em seguida, os meus sócios Marcelo Sales e Leonardo Cyber promoverão o &#8220;Encontro com fundadores: cases e exemplos reais de como começar um negócio do zero, sem dinheiro, sem sócios e sem clientes&#8221;.
+Haverá dois workshops no dia 28/08. O primeiro será apresentado por mim e terá como foco &#8220;como nós escolhemos em quem investimentos (o nosso tempo, dinheiro e suor)&#8221;. Vou apresentar os principais critérios que avaliamos durante o duro e longo processo de seleção de empresas da 21212, muitos deles também utilizados por outras aceleradoras e fundos de investimento. Em seguida, os meus sócios Marcelo Sales e Monique Cyber promoverão o &#8220;Encontro com fundadores: cases e exemplos reais de como começar um negócio do zero, sem dinheiro, sem sócios e sem clientes&#8221;.
 
 Para saber mais e garantir o seu lugar no workshop, acesse <a title="Inscrições Cursos" href="http://cursos21212com.splashthat.com/" target="_blank">http://cursos21212com.splashthat.com/</a>
 

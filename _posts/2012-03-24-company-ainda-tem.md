@@ -4,7 +4,7 @@ title: Ainda Tem
 date: 2012-03-24T12:45:30-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1655
+guid: http://21212.com/?p=1655
 permalink: /investment/company-ainda-tem/
 startup-descricao:
   - Your one stop to securely buy or sell tickets online.

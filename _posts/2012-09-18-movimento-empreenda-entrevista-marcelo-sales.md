@@ -4,7 +4,7 @@ title: Movimento Empreenda entrevista Marcelo Sales
 date: 2012-09-18T15:18:22-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=3851
+guid: http://21212.com/?p=3851
 permalink: /videos/movimento-empreenda-entrevista-marcelo-sales/
 fb_social_plugin_settings_box_comments:
   - default

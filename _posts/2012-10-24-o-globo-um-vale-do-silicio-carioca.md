@@ -4,7 +4,7 @@ title: 'O Globo: Um Vale do Silício carioca'
 date: 2012-10-24T12:09:19-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4225
+guid: http://21212.com/?p=4225
 permalink: /blog/o-globo-um-vale-do-silicio-carioca/
 fb_social_plugin_settings_box_comments:
   - default

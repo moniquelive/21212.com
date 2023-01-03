@@ -4,7 +4,7 @@ title: Christopher Meyn
 date: 2012-04-11T22:26:16-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1832
+guid: http://21212.com/?p=1832
 permalink: /people/christopher-meyn/
 cargo:
   - Mentor

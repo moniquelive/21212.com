@@ -4,7 +4,7 @@ title: Crise externa impulsiona investimentos no Brasil
 date: 2012-03-16T18:13:46-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1537
+guid: http://21212.com/?p=1537
 permalink: /press/crise-externa-impulsiona-investimentos-no-brasil/
 fv_video:
   - Paste your YouTube or Vimeo url

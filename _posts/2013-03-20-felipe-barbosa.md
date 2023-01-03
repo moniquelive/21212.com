@@ -4,7 +4,7 @@ title: Felipe Barbosa
 date: 2013-03-20T21:52:03-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5737
+guid: http://21212.com/?p=5737
 permalink: /people/felipe-barbosa/
 fv_video:
   - Paste your YouTube or Vimeo url

@@ -4,7 +4,7 @@ title: 'Rio bets it can become Brazil&#8217;s Silicon Beach'
 date: 2012-10-04T17:06:48-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4026
+guid: http://21212.com/?p=4026
 permalink: /press/rio-bets-it-can-become-brazils-silicon-beach/
 fb_social_plugin_settings_box_comments:
   - default

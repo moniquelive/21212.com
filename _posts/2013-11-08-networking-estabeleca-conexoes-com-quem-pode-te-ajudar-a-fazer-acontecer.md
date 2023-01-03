@@ -4,7 +4,7 @@ title: 'Networking: estabeleça conexões com quem pode te ajudar a fazer aconte
 date: 2013-11-08T16:22:09-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6929
+guid: http://21212.com/?p=6929
 permalink: /blog/networking-estabeleca-conexoes-com-quem-pode-te-ajudar-a-fazer-acontecer/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -18,7 +18,7 @@ categories:
   - com-thumb
 ---
 <p dir="ltr">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/11/fbpostsNEW-selectioncampaign-12.png"><img class="aligncenter size-full wp-image-6930" alt="fbpostsNEW-selectioncampaign-12" src="{{ site.url }}/assets/wp-content/uploads/2013/11/fbpostsNEW-selectioncampaign-12.png" width="403" height="403" srcset="{{ site.url }}/assets/wp-content/uploads/2013/11/fbpostsNEW-selectioncampaign-12.png 403w, {{ site.url }}/assets/wp-content/uploads/2013/11/fbpostsNEW-selectioncampaign-12-150x150.png 150w, {{ site.url }}/assets/wp-content/uploads/2013/11/fbpostsNEW-selectioncampaign-12-300x300.png 300w" sizes="(max-width: 403px) 100vw, 403px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/11/fbpostsNEW-selectioncampaign-12.png"><img class="aligncenter size-full wp-image-6930" alt="fbpostsNEW-selectioncampaign-12" src="{{ site.url }}/assets/wp-content/uploads/2013/11/fbpostsNEW-selectioncampaign-12.png" width="403" height="403" srcset="{{ site.url }}/assets/wp-content/uploads/2013/11/fbpostsNEW-selectioncampaign-12.png 403w, {{ site.url }}/assets/wp-content/uploads/2013/11/fbpostsNEW-selectioncampaign-12-150x150.png 150w, {{ site.url }}/assets/wp-content/uploads/2013/11/fbpostsNEW-selectioncampaign-12-300x300.png 300w" sizes="(max-width: 403px) 100vw, 403px" /></a>
 </p>
 
 <p dir="ltr">

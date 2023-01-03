@@ -4,7 +4,7 @@ title: Announcing our new partnership with Customer.Io
 date: 2013-11-29T15:13:35-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6985
+guid: http://21212.com/?p=6985
 permalink: /blog/announcing-our-new-partnership-with-customer-io/
 fv_video:
   - Paste your YouTube or Vimeo url

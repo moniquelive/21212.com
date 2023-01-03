@@ -4,7 +4,7 @@ title: Aceleradora traz americanos para investir em startups brasileiras
 date: 2012-03-16T18:13:17-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1529
+guid: http://21212.com/?p=1529
 permalink: /press/aceleradora-traz-americanos-para-investir-em-startups-brasileiras/
 fv_video:
   - Paste your YouTube or Vimeo url

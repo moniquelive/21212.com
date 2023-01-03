@@ -4,7 +4,7 @@ title: Alexandre Ribenboim
 date: 2012-04-26T19:37:28-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1870
+guid: http://21212.com/?p=1870
 permalink: /people/alexandre-ribenboim/
 team-photo:
   - "1871"

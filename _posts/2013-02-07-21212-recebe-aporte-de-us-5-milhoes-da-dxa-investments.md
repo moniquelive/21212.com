@@ -4,7 +4,7 @@ title: 21212 recebe aporte de US$ 5 milhões da DXA Investments
 date: 2013-02-07T20:19:28-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5395
+guid: http://21212.com/?p=5395
 permalink: /press/21212-recebe-aporte-de-us-5-milhoes-da-dxa-investments/
 fv_video:
   - Paste your YouTube or Vimeo url

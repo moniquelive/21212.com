@@ -4,7 +4,7 @@ title: Comitê do Start-Up Brasil visita a 21212!
 date: 2013-11-05T17:00:36-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6901
+guid: http://21212.com/?p=6901
 permalink: /blog/comite-do-start-up-brasil-visita-a-21212/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <div id="attachment_6902" style="width: 550px" class="wp-caption aligncenter">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/11/reuniao.jpg"><img aria-describedby="caption-attachment-6902" class="size-full wp-image-6902" alt="Comitê do Start-Up Brasil em reunião com a 21212 e startups" src="{{ site.url }}/assets/wp-content/uploads/2013/11/reuniao.jpg" width="540" height="360" srcset="{{ site.url }}/assets/wp-content/uploads/2013/11/reuniao.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/11/reuniao-300x200.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/11/reuniao.jpg"><img aria-describedby="caption-attachment-6902" class="size-full wp-image-6902" alt="Comitê do Start-Up Brasil em reunião com a 21212 e startups" src="{{ site.url }}/assets/wp-content/uploads/2013/11/reuniao.jpg" width="540" height="360" srcset="{{ site.url }}/assets/wp-content/uploads/2013/11/reuniao.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/11/reuniao-300x200.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
 
   <p id="caption-attachment-6902" class="wp-caption-text">
     Comitê do Start-Up Brasil em reunião com a 21212 e startups

@@ -4,7 +4,7 @@ title: Treehouse
 date: 2013-10-21T21:36:49-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6821
+guid: http://21212.com/?p=6821
 permalink: /partners/treehouse/
 fv_video:
   - Paste your YouTube or Vimeo url

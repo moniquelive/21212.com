@@ -4,7 +4,7 @@ title: PagPop, acelerada pela 21212, recebe aporte da Intel Capital
 date: 2012-10-04T10:47:30-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4023
+guid: http://21212.com/?p=4023
 permalink: /press/pagpop-acelerada-pela-21212-recebe-aporte-da-intel-capital/
 fb_social_plugin_settings_box_comments:
   - default

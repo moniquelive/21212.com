@@ -4,7 +4,7 @@ title: 'Weekly Talk: Design Thinking with Denise Eler'
 date: 2013-02-08T16:25:34-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5359
+guid: http://21212.com/?p=5359
 permalink: /blog/weekly-talk-design-thinking-with-denise-eler/
 fv_video:
   - Paste your YouTube or Vimeo url

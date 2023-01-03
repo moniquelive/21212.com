@@ -4,7 +4,7 @@ title: Announcing our new partner Treehouse!
 date: 2013-11-05T18:27:43-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6894
+guid: http://21212.com/?p=6894
 permalink: /blog/announcing-our-new-partner-treehouse/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -18,7 +18,7 @@ categories:
   - com-thumb
 ---
 <p dir="ltr">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/11/Treehouse2.png"><img class="aligncenter size-full wp-image-6897" alt="Treehouse2" src="{{ site.url }}/assets/wp-content/uploads/2013/11/Treehouse2.png" width="503" height="123" srcset="{{ site.url }}/assets/wp-content/uploads/2013/11/Treehouse2.png 503w, {{ site.url }}/assets/wp-content/uploads/2013/11/Treehouse2-300x73.png 300w" sizes="(max-width: 503px) 100vw, 503px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/11/Treehouse2.png"><img class="aligncenter size-full wp-image-6897" alt="Treehouse2" src="{{ site.url }}/assets/wp-content/uploads/2013/11/Treehouse2.png" width="503" height="123" srcset="{{ site.url }}/assets/wp-content/uploads/2013/11/Treehouse2.png 503w, {{ site.url }}/assets/wp-content/uploads/2013/11/Treehouse2-300x73.png 300w" sizes="(max-width: 503px) 100vw, 503px" /></a>
 </p>
 
 <p dir="ltr">

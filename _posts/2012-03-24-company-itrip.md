@@ -4,7 +4,7 @@ title: Itrip
 date: 2012-03-24T13:07:27-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1670
+guid: http://21212.com/?p=1670
 permalink: /investment/company-itrip/
 bt-company-summary:
   - http://dd.21212.com/assets/itrip.pdf

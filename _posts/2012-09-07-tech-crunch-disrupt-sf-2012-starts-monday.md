@@ -5,7 +5,7 @@ date: 2012-09-07T18:42:09-03:00
 author: "21212"
 excerpt: 'TechCrunch SF Disrupt 2012 starts Monday, September 10 and will end on the 12th.  We are excited that some of our startups will be in the Brazil pavilion: WeGoOut, Site Sustentavel, Bidcorp, Xjobs, EasyAula, and Igluu.'
 layout: post
-guid: http://local.21212.com/?p=3535
+guid: http://21212.com/?p=3535
 permalink: /blog/tech-crunch-disrupt-sf-2012-starts-monday/
 fb_social_plugin_settings_box_comments:
   - default
@@ -28,7 +28,7 @@ categories:
 
 The Conference also features an on stage competition called Startup Battlefield.  As well, over 100 startups will be demoing their products.  There is a [pavilion this year dedicated to Brazil!](http://techcrunch.com/2012/07/04/pavilions/)
 
-<strong id="internal-source-marker_0.18057800480164587"><br /> We are excited that some of our startups will be in the pavilion: <a href="http://www.wegoout.com/">WeGoOut</a>, <a href="http://sitesustentavel.com.br/">Site Sustentavel</a>, <a href="http://bidcorp.com.br/">Bidcorp</a>, <a href="http://xjobs.com.br/">Xjobs</a>, <a href="http://www.easyaula.com.br/">EasyAula</a>, and <a href="http://www.igluu.com.br/">Igluu</a>.  </strong><strong id="internal-source-marker_0.18057800480164587">At the event, our startups will also be competing in the <a href="http://local.21212.com/blog/fnbox-presents-latin-america-startup-challenge-at-techcrunch-disrupt-sf/">Fnbox Latam Startup Challenge </a></strong>
+<strong id="internal-source-marker_0.18057800480164587"><br /> We are excited that some of our startups will be in the pavilion: <a href="http://www.wegoout.com/">WeGoOut</a>, <a href="http://sitesustentavel.com.br/">Site Sustentavel</a>, <a href="http://bidcorp.com.br/">Bidcorp</a>, <a href="http://xjobs.com.br/">Xjobs</a>, <a href="http://www.easyaula.com.br/">EasyAula</a>, and <a href="http://www.igluu.com.br/">Igluu</a>.  </strong><strong id="internal-source-marker_0.18057800480164587">At the event, our startups will also be competing in the <a href="http://21212.com/blog/fnbox-presents-latin-america-startup-challenge-at-techcrunch-disrupt-sf/">Fnbox Latam Startup Challenge </a></strong>
 
 <strong id="internal-source-marker_0.18057800480164587">We will be tweeting from the conference so watch <a href="http://www.twitter.com/21212com">our twitter feed</a> as well as <a href="http://www.twitter.com/frelacerda">Frederico Lacerda&#8217;s!</a></strong>
 

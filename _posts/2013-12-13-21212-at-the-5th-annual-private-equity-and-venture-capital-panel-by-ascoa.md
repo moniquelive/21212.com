@@ -4,7 +4,7 @@ title: 21212 at the 5th Annual private equity and venture capital panel by AS/CO
 date: 2013-12-13T19:25:15-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=7002
+guid: http://21212.com/?p=7002
 permalink: /blog/21212-at-the-5th-annual-private-equity-and-venture-capital-panel-by-ascoa/
 fv_video:
   - Paste your YouTube or Vimeo url

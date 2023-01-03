@@ -4,7 +4,7 @@ title: Marcus Ribeiro
 date: 2011-11-21T15:00:37-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=960
+guid: http://21212.com/?p=960
 permalink: /people/marcus-ribeiro/
 team-photo:
   - "961"

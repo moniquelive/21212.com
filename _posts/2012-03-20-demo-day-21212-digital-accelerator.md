@@ -4,7 +4,7 @@ title: 'Demo Day: 21212 Digital Accelerator'
 date: 2012-03-20T13:00:26-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1553
+guid: http://21212.com/?p=1553
 permalink: /press/demo-day-21212-digital-accelerator/
 fv_video:
   - Paste your YouTube or Vimeo url

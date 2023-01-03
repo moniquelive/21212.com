@@ -4,7 +4,7 @@ title: Projeto cria ponte entre NY e Rio para empresas iniciantes de internet
 date: 2011-12-06T07:05:02-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1518
+guid: http://21212.com/?p=1518
 permalink: /press/projeto-cria-ponte-entre-ny-e-rio-para-empresas-iniciantes-de-internet/
 fv_video:
   - Paste your YouTube or Vimeo url

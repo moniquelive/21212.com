@@ -4,7 +4,7 @@ title: Start-ups latinoamericanas ‘invaden’ Silicon Valley
 date: 2012-09-18T13:59:01-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=3863
+guid: http://21212.com/?p=3863
 permalink: /press/start-ups-latinoamericanas-invaden-silicon-valley/
 fb_social_plugin_settings_box_comments:
   - default

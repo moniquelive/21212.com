@@ -4,7 +4,7 @@ title: Corbin Day
 date: 2011-10-21T19:09:51-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=768
+guid: http://21212.com/?p=768
 permalink: /people/corbin-day/
 sharing_disabled:
   - "1"

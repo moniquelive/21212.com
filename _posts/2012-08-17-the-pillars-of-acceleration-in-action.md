@@ -5,7 +5,7 @@ date: 2012-08-17T16:23:52-03:00
 author: "21212"
 excerpt: Meet the entrepreneurs in our second class of companies and take a look inside the six pillars of our acceleration process.
 layout: post
-guid: http://local.21212.com/?p=3362
+guid: http://21212.com/?p=3362
 permalink: /blog/the-pillars-of-acceleration-in-action/
 fb_social_plugin_settings_box_comments:
   - default
@@ -14,7 +14,7 @@ fv_video:
 fv_video_id:
   - "47664683"
 fv_video_img:
-  - http://local.21212.com/assets/wp-content/plugins/featured-video/vimeo.jpg
+  - http://21212.com/assets/wp-content/plugins/featured-video/vimeo.jpg
 sharing_disabled:
   - "1"
 transposh_can_translate:

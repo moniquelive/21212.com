@@ -5,7 +5,7 @@ date: 2012-09-12T17:19:11-03:00
 author: "21212"
 excerpt: This past weekend, we had our first BIG design conference in Rio, and of course, 21212 was there to see what was all about.
 layout: post
-guid: http://local.21212.com/?p=3672
+guid: http://21212.com/?p=3672
 permalink: /blog/insert-brasil/
 fb_social_plugin_settings_box_comments:
   - default
@@ -26,13 +26,13 @@ categories:
 
 This past weekend, we had our first **BIG** design conference in Rio, and of course, 21212 was there to see what it was all about.
 
-[<img class="alignnone size-full wp-image-3707" title="insert2" src="{{ site.url }}/assets/wp-content/uploads/2012/09/insert2.png" alt="" width="500" height="281" srcset="{{ site.url }}/assets/wp-content/uploads/2012/09/insert2.png 500w, {{ site.url }}/assets/wp-content/uploads/2012/09/insert2-300x168.png 300w" sizes="(max-width: 500px) 100vw, 500px" />](http://local.21212.com/assets/wp-content/uploads/2012/09/insert2.png)
+[<img class="alignnone size-full wp-image-3707" title="insert2" src="{{ site.url }}/assets/wp-content/uploads/2012/09/insert2.png" alt="" width="500" height="281" srcset="{{ site.url }}/assets/wp-content/uploads/2012/09/insert2.png 500w, {{ site.url }}/assets/wp-content/uploads/2012/09/insert2-300x168.png 300w" sizes="(max-width: 500px) 100vw, 500px" />](http://21212.com/assets/wp-content/uploads/2012/09/insert2.png)
 
 The event happened in the port district region, in an old factory called &#8220;Centro Cultural Ação da Cidadania&#8221; that has been converted to welcome such events.
 
 The event was multi-disciplinary. We had the chance to see the exhibits of new products in the fair, presentations of successful cases as well as innovative products and businesses.
 
-We had two roundtables, one of which was mediated by our mentor <a href="http://local.21212.com/people/luciano-tardin/" target="_blank">Luciano Tardin</a>, which discussed matters such as the origins of design in Brazil and other aspects of the profession.
+We had two roundtables, one of which was mediated by our mentor <a href="http://21212.com/people/luciano-tardin/" target="_blank">Luciano Tardin</a>, which discussed matters such as the origins of design in Brazil and other aspects of the profession.
 
 But the greatest thing about the whole conference were the keynote speakers: a mix between national and international talents and from various areas of the design.
 
@@ -50,7 +50,7 @@ The guys from Tátil presented some of their most famous cases, providing a walk
 
 But the main event was certainly the lecture by Joshua Davis, &#8220;Beyond Play&#8221;.
 
-[<img class="alignnone size-full wp-image-3711" title="insert4" src="{{ site.url }}/assets/wp-content/uploads/2012/09/insert4.png" alt="" width="500" height="240" srcset="{{ site.url }}/assets/wp-content/uploads/2012/09/insert4.png 500w, {{ site.url }}/assets/wp-content/uploads/2012/09/insert4-300x144.png 300w" sizes="(max-width: 500px) 100vw, 500px" />](http://local.21212.com/assets/wp-content/uploads/2012/09/insert4.png)
+[<img class="alignnone size-full wp-image-3711" title="insert4" src="{{ site.url }}/assets/wp-content/uploads/2012/09/insert4.png" alt="" width="500" height="240" srcset="{{ site.url }}/assets/wp-content/uploads/2012/09/insert4.png 500w, {{ site.url }}/assets/wp-content/uploads/2012/09/insert4-300x144.png 300w" sizes="(max-width: 500px) 100vw, 500px" />](http://21212.com/assets/wp-content/uploads/2012/09/insert4.png)
 
 Joshua talked about his life and work, and how he decided that he wanted to have fun while working. He claimed that both things are related: when you enjoy what you are doing, you spur creativity; on the other hand, chances are that you will produce the best work when you are having fun.
 

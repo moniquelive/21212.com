@@ -4,7 +4,7 @@ title: 'Entrepreneurship and Rio de Janeiro- Quotes of Inspiration'
 date: 2013-07-26T15:09:53-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6490
+guid: http://21212.com/?p=6490
 permalink: /blog/entrepreneurship-and-rio-de-janeiro-quotes-of-inspiration/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -17,7 +17,7 @@ categories:
   - com-thumb
 ---
 <p style="text-align: center;">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/07/IMG_1517.jpg"><img class=" wp-image-6491 aligncenter" alt="IMG_1517" src="{{ site.url }}/assets/wp-content/uploads/2013/07/IMG_1517-1024x682.jpg" width="491" height="327" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/IMG_1517-1024x682.jpg 1024w, {{ site.url }}/assets/wp-content/uploads/2013/07/IMG_1517-300x200.jpg 300w, {{ site.url }}/assets/wp-content/uploads/2013/07/IMG_1517.jpg 1440w" sizes="(max-width: 491px) 100vw, 491px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/07/IMG_1517.jpg"><img class=" wp-image-6491 aligncenter" alt="IMG_1517" src="{{ site.url }}/assets/wp-content/uploads/2013/07/IMG_1517-1024x682.jpg" width="491" height="327" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/IMG_1517-1024x682.jpg 1024w, {{ site.url }}/assets/wp-content/uploads/2013/07/IMG_1517-300x200.jpg 300w, {{ site.url }}/assets/wp-content/uploads/2013/07/IMG_1517.jpg 1440w" sizes="(max-width: 491px) 100vw, 491px" /></a>
 </p>
 
 __In this blog post we have combined inspiring quotes both in English, about being an entrepreneur, and in Portuguese, about Rio de Janeiro.  Putting these two ideas together, we hope to inspire, enlighten and motivate our readers about how awesome it is to be an entrepreneur in Rio. Take a look!

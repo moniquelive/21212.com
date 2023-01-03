@@ -4,7 +4,7 @@ title: Marcio Campos of PagPop will speak at the XV Latin American Conference th
 date: 2013-03-07T15:10:21-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5568
+guid: http://21212.com/?p=5568
 permalink: /blog/marcio-campos-of-pagpop-will-speak-at-the-xv-latin-american-conference-this-saturday/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -18,7 +18,7 @@ categories:
   - com-thumb
 ---
 <p style="text-align: center;">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/03/marciocampospagpop.jpg"><img class="size-full wp-image-5577 aligncenter" alt="marciocampospagpop" src="{{ site.url }}/assets/wp-content/uploads/2013/03/marciocampospagpop.jpg" width="540" height="300" srcset="{{ site.url }}/assets/wp-content/uploads/2013/03/marciocampospagpop.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/03/marciocampospagpop-300x166.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/03/marciocampospagpop.jpg"><img class="size-full wp-image-5577 aligncenter" alt="marciocampospagpop" src="{{ site.url }}/assets/wp-content/uploads/2013/03/marciocampospagpop.jpg" width="540" height="300" srcset="{{ site.url }}/assets/wp-content/uploads/2013/03/marciocampospagpop.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/03/marciocampospagpop-300x166.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
 </p>
 
 This Saturday March 9th, Marcio Campos, founder of [Pagpop Mobile Payments](https://www.pagpop.com.br/) (graduated from our 1st Acceleration Program), will speak at the [XV Latin American Conference](http://www.latamconferencehbs.net/) presented by the Club Latinoamericano at Harvard Business School. The event will receive over 25 speakers and will focus on the question: the future has arrived, are we ready? Felipe Calderon, former president of Mexico, Alejandro Toledo, former president of Peru, and Andre Esteves, CEO of BTG Pactual, will be three of the key note speakers. Marcio will speak on the “Entrepreneurial Opportunities and Challenges” panel at 4:30 EST which will discuss the Latin American entrepreneurship scene and highlight diverse perspectives from both the investment and start-up angle.

@@ -4,7 +4,7 @@ title: Para empreender online, é preciso sair do filtro pessoal
 date: 2012-04-02T15:31:03-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1808
+guid: http://21212.com/?p=1808
 permalink: /press/para-empreender-online-e-preciso-sair-do-filtro-pessoal/
 fv_video:
   - Paste your YouTube or Vimeo url

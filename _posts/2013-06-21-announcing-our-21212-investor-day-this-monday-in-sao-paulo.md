@@ -4,7 +4,7 @@ title: Announcing our 21212 Investor Day this Monday in São Paulo!
 date: 2013-06-21T13:22:28-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6215
+guid: http://21212.com/?p=6215
 permalink: /blog/announcing-our-21212-investor-day-this-monday-in-sao-paulo/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -20,7 +20,7 @@ categories:
   - com-thumb
 ---
 <p dir="ltr" style="text-align: center;">
-  <span style="color: #ff0000;"><a href="http://local.21212.com/assets/wp-content/uploads/2013/06/header.jpg"><img class="size-full wp-image-6219 aligncenter" alt="header" src="{{ site.url }}/assets/wp-content/uploads/2013/06/header.jpg" width="540" height="245" srcset="{{ site.url }}/assets/wp-content/uploads/2013/06/header.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/06/header-300x136.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a></span>
+  <span style="color: #ff0000;"><a href="http://21212.com/assets/wp-content/uploads/2013/06/header.jpg"><img class="size-full wp-image-6219 aligncenter" alt="header" src="{{ site.url }}/assets/wp-content/uploads/2013/06/header.jpg" width="540" height="245" srcset="{{ site.url }}/assets/wp-content/uploads/2013/06/header.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/06/header-300x136.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a></span>
 </p>
 
 <p dir="ltr">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p dir="ltr" style="text-align: center;">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/06/logos-sponsors.png"><img class=" wp-image-6233 aligncenter" alt="logos-sponsors" src="{{ site.url }}/assets/wp-content/uploads/2013/06/logos-sponsors.png" width="459" height="270" srcset="{{ site.url }}/assets/wp-content/uploads/2013/06/logos-sponsors.png 510w, {{ site.url }}/assets/wp-content/uploads/2013/06/logos-sponsors-300x176.png 300w" sizes="(max-width: 459px) 100vw, 459px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/06/logos-sponsors.png"><img class=" wp-image-6233 aligncenter" alt="logos-sponsors" src="{{ site.url }}/assets/wp-content/uploads/2013/06/logos-sponsors.png" width="459" height="270" srcset="{{ site.url }}/assets/wp-content/uploads/2013/06/logos-sponsors.png 510w, {{ site.url }}/assets/wp-content/uploads/2013/06/logos-sponsors-300x176.png 300w" sizes="(max-width: 459px) 100vw, 459px" /></a>
 </p>
 
 <p dir="ltr">

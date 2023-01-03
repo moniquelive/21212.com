@@ -4,7 +4,7 @@ title: Ainda Tem
 date: 2011-10-24T19:43:24-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=809
+guid: http://21212.com/?p=809
 permalink: /companies/ainda-tem-off/
 sharing_disabled:
   - "1"

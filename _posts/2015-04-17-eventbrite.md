@@ -4,7 +4,7 @@ title: Eventbrite
 date: 2015-04-17T16:40:56-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=7666
+guid: http://21212.com/?p=7666
 permalink: /partners/eventbrite/
 fv_video:
   - Paste your YouTube or Vimeo url

@@ -4,7 +4,7 @@ title: Quem são e o que pensam os jovens brasileiros que estão deixando sua ma
 date: 2012-04-06T16:14:52-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1829
+guid: http://21212.com/?p=1829
 permalink: /press/quem-sao-e-o-que-pensam-os-jovens-brasileiros-que-estao-deixando-sua-marca-na-revolucao-digital/
 fv_video:
   - Paste your YouTube or Vimeo url

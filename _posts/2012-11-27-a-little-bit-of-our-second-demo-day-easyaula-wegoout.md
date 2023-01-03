@@ -5,7 +5,7 @@ date: 2012-11-27T15:57:36-03:00
 author: "21212"
 excerpt: Now, we would like to share with you the videos of two other companies, Easyaula and WeGoOut.
 layout: post
-guid: http://local.21212.com/?p=4410
+guid: http://21212.com/?p=4410
 permalink: /blog/a-little-bit-of-our-second-demo-day-easyaula-wegoout/
 fv_video:
   - Paste your YouTube or Vimeo url

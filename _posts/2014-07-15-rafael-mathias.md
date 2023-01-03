@@ -4,7 +4,7 @@ title: Rafael Mathias
 date: 2014-07-15T14:18:44-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=7390
+guid: http://21212.com/?p=7390
 permalink: /people/rafael-mathias/
 fv_video:
   - Paste your YouTube or Vimeo url

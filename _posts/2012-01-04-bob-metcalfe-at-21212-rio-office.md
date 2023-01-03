@@ -5,7 +5,7 @@ date: 2012-01-04T16:23:16-03:00
 author: "21212"
 excerpt: Today 21212 Digital Accelerator had the honor and privilege to be with Robert Metcalfe.
 layout: post
-guid: http://local.21212.com/?p=1053
+guid: http://21212.com/?p=1053
 permalink: /blog/bob-metcalfe-at-21212-rio-office/
 fv_video:
   - Paste your YouTube or Vimeo url

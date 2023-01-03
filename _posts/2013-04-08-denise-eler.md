@@ -4,7 +4,7 @@ title: Denise Eler
 date: 2013-04-08T18:52:27-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5863
+guid: http://21212.com/?p=5863
 permalink: /people/denise-eler/
 fv_video:
   - Paste your YouTube or Vimeo url

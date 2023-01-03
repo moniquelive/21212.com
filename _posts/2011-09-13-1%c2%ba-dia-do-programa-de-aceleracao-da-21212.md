@@ -4,7 +4,7 @@ title: 1º dia do Programa de Aceleração da 21212
 date: 2011-09-13T14:03:11-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=622
+guid: http://21212.com/?p=622
 permalink: '/blog/1%c2%ba-dia-do-programa-de-aceleracao-da-21212/'
 transposh_can_translate:
   - 'true'

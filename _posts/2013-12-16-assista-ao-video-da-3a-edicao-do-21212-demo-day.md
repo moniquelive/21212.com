@@ -4,7 +4,7 @@ title: Assista ao vídeo da 3ª Edição do 21212 Demo Day!
 date: 2013-12-16T15:18:47-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=7009
+guid: http://21212.com/?p=7009
 permalink: /blog/assista-ao-video-da-3a-edicao-do-21212-demo-day/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -32,7 +32,7 @@ tags:
 </p>
 
 <p dir="ltr">
-  No palco, alguns dos sócios-fundadores da 21212 apresentaram 6 lições aprendidas dos primeiros 2 anos de operação &#8211; 1. Você não pode fazer sozinho, 2. Aposte nos vencedores, 3. Foco em crescimento, 4. Pessoas são o mais importante, 5. Busque o seu mercado, 6. Timing é tudo -, que hoje definem a visão estratégica e as decisões de investimento da aceleradora. Além disso, a agenda do dia contou com a presença de convidados de alto impacto no cenário econômico e empreendedor do país &#8211; <a href="http://local.21212.com/blog/check-out-the-third-21212-demo-day/" target="_blank">leia aqui o post anterior</a> contando detalhes sobre o evento.
+  No palco, alguns dos sócios-fundadores da 21212 apresentaram 6 lições aprendidas dos primeiros 2 anos de operação &#8211; 1. Você não pode fazer sozinho, 2. Aposte nos vencedores, 3. Foco em crescimento, 4. Pessoas são o mais importante, 5. Busque o seu mercado, 6. Timing é tudo -, que hoje definem a visão estratégica e as decisões de investimento da aceleradora. Além disso, a agenda do dia contou com a presença de convidados de alto impacto no cenário econômico e empreendedor do país &#8211; <a href="http://21212.com/blog/check-out-the-third-21212-demo-day/" target="_blank">leia aqui o post anterior</a> contando detalhes sobre o evento.
 </p>
 
 <p style="text-align: center;">

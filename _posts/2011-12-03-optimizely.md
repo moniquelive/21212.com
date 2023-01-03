@@ -4,7 +4,7 @@ title: Optimizely
 date: 2011-12-03T11:22:03-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=3527
+guid: http://21212.com/?p=3527
 permalink: /partners/optimizely/
 fb_social_plugin_settings_box_comments:
   - default

@@ -4,7 +4,7 @@ title: Hora de amadurecer
 date: 2012-12-30T15:19:21-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4951
+guid: http://21212.com/?p=4951
 permalink: /press/hora-de-amadurecer/
 fv_video:
   - Paste your YouTube or Vimeo url

@@ -4,7 +4,7 @@ title: '21212 &#8211; Novo Posicionamento'
 date: 2015-07-01T09:43:40-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=7698
+guid: http://21212.com/?p=7698
 permalink: /blog/pt/21212-novo-posicionamento/
 fv_video:
   - Paste your YouTube or Vimeo url

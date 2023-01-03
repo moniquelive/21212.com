@@ -4,7 +4,7 @@ title: MOVILE PATROCINA O 21212 DEMO DAY
 date: 2014-11-21T19:16:15-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=7557
+guid: http://21212.com/?p=7557
 permalink: /blog/movile-patrocina-o-demo-day-2014/
 fv_video:
   - Paste your YouTube or Vimeo url

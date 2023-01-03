@@ -4,7 +4,7 @@ title: Vitor Oliveira
 date: 2012-07-11T15:35:20-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=3096
+guid: http://21212.com/?p=3096
 permalink: /people/vitor-oliveira/
 fv_video:
   - Paste your YouTube or Vimeo url

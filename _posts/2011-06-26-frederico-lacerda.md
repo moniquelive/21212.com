@@ -4,7 +4,6 @@ title: Frederico Lacerda
 date: 2011-06-26T18:49:13-03:00
 author: "21212"
 layout: post
-guid: http://oci.cyberleo.com.br/?p=72
 permalink: /people/frederico-lacerda/
 fb_social_plugin_settings_box_comments:
   - default

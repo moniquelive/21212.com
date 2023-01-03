@@ -4,7 +4,7 @@ title: 'TECH: HTML5 Game &#8211; Part 1'
 date: 2011-08-16T11:37:58-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=549
+guid: http://21212.com/?p=549
 permalink: /blog/tech-html5-game-part-1/
 transposh_can_translate:
   - 'true'
@@ -19,7 +19,7 @@ _&#8211; This is first post from a series of two post about how to make a HTML5 
 
 Hello everybody! I’m here to tell you about an interesting story that happened with us.
 
-Seven days ago, in a lunch table, the <a href="http://local.21212.com/team/" target="_blank">21 212 team</a> was talking about the features that we can use  in game development for mobile web apps. After a little discussion a goal was assigned to us: Develop an html5 cross-device game (mobile, tablet and PC) in 7 days! We thought that it’d be possible and we accepted the goal. So we started our new journey to try to acquire new knowledge and prepare us to in future to do similar things faster and help our entrepreneurs!
+Seven days ago, in a lunch table, the <a href="http://21212.com/team/" target="_blank">21 212 team</a> was talking about the features that we can use  in game development for mobile web apps. After a little discussion a goal was assigned to us: Develop an html5 cross-device game (mobile, tablet and PC) in 7 days! We thought that it’d be possible and we accepted the goal. So we started our new journey to try to acquire new knowledge and prepare us to in future to do similar things faster and help our entrepreneurs!
 
 The game chosen for our challenge was a <a href="http://pt.wikipedia.org/wiki/Jogo_de_b%C3%BAzios" target="_blank">búzios</a> game that has simple logic and we can try using some interesting features like shake the búzios’ seashell when we are shaking a mobile with an accelerometer. In a nutshell the búzios is an afro-brazilian religion game that the guesser tries to figure out what message the divinities, called <a href="http://pt.wikipedia.org/wiki/Orix%C3%A1" target="_blank">orixás</a>, will tell the user when he throws búzios’ seashell on the basket! You need to have faith! :)
 

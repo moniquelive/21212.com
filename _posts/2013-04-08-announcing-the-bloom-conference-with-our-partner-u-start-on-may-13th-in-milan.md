@@ -4,7 +4,7 @@ title: Announcing the BLOOM Conference with our partner U-Start on May 13th in M
 date: 2013-04-08T17:11:12-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5832
+guid: http://21212.com/?p=5832
 permalink: /blog/announcing-the-bloom-conference-with-our-partner-u-start-on-may-13th-in-milan/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -18,7 +18,7 @@ categories:
   - com-thumb
 ---
 <p dir="ltr" style="text-align: center;">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/04/Bloom-ustart.jpg"><img class="size-full wp-image-5838 aligncenter" alt="Bloom-ustart" src="{{ site.url }}/assets/wp-content/uploads/2013/04/Bloom-ustart.jpg" width="540" height="264" srcset="{{ site.url }}/assets/wp-content/uploads/2013/04/Bloom-ustart.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/04/Bloom-ustart-300x146.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/04/Bloom-ustart.jpg"><img class="size-full wp-image-5838 aligncenter" alt="Bloom-ustart" src="{{ site.url }}/assets/wp-content/uploads/2013/04/Bloom-ustart.jpg" width="540" height="264" srcset="{{ site.url }}/assets/wp-content/uploads/2013/04/Bloom-ustart.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/04/Bloom-ustart-300x146.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
 </p>
 
 <p dir="ltr">

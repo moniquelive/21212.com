@@ -4,7 +4,7 @@ title: Saldo Coletivo
 date: 2014-06-19T16:34:30-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=7415
+guid: http://21212.com/?p=7415
 permalink: /companies/saldo-coletivo/
 fv_video:
   - Paste your YouTube or Vimeo url

@@ -4,7 +4,7 @@ title: 45 startups brasileiras de futuro
 date: 2012-11-29T15:01:28-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4455
+guid: http://21212.com/?p=4455
 permalink: /press/45-startups-brasileiras-de-futuro/
 fv_video:
   - Paste your YouTube or Vimeo url

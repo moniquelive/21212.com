@@ -4,7 +4,7 @@ title: Simpply
 date: 2012-03-24T13:31:12-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1682
+guid: http://21212.com/?p=1682
 permalink: /investment/company-simpply/
 bt-company-summary:
   - http://dd.21212.com/assets/simpply.pdf

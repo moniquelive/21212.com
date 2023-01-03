@@ -4,7 +4,6 @@ title: Rafael Duton
 date: 2011-06-26T18:53:50-03:00
 author: "21212"
 layout: post
-guid: http://oci.cyberleo.com.br/?p=75
 permalink: /people/rafael-duton/
 sharing_disabled:
   - "1"

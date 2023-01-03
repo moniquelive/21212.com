@@ -4,7 +4,7 @@ title: Daniel Ribenboim Simon
 date: 2012-08-13T18:48:32-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=3289
+guid: http://21212.com/?p=3289
 permalink: /people/daniel-ribenboim-simon/
 fb_social_plugin_settings_box_comments:
   - default

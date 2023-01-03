@@ -5,7 +5,7 @@ date: 2012-08-12T18:34:22-03:00
 author: "21212"
 excerpt: Brazilians are invading Silicon Valley in September 2012, so we at 21212 decided to organize a barbecue for "Friends of Brazil" on Sunday afternoon, September 9th.
 layout: post
-guid: http://local.21212.com/?p=3249
+guid: http://21212.com/?p=3249
 permalink: /blog/friends-of-brazil-tech-bbq/
 fb_social_plugin_settings_box_comments:
   - default
@@ -29,7 +29,7 @@ fb_fan_page_post_id:
   - 234458136577902_457343204288636
 fb_status_messages:
   - |
-    a:2:{i:0;a:2:{s:7:"message";s:147:"Posted to <a href="http://www.facebook.com/234458136577902/posts/457343204288636" target="_blank">21212 Digital Accelerator's Facebook Timeline</a>";s:5:"error";s:0:"";}i:1;a:2:{s:7:"message";s:325:"Failed posting to your Facebook Timeline. Error: {"message":"Object at URL 'http://local.21212.com/blog/friends-of-brazil-tech-bbq/' of type 'article' is invalid because it specifies multiple 'og:url' values: http://local.21212.com/blog/friends-of-brazil-tech-bbq/, http://local.21212.com/blog/friends-of-brazil-tech-bbq/.","type":"Exception"}";s:5:"error";s:1:"1";}}
+    a:2:{i:0;a:2:{s:7:"message";s:147:"Posted to <a href="http://www.facebook.com/234458136577902/posts/457343204288636" target="_blank">21212 Digital Accelerator's Facebook Timeline</a>";s:5:"error";s:0:"";}i:1;a:2:{s:7:"message";s:325:"Failed posting to your Facebook Timeline. Error: {"message":"Object at URL 'http://21212.com/blog/friends-of-brazil-tech-bbq/' of type 'article' is invalid because it specifies multiple 'og:url' values: http://21212.com/blog/friends-of-brazil-tech-bbq/, http://21212.com/blog/friends-of-brazil-tech-bbq/.","type":"Exception"}";s:5:"error";s:1:"1";}}
 transposh_can_translate:
   - 'true'
 image: /assets/wp-content/uploads/2012/08/brasil_2525_1.jpg

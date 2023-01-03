@@ -4,7 +4,7 @@ title: 'Brazilian taxi booking startup ResolveAÍ: Beyond 21212′s first Demo D
 date: 2012-10-19T09:57:46-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4175
+guid: http://21212.com/?p=4175
 permalink: '/press/brazilian-taxi-booking-startup-resolveai-beyond-21212%e2%80%b2s-first-demo-day/'
 fb_social_plugin_settings_box_comments:
   - default

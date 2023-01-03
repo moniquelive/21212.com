@@ -4,7 +4,7 @@ title: 18 Latin American tech hubs you should know
 date: 2012-08-16T14:41:42-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=3360
+guid: http://21212.com/?p=3360
 permalink: /press/18-latin-american-tech-hubs-you-should-know/
 fb_social_plugin_settings_box_comments:
   - default

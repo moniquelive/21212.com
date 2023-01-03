@@ -4,7 +4,7 @@ title: 'Investimento: motor de crescimento das startups!'
 date: 2013-10-28T18:25:21-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6845
+guid: http://21212.com/?p=6845
 permalink: /blog/investimento-motor-de-crescimento-das-startups/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <div id="attachment_6847" style="width: 413px" class="wp-caption aligncenter">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/10/fbposts07-selectioncampaign.png"><img aria-describedby="caption-attachment-6847" class="size-full wp-image-6847" alt="Márcio Campos, CEO da Pagpop, no Demo Day da 21212." src="{{ site.url }}/assets/wp-content/uploads/2013/10/fbposts07-selectioncampaign.png" width="403" height="403" srcset="{{ site.url }}/assets/wp-content/uploads/2013/10/fbposts07-selectioncampaign.png 403w, {{ site.url }}/assets/wp-content/uploads/2013/10/fbposts07-selectioncampaign-150x150.png 150w, {{ site.url }}/assets/wp-content/uploads/2013/10/fbposts07-selectioncampaign-300x300.png 300w" sizes="(max-width: 403px) 100vw, 403px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/10/fbposts07-selectioncampaign.png"><img aria-describedby="caption-attachment-6847" class="size-full wp-image-6847" alt="Márcio Campos, CEO da Pagpop, no Demo Day da 21212." src="{{ site.url }}/assets/wp-content/uploads/2013/10/fbposts07-selectioncampaign.png" width="403" height="403" srcset="{{ site.url }}/assets/wp-content/uploads/2013/10/fbposts07-selectioncampaign.png 403w, {{ site.url }}/assets/wp-content/uploads/2013/10/fbposts07-selectioncampaign-150x150.png 150w, {{ site.url }}/assets/wp-content/uploads/2013/10/fbposts07-selectioncampaign-300x300.png 300w" sizes="(max-width: 403px) 100vw, 403px" /></a>
 
   <p id="caption-attachment-6847" class="wp-caption-text">
     Márcio Campos, CEO da Pagpop, no Demo Day da 21212.

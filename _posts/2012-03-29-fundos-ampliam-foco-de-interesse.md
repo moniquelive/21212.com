@@ -4,7 +4,7 @@ title: Fundos ampliam foco de interesse
 date: 2012-03-29T14:30:22-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1730
+guid: http://21212.com/?p=1730
 permalink: /press/fundos-ampliam-foco-de-interesse/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -17,7 +17,7 @@ data-publicacao:
 tit-publicacao:
   - Fundos ampliam foco de interesse
 link-publicacao:
-  - http://local.21212.com/assets/wp-content/uploads/2012/03/Fundos-ampliam-foco-de-interesse.pdf
+  - http://21212.com/assets/wp-content/uploads/2012/03/Fundos-ampliam-foco-de-interesse.pdf
 nome-veiculo:
   - Valor Econômico
 transposh_can_translate:

@@ -13,7 +13,7 @@ categories:
   <img class="aligncenter size-full wp-image-274" src="{{ site.url }}/assets/wp-content/uploads/2011/07/hello1.png" alt="hello" srcset="{{ site.url }}/assets/wp-content/uploads/2011/07/hello1.png 350w, {{ site.url }}/assets/wp-content/uploads/2011/07/hello1-300x265.png 300w" sizes="(max-width: 350px) 100vw, 350px" />
 </p>
 
-**1)** We are a seed accelerator of digital businesses in Brazil. Still confusing? Click <a title="About" href="http://local.21212.com/about/" target="_blank">here</a>.
+**1)** We are a seed accelerator of digital businesses in Brazil. Still confusing? Click <a title="About" href="http://21212.com/about/" target="_blank">here</a>.
 
 **2)** Our name is a joke from our origin (21 = Rio, 212 = NY) and it&#8217;s also the master password of all our accounts.
 
@@ -33,6 +33,6 @@ categories:
 
 **9)** We promise we will help developing the Brazilian digital ecosystem. Wanna bet?
 
-**10)** If you&#8217;ve got here, we know you will come back. It will be worth it! Satisfaction is guaranteed, but you will only know if you <a title="Apply" href="http://local.21212.com/apply/" target="_blank">apply</a>.
+**10)** If you&#8217;ve got here, we know you will come back. It will be worth it! Satisfaction is guaranteed, but you will only know if you <a title="Apply" href="http://21212.com/apply/" target="_blank">apply</a>.
 
 Welcome to **21212 Community Lounge**!

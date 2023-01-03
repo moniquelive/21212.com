@@ -4,7 +4,7 @@ title: Macmillan Digital Education Invests in Easyaula!
 date: 2013-02-20T18:09:24-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5478
+guid: http://21212.com/?p=5478
 permalink: /blog/macmillan-digital-education-invests-in-easyaula/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -20,7 +20,7 @@ categories:
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/02/main_image-1.jpg"><img class="size-medium wp-image-5479 aligncenter" alt="main_image (1)" src="{{ site.url }}/assets/wp-content/uploads/2013/02/main_image-1-300x166.jpg" width="300" height="166" srcset="{{ site.url }}/assets/wp-content/uploads/2013/02/main_image-1-300x166.jpg 300w, {{ site.url }}/assets/wp-content/uploads/2013/02/main_image-1.jpg 540w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/02/main_image-1.jpg"><img class="size-medium wp-image-5479 aligncenter" alt="main_image (1)" src="{{ site.url }}/assets/wp-content/uploads/2013/02/main_image-1-300x166.jpg" width="300" height="166" srcset="{{ site.url }}/assets/wp-content/uploads/2013/02/main_image-1-300x166.jpg 300w, {{ site.url }}/assets/wp-content/uploads/2013/02/main_image-1.jpg 540w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 <b id="internal-source-marker_0.6280653781723231">We are delighted to announce Macmillan Digital Education’s recent investment in Easyaula! Macmillan Digital Education is a corporate venture capital investor and incubator aimed at making learning more effective. They provide online and printed material for teachers, students and educational institutions and have been active in Brazil since 1994.</p>

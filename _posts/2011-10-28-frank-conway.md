@@ -4,7 +4,7 @@ title: Frank Conway
 date: 2011-10-28T00:25:29-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=775
+guid: http://21212.com/?p=775
 permalink: /people/frank-conway/
 sharing_disabled:
   - "1"

@@ -4,7 +4,7 @@ title: Product Development Tips and Tools
 date: 2013-07-30T20:09:58-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6532
+guid: http://21212.com/?p=6532
 permalink: /blog/product-development-tips-and-tools/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -18,7 +18,7 @@ categories:
   - com-thumb
 ---
 <p dir="ltr" style="text-align: center;">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/07/Design-Strategy.png"><img class=" wp-image-6543 aligncenter" alt="Design-Strategy" src="{{ site.url }}/assets/wp-content/uploads/2013/07/Design-Strategy.png" width="480" height="222" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/Design-Strategy.png 834w, {{ site.url }}/assets/wp-content/uploads/2013/07/Design-Strategy-300x138.png 300w" sizes="(max-width: 480px) 100vw, 480px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/07/Design-Strategy.png"><img class=" wp-image-6543 aligncenter" alt="Design-Strategy" src="{{ site.url }}/assets/wp-content/uploads/2013/07/Design-Strategy.png" width="480" height="222" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/Design-Strategy.png 834w, {{ site.url }}/assets/wp-content/uploads/2013/07/Design-Strategy-300x138.png 300w" sizes="(max-width: 480px) 100vw, 480px" /></a>
 </p>
 
 <p dir="ltr">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p dir="ltr">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/07/logo-zeropaper-wide.jpg"><img class="wp-image-6536 alignleft" alt="logo-zeropaper-wide" src="{{ site.url }}/assets/wp-content/uploads/2013/07/logo-zeropaper-wide.jpg" width="227" height="76" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/logo-zeropaper-wide.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/07/logo-zeropaper-wide-300x100.jpg 300w" sizes="(max-width: 227px) 100vw, 227px" /></a>1. Analysis &#8211; Analysis is the process of understanding exactly what problem needs to be solved and how to get to the solution. It involves looking at the benchmarks and competitors as well as  analyzing the marketing strategies. Focusing attention on your metrics is crucial to seeing how your company is growing and evolving each day.
+  <a href="http://21212.com/assets/wp-content/uploads/2013/07/logo-zeropaper-wide.jpg"><img class="wp-image-6536 alignleft" alt="logo-zeropaper-wide" src="{{ site.url }}/assets/wp-content/uploads/2013/07/logo-zeropaper-wide.jpg" width="227" height="76" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/logo-zeropaper-wide.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/07/logo-zeropaper-wide-300x100.jpg 300w" sizes="(max-width: 227px) 100vw, 227px" /></a>1. Analysis &#8211; Analysis is the process of understanding exactly what problem needs to be solved and how to get to the solution. It involves looking at the benchmarks and competitors as well as  analyzing the marketing strategies. Focusing attention on your metrics is crucial to seeing how your company is growing and evolving each day.
 </p>
 
 <p dir="ltr">
@@ -42,7 +42,7 @@ categories:
 </p>
 
 <p style="text-align: left;">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/07/ux-roi-user-experience-return-on-investment.png"><img class="size-full wp-image-6533 aligncenter" alt="ux-roi-user-experience-return-on-investment" src="{{ site.url }}/assets/wp-content/uploads/2013/07/ux-roi-user-experience-return-on-investment.png" width="451" height="202" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/ux-roi-user-experience-return-on-investment.png 451w, {{ site.url }}/assets/wp-content/uploads/2013/07/ux-roi-user-experience-return-on-investment-300x134.png 300w, {{ site.url }}/assets/wp-content/uploads/2013/07/ux-roi-user-experience-return-on-investment-450x202.png 450w" sizes="(max-width: 451px) 100vw, 451px" /></a>3. UX (user experience) &#8211; User experience involves transferring yourself into the mind of the user and analyzing their thought process as they use your product. What kind of feelings do you want them to have as they navigate through your platform? Do you want your platform to create a simple, quick and practical experience or a more dynamic, stylish and multifaceted one? Thinking about who your customers will help you understand how they will experience your product.
+  <a href="http://21212.com/assets/wp-content/uploads/2013/07/ux-roi-user-experience-return-on-investment.png"><img class="size-full wp-image-6533 aligncenter" alt="ux-roi-user-experience-return-on-investment" src="{{ site.url }}/assets/wp-content/uploads/2013/07/ux-roi-user-experience-return-on-investment.png" width="451" height="202" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/ux-roi-user-experience-return-on-investment.png 451w, {{ site.url }}/assets/wp-content/uploads/2013/07/ux-roi-user-experience-return-on-investment-300x134.png 300w, {{ site.url }}/assets/wp-content/uploads/2013/07/ux-roi-user-experience-return-on-investment-450x202.png 450w" sizes="(max-width: 451px) 100vw, 451px" /></a>3. UX (user experience) &#8211; User experience involves transferring yourself into the mind of the user and analyzing their thought process as they use your product. What kind of feelings do you want them to have as they navigate through your platform? Do you want your platform to create a simple, quick and practical experience or a more dynamic, stylish and multifaceted one? Thinking about who your customers will help you understand how they will experience your product.
 </p>
 
 <p dir="ltr">

@@ -4,7 +4,7 @@ title: Igluu
 date: 2012-03-24T13:01:47-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1666
+guid: http://21212.com/?p=1666
 permalink: /investment/company-igluu/
 bt-company-summary:
   - http://dd.21212.com/assets/igluu.pdf

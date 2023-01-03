@@ -5,7 +5,7 @@ date: 2013-02-25T12:24:32-03:00
 author: "21212"
 excerpt: 'UK Trade & Investment and Riosoft are inviting entrepreneurs of technology and innovation to participate in the Startup Competition of Brazil and the United Kingdom. The winners of the competition will be brought to Tech City in London.'
 layout: post
-guid: http://local.21212.com/?p=5518
+guid: http://21212.com/?p=5518
 permalink: /blog/join-the-startup-competition-of-brazil-and-uk/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -18,7 +18,7 @@ categories:
   - Blog
   - com-thumb
 ---
-[<img class="aligncenter size-full wp-image-5520" alt="Está preparado para competir com os melhores?" src="{{ site.url }}/assets/wp-content/uploads/2013/02/main.jpg" width="540" height="300" srcset="{{ site.url }}/assets/wp-content/uploads/2013/02/main.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/02/main-300x166.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://local.21212.com/assets/wp-content/uploads/2013/02/main.jpg)
+[<img class="aligncenter size-full wp-image-5520" alt="Está preparado para competir com os melhores?" src="{{ site.url }}/assets/wp-content/uploads/2013/02/main.jpg" width="540" height="300" srcset="{{ site.url }}/assets/wp-content/uploads/2013/02/main.jpg 540w, {{ site.url }}/assets/wp-content/uploads/2013/02/main-300x166.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://21212.com/assets/wp-content/uploads/2013/02/main.jpg)
 
 UK Trade & Investment and Riosoft are inviting entrepreneurs of technology and innovation to participate in the Startup Competition of Brazil and the United Kingdom. The winners of the competition will be brought to Tech City in London.
 

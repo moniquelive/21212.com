@@ -4,7 +4,7 @@ title: 21212 Revamps its model for 2013 to do more, faster
 date: 2012-12-05T00:38:46-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4459
+guid: http://21212.com/?p=4459
 permalink: /blog/21212-renew-its-model-to-do-more-faster-in-2013/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -21,7 +21,7 @@ categories:
 
 First off, we’d like to thank all the entrepreneurs, investors, sponsors and supporters that participated in the <a title="21212 Demo Day" href="http://demoday.21212.com/" target="_blank">2nd 21212 Demo Day on October 19th</a>. It was a huge success and a testament to how quickly the startup ecosystem in Rio and Brazil is evolving. Demo Day is an invitation only event for investors and it’s clear the community of active investors is growing very quickly &#8212; this time around we had 350+ people in attendance and over 100 investors from Brazil, US, and Europe.
 
-At Demo Day we announced some of 21212’s initial results and we’d like to share those with all of you now. In our first 2 programs this past year 21212 has accelerated a total of <a title="Companies" href="http://local.21212.com/companies/" target="_blank">18 companies</a>. So far, 12 of those companies have received outside capital or firm commitments for outside investment, <strong style="font-weight: bold;">totaling over R$7.5M</strong>. This number is growing quickly and the pace of investment is increasing as both our companies and the ecosystem mature.
+At Demo Day we announced some of 21212’s initial results and we’d like to share those with all of you now. In our first 2 programs this past year 21212 has accelerated a total of <a title="Companies" href="http://21212.com/companies/" target="_blank">18 companies</a>. So far, 12 of those companies have received outside capital or firm commitments for outside investment, <strong style="font-weight: bold;">totaling over R$7.5M</strong>. This number is growing quickly and the pace of investment is increasing as both our companies and the ecosystem mature.
 
 The early results are encouraging, but we have a lot more work to do. We always tell our companies, in order to build the best product, you need to talk to your customers all the time. We apply the lean startup methodology of “build, measure, learn” to 21212 in the same way we would to any of our companies.
 

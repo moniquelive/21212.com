@@ -4,7 +4,7 @@ title: Marcelo Melo
 date: 2012-08-09T14:57:48-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=3235
+guid: http://21212.com/?p=3235
 permalink: /people/marcelo-melo/
 fb_social_plugin_settings_box_comments:
   - hide
@@ -28,7 +28,7 @@ fb_fan_page_post_id:
   - 234458136577902_348190378596128
 fb_status_messages:
   - |
-    a:2:{i:0;a:2:{s:7:"message";s:147:"Posted to <a href="http://www.facebook.com/234458136577902/posts/348190378596128" target="_blank">21212 Digital Accelerator's Facebook Timeline</a>";s:5:"error";s:0:"";}i:1;a:2:{s:7:"message";s:289:"Failed posting to your Facebook Timeline. Error: {"message":"Object at URL 'http://local.21212.com/people/marcelo-melo/' of type 'article' is invalid because it specifies multiple 'og:url' values: http://local.21212.com/people/marcelo-melo/, http://local.21212.com/people/marcelo-melo/.","type":"Exception"}";s:5:"error";s:1:"1";}}
+    a:2:{i:0;a:2:{s:7:"message";s:147:"Posted to <a href="http://www.facebook.com/234458136577902/posts/348190378596128" target="_blank">21212 Digital Accelerator's Facebook Timeline</a>";s:5:"error";s:0:"";}i:1;a:2:{s:7:"message";s:289:"Failed posting to your Facebook Timeline. Error: {"message":"Object at URL 'http://21212.com/people/marcelo-melo/' of type 'article' is invalid because it specifies multiple 'og:url' values: http://21212.com/people/marcelo-melo/, http://21212.com/people/marcelo-melo/.","type":"Exception"}";s:5:"error";s:1:"1";}}
 class:
   - Entrepreneur
 role:

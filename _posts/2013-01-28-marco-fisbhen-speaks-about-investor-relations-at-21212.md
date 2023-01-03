@@ -5,7 +5,7 @@ date: 2013-01-28T15:50:47-03:00
 author: "21212"
 excerpt: 'For our Weekly Talk on January 24th, Marco Fisbhen, the founder of Descomplica!, gave a presentation on investor relations. Descomplica! is an online platform that provides low-cost, multidisciplinary online classes to help students study for the vestibular, the Brazilian college entrance exam. '
 layout: post
-guid: http://local.21212.com/?p=5226
+guid: http://21212.com/?p=5226
 permalink: /blog/marco-fisbhen-speaks-about-investor-relations-at-21212/
 fv_video:
   - Paste your YouTube or Vimeo url

@@ -4,7 +4,7 @@ title: Superplayer lança app para Windows Phone
 date: 2014-08-05T17:16:36-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=7436
+guid: http://21212.com/?p=7436
 permalink: /blog/superplayer-lanca-app-para-windows-phone/
 fv_video:
   - Paste your YouTube or Vimeo url

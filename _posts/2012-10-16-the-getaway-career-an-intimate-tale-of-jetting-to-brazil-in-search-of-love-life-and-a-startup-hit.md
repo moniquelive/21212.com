@@ -4,7 +4,7 @@ title: 'The Getaway Career: An Intimate Tale Of Jetting To Brazil In Search Of L
 date: 2012-10-16T18:32:17-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=4148
+guid: http://21212.com/?p=4148
 permalink: /press/the-getaway-career-an-intimate-tale-of-jetting-to-brazil-in-search-of-love-life-and-a-startup-hit/
 fb_social_plugin_settings_box_comments:
   - default

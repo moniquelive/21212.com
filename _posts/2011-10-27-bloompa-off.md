@@ -4,7 +4,7 @@ title: Bloompa
 date: 2011-10-27T23:26:12-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=818
+guid: http://21212.com/?p=818
 permalink: /companies/bloompa-off/
 sharing_disabled:
   - "1"

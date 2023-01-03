@@ -4,7 +4,7 @@ title: Robert Holzer
 date: 2011-09-26T19:36:28-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=687
+guid: http://21212.com/?p=687
 permalink: /people/robert-holzer/
 sharing_disabled:
   - "1"

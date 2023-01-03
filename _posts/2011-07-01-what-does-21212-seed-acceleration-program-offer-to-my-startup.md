@@ -25,7 +25,7 @@ tags:
 ---
 21212.com seed acceleration program offers:
 
-&#8211; Intensive business and technology coaching from <a title="21212.com Team" href="http://local.21212.com/team/" target="_blank">21212 Team</a>;
+&#8211; Intensive business and technology coaching from <a title="21212.com Team" href="http://21212.com/team/" target="_blank">21212 Team</a>;
 
 &#8211; Mentoring from successful and experienced entrepreneurs, experts and investors in Brazil and the US;
 

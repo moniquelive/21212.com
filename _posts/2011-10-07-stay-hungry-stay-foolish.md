@@ -4,7 +4,7 @@ title: Stay Hungry, Stay Foolish
 date: 2011-10-07T16:14:11-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=694
+guid: http://21212.com/?p=694
 permalink: /blog/stay-hungry-stay-foolish/
 transposh_can_translate:
   - 'true'

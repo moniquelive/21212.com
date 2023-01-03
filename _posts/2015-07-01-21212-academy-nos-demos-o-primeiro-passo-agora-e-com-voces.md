@@ -4,7 +4,7 @@ title: '21212 Academy: nós demos o primeiro passo, agora é com vocês!'
 date: 2015-07-01T10:50:19-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=7706
+guid: http://21212.com/?p=7706
 permalink: /blog/21212-academy-nos-demos-o-primeiro-passo-agora-e-com-voces/
 fv_video:
   - Paste your YouTube or Vimeo url

@@ -4,7 +4,6 @@ title: Benjamin White
 date: 2011-06-26T19:00:56-03:00
 author: "21212"
 layout: post
-guid: http://oci.cyberleo.com.br/?p=85
 permalink: /people/benjamin-white/
 sharing_disabled:
   - "1"

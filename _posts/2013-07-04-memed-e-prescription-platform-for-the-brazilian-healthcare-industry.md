@@ -4,7 +4,7 @@ title: 'Memed- E-prescription platform for the Brazilian Healthcare Industry'
 date: 2013-07-04T16:38:30-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6198
+guid: http://21212.com/?p=6198
 permalink: /blog/memed-e-prescription-platform-for-the-brazilian-healthcare-industry/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -28,7 +28,7 @@ tags:
 </p>
 
 <div id="attachment_6346" style="width: 310px" class="wp-caption alignleft">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/07/J9H3526.jpg"><img aria-describedby="caption-attachment-6346" class="size-medium wp-image-6346 " alt="_J9H3526" src="{{ site.url }}/assets/wp-content/uploads/2013/07/J9H3526-300x200.jpg" width="300" height="200" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/J9H3526-300x200.jpg 300w, {{ site.url }}/assets/wp-content/uploads/2013/07/J9H3526.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/07/J9H3526.jpg"><img aria-describedby="caption-attachment-6346" class="size-medium wp-image-6346 " alt="_J9H3526" src="{{ site.url }}/assets/wp-content/uploads/2013/07/J9H3526-300x200.jpg" width="300" height="200" srcset="{{ site.url }}/assets/wp-content/uploads/2013/07/J9H3526-300x200.jpg 300w, {{ site.url }}/assets/wp-content/uploads/2013/07/J9H3526.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 
   <p id="caption-attachment-6346" class="wp-caption-text">
     Ricardo pitching at our 21212 Investor Day in São Paulo
@@ -39,7 +39,7 @@ Since Memed entered our Acceleration Program, they have seen a huge increase in 
 
 The idea for Memed came from typical lean startup methodology. The team, made up of three Paulistas, Ricardo, Marcel and René, identified a problem that needed to be solved. Ricardo’s brother, a dermatologist from a small town outside of the city of São Paulo, had a difficult time keeping up with the new, innovative pharmaceutical products that were being prescribed in the city of São Paulo. Due to expensive travel costs and lack of time, sales representatives from pharmaceutical companies rarely make it outside if the major cities in Brazil to present their new products, making it difficult for these doctors to stay updated with the latest and most advanced health care products on the market. This occurs throughout Brazil, however, the regions most affected are the North and Northeast .
 
-[<img class="wp-image-6207 alignright" alt="memedmain1" src="{{ site.url }}/assets/wp-content/uploads/2013/06/memedmain1-688x1024.jpg" width="231" height="344" srcset="{{ site.url }}/assets/wp-content/uploads/2013/06/memedmain1-688x1024.jpg 688w, {{ site.url }}/assets/wp-content/uploads/2013/06/memedmain1-201x300.jpg 201w, {{ site.url }}/assets/wp-content/uploads/2013/06/memedmain1.jpg 1112w" sizes="(max-width: 231px) 100vw, 231px" />](http://local.21212.com/assets/wp-content/uploads/2013/06/memedmain1.jpg)In addition to this problem, the Memed team also discovered that there is a surprising 75% chance of error in prescriptions made in Brazil. This percent error takes into account any mistake or communication error that could be committed throughout the entire process of prescribing a medication, from when the patient enters the hospital and to after they go to the pharmacy to collect their medicine.Throughout this time, various errors could occur from a misreading of the prescription due to illegible handwriting to a patient taking the wrong dosage of a prescription.
+[<img class="wp-image-6207 alignright" alt="memedmain1" src="{{ site.url }}/assets/wp-content/uploads/2013/06/memedmain1-688x1024.jpg" width="231" height="344" srcset="{{ site.url }}/assets/wp-content/uploads/2013/06/memedmain1-688x1024.jpg 688w, {{ site.url }}/assets/wp-content/uploads/2013/06/memedmain1-201x300.jpg 201w, {{ site.url }}/assets/wp-content/uploads/2013/06/memedmain1.jpg 1112w" sizes="(max-width: 231px) 100vw, 231px" />](http://21212.com/assets/wp-content/uploads/2013/06/memedmain1.jpg)In addition to this problem, the Memed team also discovered that there is a surprising 75% chance of error in prescriptions made in Brazil. This percent error takes into account any mistake or communication error that could be committed throughout the entire process of prescribing a medication, from when the patient enters the hospital and to after they go to the pharmacy to collect their medicine.Throughout this time, various errors could occur from a misreading of the prescription due to illegible handwriting to a patient taking the wrong dosage of a prescription.
 
 After careful evaluation, the Memed team came up with their solution&#8211; a platform that aims to be the main resource for comprehensive healthcare information, digitally cataloging the newest and best products and providing the information doctors need to prescribe their patients with the right medications. As a digital platform, Memed allows doctors throughout Brazil to have access to the same new innovative products no matter what region they are in. The platform also allows doctors to browse through products efficiently, making it possible to analyze various medications with the right details to prescribe patients accurately and quickly.
 

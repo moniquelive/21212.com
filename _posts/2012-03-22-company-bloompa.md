@@ -4,7 +4,7 @@ title: Bloompa
 date: 2012-03-22T12:30:35-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1584
+guid: http://21212.com/?p=1584
 permalink: /investment/company-bloompa/
 sharing_disabled:
   - "1"

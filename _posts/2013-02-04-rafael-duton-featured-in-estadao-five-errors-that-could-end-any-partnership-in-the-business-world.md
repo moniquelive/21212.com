@@ -4,7 +4,7 @@ title: 'Rafael Duton featured in Estadão: Five errors that could end any partne
 date: 2013-02-04T19:17:47-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5339
+guid: http://21212.com/?p=5339
 permalink: /blog/rafael-duton-featured-in-estadao-five-errors-that-could-end-any-partnership-in-the-business-world/
 fv_video:
   - Paste your YouTube or Vimeo url

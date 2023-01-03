@@ -4,7 +4,6 @@ title: Renato Cesar
 date: 2011-06-26T18:37:31-03:00
 author: "21212"
 layout: post
-guid: http://oci.cyberleo.com.br/?p=65
 permalink: /people/renato-cesar/
 sharing_disabled:
   - "1"

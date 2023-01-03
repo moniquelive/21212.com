@@ -4,7 +4,7 @@ title: Andre Diamand
 date: 2012-05-08T12:34:40-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=1906
+guid: http://21212.com/?p=1906
 permalink: /people/andre-diamand/
 cargo:
   - Mentor

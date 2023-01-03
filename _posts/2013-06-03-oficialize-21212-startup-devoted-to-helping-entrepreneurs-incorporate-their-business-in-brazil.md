@@ -4,7 +4,7 @@ title: 'Oficialize: 21212 startup devoted to helping entrepreneurs incorporate t
 date: 2013-06-03T09:44:39-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6100
+guid: http://21212.com/?p=6100
 permalink: /blog/oficialize-21212-startup-devoted-to-helping-entrepreneurs-incorporate-their-business-in-brazil/
 fv_video:
   - Paste your YouTube or Vimeo url
@@ -20,7 +20,7 @@ categories:
   - com-thumb
 ---
 <p style="text-align: center;">
-  <a href="http://local.21212.com/assets/wp-content/uploads/2013/05/oficializemain2.jpg"><img class="wp-image-6102 aligncenter" alt="oficializemain2" src="{{ site.url }}/assets/wp-content/uploads/2013/05/oficializemain2.jpg" width="518" height="128" srcset="{{ site.url }}/assets/wp-content/uploads/2013/05/oficializemain2.jpg 575w, {{ site.url }}/assets/wp-content/uploads/2013/05/oficializemain2-300x74.jpg 300w" sizes="(max-width: 518px) 100vw, 518px" /></a>
+  <a href="http://21212.com/assets/wp-content/uploads/2013/05/oficializemain2.jpg"><img class="wp-image-6102 aligncenter" alt="oficializemain2" src="{{ site.url }}/assets/wp-content/uploads/2013/05/oficializemain2.jpg" width="518" height="128" srcset="{{ site.url }}/assets/wp-content/uploads/2013/05/oficializemain2.jpg 575w, {{ site.url }}/assets/wp-content/uploads/2013/05/oficializemain2-300x74.jpg 300w" sizes="(max-width: 518px) 100vw, 518px" /></a>
 </p>
 
 <p dir="ltr">
@@ -44,5 +44,5 @@ categories:
 </p>
 
 <p dir="ltr">
-  21212 is excited about Oficialize and their potential to foster business growth throughout Brazil. If you would like to learn more about the startup or get in touch with one of their co-founders, they can be found online at <a href="http://www.oficialize.com.br">www.oficialize.com.br</a> or <a href="https://www.facebook.com/Oficialize">www.facebook.com/Oficialize</a>.  You can also find them on 21212’s website at: <a href="http://local.21212.com/companies/oficialize/">21212.com/companies/oficialize</a>.
+  21212 is excited about Oficialize and their potential to foster business growth throughout Brazil. If you would like to learn more about the startup or get in touch with one of their co-founders, they can be found online at <a href="http://www.oficialize.com.br">www.oficialize.com.br</a> or <a href="https://www.facebook.com/Oficialize">www.facebook.com/Oficialize</a>.  You can also find them on 21212’s website at: <a href="http://21212.com/companies/oficialize/">21212.com/companies/oficialize</a>.
 </p>

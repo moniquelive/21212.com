@@ -4,7 +4,7 @@ title: Want to know what we have done in the last 2 years? Watch this video now!
 date: 2013-10-29T19:18:24-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=6860
+guid: http://21212.com/?p=6860
 permalink: /blog/want-to-know-what-we-have-done-in-the-last-2-years-watch-this-video-now/
 fv_video:
   - Paste your YouTube or Vimeo url

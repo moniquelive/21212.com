@@ -4,7 +4,7 @@ title: Site Blindado
 date: 2013-02-01T14:27:34-03:00
 author: "21212"
 layout: post
-guid: http://local.21212.com/?p=5330
+guid: http://21212.com/?p=5330
 permalink: /partners/site-blindado-2/
 fv_video:
   - Paste your YouTube or Vimeo url
