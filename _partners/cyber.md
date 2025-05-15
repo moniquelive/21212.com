@@ -18,4 +18,4 @@ Past experience:
 - Founder of nTime Mobile Solutions – 2001
 - Founder of WapTotal – 2000
 
-Check [http://linkedin.com/in/moniquelive/](http://linkedin.com/in/moniquelive/) for more details
+Check [https://www.linkedin.com/in/moniquelive/](https://www.linkedin.com/in/moniquelive/) for more details
